@@ -20,6 +20,7 @@
 
 ## 📬 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormartinsd/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-07b6d5?style=for-the-badge&logo=polywork&logoColor=white)](https://victormartinsd.github.io/portfolio-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victormartinsjob@gmail.com)
 ---
 *“A persistência é o caminho do êxito.”*
