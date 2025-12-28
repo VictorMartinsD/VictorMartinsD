@@ -15,9 +15,20 @@
   
 ## 📈 No meu radar
 - [X] HTML5 e CSS3 (Layouts Responsivos e Semântica)
-- [⏳] Reforço de JavaScript Moderno (ES6+)
+- [ ] ⏳ Reforço de JavaScript Moderno (ES6+)
 - [ ] Bibliotecas Front-end (React/Next.js)
 
+## ⚙️ Meu Workflow de Desenvolvimento
+Para garantir qualidade e velocidade nos meus estudos e futuros projetos, utilizo um ecossistema padronizado:
+```mermaid
+graph LR
+    A[Template Base] --> B[Dev Ativo]
+    B --> C[Prettier]
+    C --> D[Git/GitHub]
+    
+    style A fill:#007ACC,color:#fff
+    style D fill:#181717,color:#fff
+```
 ## 📬 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormartinsd/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-07b6d5?style=for-the-badge&logo=polywork&logoColor=white)](https://victormartinsd.github.io/portfolio-dev/)
