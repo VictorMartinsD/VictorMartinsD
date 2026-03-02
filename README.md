@@ -2,17 +2,24 @@
 
 <!-- Header Animado -->
 <div align="center">
+  
 <img width="1000px" src="https://capsule-render.vercel.app/api?type=waving&color=0:001233,25:002855,50:0056b3,75:002855,100:001233&height=200&section=header&text=Victor%20Martins%20Dias&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web&descAlignY=55&descSize=18"/>
 
+</div>
+
 <!-- Typing Effect Profissional -->
+<div align="center">
+  
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0056B3&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+em+constante+evolução;Evoluindo+no+ecossistema+JavaScript;Construindo+interfaces+modernas;Engenharia+de+Prompt+aplicada+ao+Dev;Otimizando+código+com+o+poder+da+I.A." alt="Typing SVG" />
 </a>
+
 <br><br>
 </div>
 
 <!-- Social Badges -->
 <div align="center">
+  
 <a href="https://www.linkedin.com/in/victormartinsd/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -22,6 +29,7 @@
 <a href="https://victormartinsd.github.io/portfolio-dev/">
   <img src="https://img.shields.io/badge/Portfólio-0056B3?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfólio"/>
 </a>
+
 </div>
 <br><br>
 
@@ -33,30 +41,34 @@
   <img src="https://komarev.com/ghpvc/?username=VictorMartinsD&color=0056B3&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações"/>
 
 <br>
+</div>
 
+<!-- Menu de Navegação Rápida -->
 <div align="center">
+  
   <table align="center">
     <tr>
-      <td align="center"><a href="#sobre"><kbd> <br> Sobre <br> </kbd></a></td>
-      <td align="center"><a href="#toolbox"><kbd> <br> Toolbox <br> </kbd></a></td>
-      <td align="center"><a href="#expertise"><kbd> <br> Skills <br> </kbd></a></td>
-      <td align="center"><a href="#certificados"><kbd> <br> Diplomas <br> </kbd></a></td>
+      <td align="center"><a href="#sobre"><kbd> <br> Sobre <br> </kbd></a></td>
+      <td align="center"><a href="#toolbox"><kbd> <br> Toolbox <br> </kbd></a></td>
+      <td align="center"><a href="#expertise"><kbd> <br> Skills <br> </kbd></a></td>
+      <td align="center"><a href="#certificados"><kbd> <br> Diplomas <br> </kbd></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="#projetos"><kbd> <br> Projetos <br> </kbd></a></td>
-      <td align="center"><a href="#stats"><kbd> <br> Stats <br> </kbd></a></td>
-      <td align="center"><a href="#carreira"><kbd> <br> Carreira <br> </kbd></a></td>
-      <td align="center"><a href="#contato"><kbd> <br> Contato <br> </kbd></a></td>
+      <td align="center"><a href="#projetos"><kbd> <br> Projetos <br> </kbd></a></td>
+      <td align="center"><a href="#stats"><kbd> <br> Stats <br> </kbd></a></td>
+      <td align="center"><a href="#carreira"><kbd> <br> Carreira <br> </kbd></a></td>
+      <td align="center"><a href="#contato"><kbd> <br> Contato <br> </kbd></a></td>
     </tr>
   </table>
-</div>
-</div>
 
+</div>
 <br>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<!-- Sobre Mim (Objeto JS) -->
 <a name="sobre"></a>
+
 ## 👤 Sobre Mim
 
 ```javascript
@@ -83,6 +95,7 @@ const victor = {
 
 ---
 
+<!-- Toolbox e Tecnologias -->
 <div align="center">
 <a name="toolbox"></a>
   
@@ -116,16 +129,19 @@ const victor = {
 </table>
 
 ### 🚀 Versionamento e Deploy
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
 
 ### 🛠️ Design & Ferramentas
+
 <p>
   <img src="https://skillicons.dev/icons?i=figma,vscode,notion,discord&theme=dark" />
 </p>
 
 ### ⚙️ Suporte & Produtividade Extra
+
 <p>
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black">
   <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=flat-square&logo=github&logoColor=white">
@@ -140,6 +156,7 @@ const victor = {
 </p>
 
 ### 💡 Competências & Diferenciais
+
 <p>
   <img src="https://img.shields.io/badge/Lógica_de_Programação-001233?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/Design_Responsivo-002855?style=for-the-badge&logo=responsive-design&logoColor=white"/>
@@ -149,21 +166,29 @@ const victor = {
   <img src="https://img.shields.io/badge/Inglês_B1-003366?style=for-the-badge&logo=google-translate&logoColor=white"/>
 </p>
 
+</div>
+
 ---
 
+<!-- Roadmaps e Objetivos Futuros -->
+<div align="center">
+  
 ## 🎯 Próximos Objetivos de Estudo
+
 *Mapeando a evolução para frameworks modernos e integração de dados.*
 
   <img src="https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,mysql&theme=dark" />
 
   <sub>Planejamento focado em <b>TypeScript</b>, <b>React</b> e fundamentos de <b>Backend</b> para expandir a capacidade de entrega no ecossistema JavaScript.</sub>
+  
 </div>
 
 ---
 
+<!-- Gráfico de Skills e Proficiência -->
 <div align="center">
-  
 <a name="expertise"></a>
+  
 ## 📊 Expertise & Diferenciais
 
 | Área de Atuação | Proficiência | Aplicação Prática & Destaques |
@@ -175,16 +200,19 @@ const victor = {
 | **Engenharia de Prompt** | ██████████████░░░░░░░ 70% | **I.A. Estratégica:** Otimização de fluxo de trabalho, debug e produtividade no código. |
 
 <br>
+</div>
 
 ---
 
+<!-- Diplomas e Certificações (Galeria) -->
+<div align="center">
 <a name="certificados"></a>
+  
 ## 🏆 Achievements & Certifications
 
-<div align="center">
   <img src="https://github.com/user-attachments/assets/9d8c35e2-80b8-4775-8d3d-0135fe8ec575" alt="Bacharel em Sistemas de Informação" width="850" />
+  
 </div>
-
 <br>
 
 <table align="center" border="0">
@@ -225,7 +253,10 @@ const victor = {
 
 ---
 
+<!-- Projetos em Destaque -->
+<div align="center">
 <a name="projetos"></a>
+
 ## 🚀 Projetos em Destaque
 
 <table width="100%">
@@ -280,22 +311,130 @@ const victor = {
       <a href="https://github.com/VictorMartinsD/portfolio-dev"><b>Ver Repositório →</b></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ Zingen Landing Page</h3>
+      <p><i>Design UI/UX & Landing Page</i></p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      <ul>
+        <li>Landing page de podcast com design moderno.</li>
+        <li>Uso avançado de seletores e estilização CSS.</li>
+      </ul>
+      <a href="https://github.com/VictorMartinsD/zingen"><b>Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 JS Learning Lab</h3>
+      <p><i>Lógica & Algoritmos com JavaScript</i></p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <ul>
+        <li>Exercícios práticos de fundamentos da linguagem.</li>
+        <li>Manipulação de elementos e lógica aplicada ao DOM.</li>
+      </ul>
+      <a href="https://github.com/VictorMartinsD/js-learning-lab"><b>Ver Repositório →</b></a>
+    </td>
+  </tr>
 </table>
+
+<details>
+  <summary><b>📂 Clique para expandir outros projetos relevantes</b></summary>
+  <br>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📚 Encantos Literários</h3>
+        <p><i>Motion Design & Interatividade</i></p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <ul>
+          <li>Animações fluidas e Responsividade (Media Queries).</li>
+          <li>Manipulação de classes via JS para estados de hover.</li>
+        </ul>
+        <a href="https://github.com/VictorMartinsD/encantos-literarios-motion"><b>Ver Repositório →</b></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🎧 Snitap Motion</h3>
+        <p><i>Landing Page & CSS Animations</i></p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <ul>
+          <li>Foco total em animações nativas de CSS.</li>
+          <li>Layout moderno com transições de interface imersivas.</li>
+        </ul>
+        <a href="https://github.com/VictorMartinsD/snitap-motion-landing-page"><b>Ver Repositório →</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📝 Formulário de Matrícula</h3>
+        <p><i>Estruturação de Dados & Acessibilidade</i></p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <ul>
+          <li>Formulário complexo com foco em semântica HTML.</li>
+          <li>Experiência de usuário (UX) aplicada a inputs.</li>
+        </ul>
+        <a href="https://github.com/VictorMartinsD/formulario-de-matricula"><b>Ver Repositório →</b></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>📰 Portal de Notícias</h3>
+        <p><i>CSS Nesting & Advanced Layout</i></p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <ul>
+          <li>Uso de CSS Nesting, Grid e Flexbox.</li>
+          <li>Arquitetura de conteúdo moderna e escalável.</li>
+        </ul>
+        <a href="https://github.com/VictorMartinsD/portal-de-noticias"><b>Ver Repositório →</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📸 Travelgram</h3>
+        <p><i>Social Feed UI & Responsividade</i></p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <ul>
+          <li>Interface de galeria de fotos estilo rede social.</li>
+          <li>Design responsivo com foco em dispositivos móveis.</li>
+        </ul>
+        <a href="https://github.com/VictorMartinsD/projeto-travelgram"><b>Ver Repositório →</b></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>📍 Local Turístico</h3>
+        <p><i>Informação & Guia Visual</i></p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <ul>
+          <li>Página informativa com componentes estruturados.</li>
+          <li>Foco em legibilidade e apresentação de destinos.</li>
+        </ul>
+        <a href="https://github.com/VictorMartinsD/local-turistico"><b>Ver Repositório →</b></a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+</div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/VictorMartinsD?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_Ver_Todos_os_Projetos-222222?style=for-the-badge&logoColor=white" height="35">
+    <img src="https://img.shields.io/badge/🔍_Ver_Todos_os_Projetos-222222?style=for-the-badge&logoColor=white" height="35">
   </a>
 </div>
 
 ---
 
+<!-- Métricas e Gráficos de Atividade (APIs) -->
 <a name="stats"></a>
-## 📊 Estatísticas e Atividade
-
 <div align="center">
+  
+## 📊 Estatísticas e Atividade
 
 ### 🔥 Sequência de Commits
   
@@ -305,7 +444,7 @@ const victor = {
 
   <br/>
 
-### 💻 Status do Perfil GitHub
+### 💻 Status do Perfil no GitHub
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="VictorMartinsD's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=VictorMartinsD&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=82AAFF&icon_color=82AAFF&text_color=82AAFF" height="192px"/>
@@ -314,9 +453,10 @@ const victor = {
     <img alt="VictorMartinsD's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VictorMartinsD&langs_count=8&layout=compact&hide_border=false&bg_color=000000&title_color=82AAFF&icon_color=82AAFF&text_color=82AAFF&hide=Jupyter%20Notebook,Roff&card_height=192" height="192px"/>
   </a>
 
-  <p>
-    <b>Nota:</b> A seção de "Linguagens mais usadas" é apenas uma métrica do código nos meus repositórios públicos e não reflete necessariamente meu nível de experiência ou habilidade.
-  </p>
+<p align="center">
+  <br>
+  <sub><b>Nota:</b> A seção de "Linguagens mais usadas" é uma métrica baseada em meus repositórios públicos, servindo como panorama estatístico e não como limitador de proficiência técnica.</sub>
+</p>
 
   <br/>
 
@@ -325,18 +465,23 @@ const victor = {
   </a>
 
 ### 📊 Atividade em 3D
-# [<img alt="3D Contri-Graph" src="profile-3d-contrib/profile-night-rainbow.svg" width="600">](https://github.com/VictorMartinsD)
+
+[<img alt="3D Contri-Graph" src="profile-3d-contrib/profile-night-rainbow.svg" width="600">](https://github.com/VictorMartinsD)
 </div>
 
 ---
 
+<!-- Objetivos de Carreira (Bloco YAML) -->
 <a name="carreira"></a>
+<div align="center">
+
 ## 🎯 Aberto a Oportunidades
 
+</div>
 <br>
-<table width="100%" border="0">
+<table width="90%" border="0">
   <tr>
-    <td width="60%" align="left" valign="top">
+    <td width="60%" valign="top">
 
 ```yaml
 buscando:
@@ -363,6 +508,7 @@ modelo_trabalho: [Remoto, Híbrido, Presencial]
 
 ---
 
+<!-- Canais de Contato e CTA -->
 <a name="contato"></a>
 <div align="center">
 <h1>
@@ -382,16 +528,19 @@ modelo_trabalho: [Remoto, Híbrido, Presencial]
 </a>
 <br><br>
 
-**📧 Email:** [victormartinsjob@gmail.com](mailto:victormartinsjob@gmail.com)  
+**📩 Email:** [victormartinsjob@gmail.com](mailto:victormartinsjob@gmail.com)  
 **📍 Disponível para trabalho: Remoto | Presencial | Híbrido**
 
 </div>
 
+<!-- Rodapé e Encerramento -->
 <div align="center">
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+  
+ ### "Linhas de código são invisíveis, mas o impacto que elas criam<br>na vida de quem as usa deve ser inesquecível."
 
-### *🌊 "Linhas de código são invisíveis, mas o impacto que elas criam na vida de quem as usa deve ser inesquecível."*
+<br>
 
 <p align="right">
   <a href="#top">
