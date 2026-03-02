@@ -15,6 +15,7 @@
 </a>
 
 <br><br>
+
 </div>
 
 <!-- Social Badges -->
@@ -36,9 +37,9 @@
 <!-- Contadores Profissionais -->
 <div align="center">
 
-  [![wakatime](https://wakatime.com/badge/user/9b6c8f48-1b50-43da-8c4a-c608e35762a8.svg)](https://wakatime.com/@9b6c8f48-1b50-43da-8c4a-c608e35762a8)
-  ![Lines of Code](https://img.shields.io/badge/Linhas_Escritas-Processando...-002855?style=flat-square&logo=wakatime&logoColor=white)
-  <img src="https://komarev.com/ghpvc/?username=VictorMartinsD&color=0056B3&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações"/>
+[![wakatime](https://wakatime.com/badge/user/9b6c8f48-1b50-43da-8c4a-c608e35762a8.svg)](https://wakatime.com/@9b6c8f48-1b50-43da-8c4a-c608e35762a8)
+![Lines of Code](https://img.shields.io/badge/Linhas_Escritas-Processando...-002855?style=flat-square&logo=wakatime&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=VictorMartinsD&color=0056B3&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações"/>
 
 <br>
 </div>
@@ -67,6 +68,7 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- Sobre Mim (Objeto JS) -->
+
 <a name="sobre"></a>
 
 ## 👤 Sobre Mim
@@ -80,16 +82,16 @@ const victor = {
 
   global_skills: {
     idioma: "Inglês (B1 - Intermediário)",
-    competencias: ["Tradução", "Documentação Técnica", "Comunicação ESL"]
+    competencias: ["Tradução", "Documentação Técnica", "Comunicação ESL"],
   },
 
   aprendendo_atualmente: [
     "Engenharia de Prompt & I.A. aplicada ao Dev",
     "Aprofundamento no Ecossistema JavaScript Moderno",
-    "Metodologias de Produtividade & Clean Code"
+    "Metodologias de Produtividade & Clean Code",
   ],
 
-  fun_fact: "Utilizando I.A. para otimizar o fluxo de desenvolvimento 🚀"
+  fun_fact: "Utilizando I.A. para otimizar o fluxo de desenvolvimento 🚀",
 };
 ```
 
@@ -175,12 +177,12 @@ const victor = {
   
 ## 🎯 Próximos Objetivos de Estudo
 
-*Mapeando a evolução para frameworks modernos e integração de dados.*
+_Mapeando a evolução para frameworks modernos e integração de dados._
 
   <img src="https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,mysql&theme=dark" />
 
-  <sub>Planejamento focado em <b>TypeScript</b>, <b>React</b> e fundamentos de <b>Backend</b> para expandir a capacidade de entrega no ecossistema JavaScript.</sub>
-  
+<sub>Planejamento focado em <b>TypeScript</b>, <b>React</b> e fundamentos de <b>Backend</b> para expandir a capacidade de entrega no ecossistema JavaScript.</sub>
+
 </div>
 
 ---
@@ -191,12 +193,12 @@ const victor = {
   
 ## 📊 Expertise & Diferenciais
 
-| Área de Atuação | Proficiência | Aplicação Prática & Destaques |
-|:----------------|:------------:|:-------------------|
-| **Desenvolvimento Web** | ████████████████████░ 95% | **HTML5/CSS3:** Foco em semântica, estrutura e SEO. |
-| **Lógica & JavaScript** | ██████████████████░░░ 85% | **ES6+:** Algoritmos eficientes, manipulação de DOM e escalabilidade. |
-| **Design Responsivo** | ██████████████████░░░ 85% | **UI/UX:** Interfaces adaptáveis (Mobile First) com Flexbox, Grid e Figma. |
-| **Inglês para Tech** | ████████████████░░░░░ 75% | **Nível B1:** Leitura de documentação técnica, tradução e comunicação ESL. |
+| Área de Atuação          |       Proficiência        | Aplicação Prática & Destaques                                                           |
+| :----------------------- | :-----------------------: | :-------------------------------------------------------------------------------------- |
+| **Desenvolvimento Web**  | ████████████████████░ 95% | **HTML5/CSS3:** Foco em semântica, estrutura e SEO.                                     |
+| **Lógica & JavaScript**  | ██████████████████░░░ 85% | **ES6+:** Algoritmos eficientes, manipulação de DOM e escalabilidade.                   |
+| **Design Responsivo**    | ██████████████████░░░ 85% | **UI/UX:** Interfaces adaptáveis (Mobile First) com Flexbox, Grid e Figma.              |
+| **Inglês para Tech**     | ████████████████░░░░░ 75% | **Nível B1:** Leitura de documentação técnica, tradução e comunicação ESL.              |
 | **Engenharia de Prompt** | ██████████████░░░░░░░ 70% | **I.A. Estratégica:** Otimização de fluxo de trabalho, debug e produtividade no código. |
 
 <br>
@@ -431,13 +433,15 @@ const victor = {
 ---
 
 <!-- Métricas e Gráficos de Atividade (APIs) -->
+
 <a name="stats"></a>
+
 <div align="center">
   
 ## 📊 Estatísticas e Atividade
 
 ### 🔥 Sequência de Commits
-  
+
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="GitHub Streak" alt="VictorMartinsD's streak" src="https://streak-stats.demolab.com/?user=VictorMartinsD&background=000000&border=82AAFF&stroke=82AAFF&ring=82AAFF&fire=82AAFF&currStreakNum=82AAFF&sideNums=82AAFF&currStreakLabel=82AAFF&sideLabels=82AAFF&dates=82AAFF&hide_border=false"/>
   </a>
@@ -467,19 +471,22 @@ const victor = {
 ### 📊 Atividade em 3D
 
 [<img alt="3D Contri-Graph" src="profile-3d-contrib/profile-night-rainbow.svg" width="600">](https://github.com/VictorMartinsD)
+
 </div>
 
 ---
 
 <!-- Objetivos de Carreira (Bloco YAML) -->
+
 <a name="carreira"></a>
+
 <div align="center">
 
 ## 🎯 Aberto a Oportunidades
 
 </div>
 <br>
-<table width="90%" border="0">
+<table width="80%" border="0">
   <tr>
     <td width="60%" valign="top">
 
@@ -488,7 +495,7 @@ buscando:
   - cargo: Desenvolvedor Web Júnior / Frontend (JavaScript)
   - tipo: Cargo Júnior
   - foco: Desenvolvimento Web, UI/UX, Engenharia de Prompt
-  
+
 interesses:
   - Desenvolvimento de interfaces modernas e responsivas
   - Automação e produtividade com I.A. (Engenharia de Prompt)
@@ -501,7 +508,7 @@ modelo_trabalho: [Remoto, Híbrido, Presencial]
 
    </td>
    <td width="40%" align="center" valign="middle">
-     <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Dev coding" width="300">
+     <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Dev coding" width="270">
    </td>
   </tr>
 </table>
@@ -509,7 +516,9 @@ modelo_trabalho: [Remoto, Híbrido, Presencial]
 ---
 
 <!-- Canais de Contato e CTA -->
+
 <a name="contato"></a>
+
 <div align="center">
 <h1>
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=5000&color=0056B3&center=true&vCenter=true&width=450&height=50&lines=%F0%9F%93%B2+Vamos+nos+conectar+%F0%9F%91%87%F0%9F%8F%BB" alt="📲 Vamos nos conectar 👇🏻" />
@@ -537,8 +546,8 @@ modelo_trabalho: [Remoto, Híbrido, Presencial]
 <div align="center">
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-  
- ### "Linhas de código são invisíveis, mas o impacto que elas criam<br>na vida de quem as usa deve ser inesquecível."
+
+### "Linhas de código são invisíveis, mas o impacto que elas criam<br>na vida de quem as usa deve ser inesquecível."
 
 <br>
 
