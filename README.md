@@ -22,7 +22,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/victormartinsd/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/VictorMartinsD">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -38,7 +38,7 @@
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/9b6c8f48-1b50-43da-8c4a-c608e35762a8.svg)](https://wakatime.com/@9b6c8f48-1b50-43da-8c4a-c608e35762a8)
-<img src="https://komarev.com/ghpvc/?username=VictorMartinsD&color=0056B3&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações"/>
+<img src="https://komarev.com/ghpvc/?username=VictorMartinsD&color=0056B3&style=flat-square&label=%F0%9F%91%81%EF%B8%8F+Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Visualizações"/>
 
 <br>
 </div>
@@ -149,8 +149,8 @@ const victor = {
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white">
   <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=flat-square&logo=obs-studio&logoColor=white">
@@ -160,8 +160,8 @@ const victor = {
 
 <p>
   <img src="https://img.shields.io/badge/Lógica_de_Programação-001233?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design_Responsivo-002855?style=for-the-badge&logo=responsive-design&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Engenharia_de_Prompt-0056B3?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%B1%20Design_Responsivo-002855?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Engenharia_de_Prompt-0056B3?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Desenvolvimento_Assistido_(IA)-007ACC?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
   <img src="https://img.shields.io/badge/UI/UX_Design-001F3F?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Inglês_B1-003366?style=for-the-badge&logo=google-translate&logoColor=white"/>
@@ -283,7 +283,7 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
 <div align="center">
   <br>
   <a href="https://www.linkedin.com/in/victormartinsd/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_todas_as_certificações_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Ver_todas_as_certificacoes_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -567,7 +567,7 @@ modelo_trabalho: [Remoto, Híbrido, Presencial]
 **Explore as diferentes camadas do meu desenvolvimento:**
 
 <a href="https://www.linkedin.com/in/victormartinsd/">
-  <img src="https://img.shields.io/badge/Jornada_Profissional-001233?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Jornada_Profissional-001233?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
 <a href="https://github.com/VictorMartinsD">
   <img src="https://img.shields.io/badge/Repositórios_de_Código-002855?style=for-the-badge&logo=github&logoColor=white" height="35"/>
