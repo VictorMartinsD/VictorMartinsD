@@ -221,13 +221,13 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
     <td align="center" valign="top" width="220">
       <a href="https://consultadiploma.estacio.br/diploma/163.163.1921d345a70e" target="_blank">
         <img src="https://github.com/user-attachments/assets/af6ab0ff-dc2d-40f0-87df-e58450fc897d" width="200" alt="Bacharel SI"/><br>
-        <sub><b>Bacharel em S.I.</b><br>Estácio</sub>
+        <sub><b>Barcharel em Sistemas de Informação</b><br>Estácio</sub>
       </a>
     </td>
     <td align="center" valign="top" width="220">
       <a href="https://app.rocketseat.com.br/certificates/4100a3ab-fa10-4b5d-b74d-0d7a7048d5f8" target="_blank">
         <img src="https://github.com/user-attachments/assets/756a2ca9-e551-4e41-b02d-46defa11a27b" width="200" alt="HTML/CSS Rocketseat"/><br>
-        <sub><b>Fundamentos Web</b><br>Rocketseat</sub>
+        <sub><b>Fundamentos de HTML e CSS</b><br>Rocketseat</sub>
       </a>
     </td>
     <td align="center" valign="top" width="220">
@@ -246,9 +246,44 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
 </table>
 
 <div align="center">
+<details>
+  <summary align="center"><b>📂 Clique para expandir outros certificados relevantes</b></summary>
+  <br>
+  <table align="center" border="0">
+    <tr>
+      <td align="center" valign="top" width="220">
+        <a href="https://app.rocketseat.com.br/certificates/faf321bf-b930-4fb8-b876-98361bd1a4fa" target="_blank">
+          <img src="https://github.com/user-attachments/assets/226aaa5d-3a17-4fb0-98eb-9c951742d58d" width="200" alt="Engenharia de Prompt"/><br>
+          <sub><b>Engenharia de Prompt</b><br>Rocketseat</sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="220">
+        <a href="https://app.rocketseat.com.br/certificates/f868f4fd-6055-4e7f-b103-f195f8216f60" target="_blank">
+          <img src="https://github.com/user-attachments/assets/4dc7e838-d8cf-4fc1-a326-a033e9c0e71e" width="200" alt="Mentoria de Carreira: Processos Seletivos na Rocketseat"/><br>
+          <sub><b>Mentoria de Carreira</b><br>Rocketseat</sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="220">
+        <a href="https://www.linkedin.com/in/victormartinsd/overlay/Position/1312780318/treasury/?profileId=ACoAACUx_T0BZVBdW3GUllnwWrTOAiyfSyKC6Us" target="_blank">
+          <img src="https://github.com/user-attachments/assets/1b6acacb-dcb4-42e4-b46f-08c42b76dae7" width="200" alt="Estágio de Nível Superior no INSS"/><br>
+          <sub><b>Estágio de Nível Superior</b><br>Instituto Nacional do Seguro Social (INSS)</sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="220">
+        <a href="https://www.linkedin.com/in/victormartinsd/overlay/Certifications/1249209268/treasury/?profileId=ACoAACUx_T0BZVBdW3GUllnwWrTOAiyfSyKC6Us" target="_blank">
+          <img src="https://github.com/user-attachments/assets/d116eee0-065a-4039-974a-b172d62dcb7f" width="200" alt="Técnico em Informática"/><br>
+          <sub><b>Técnico em Informática</b><br>Instituto Educacional Imaculada Conceição</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
+</div>
+
+<div align="center">
   <br>
   <a href="https://www.linkedin.com/in/victormartinsd/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_outras_certificações_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ver_todas_as_certificações_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
