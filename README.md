@@ -2,14 +2,14 @@
 
 <!-- Header Animado -->
 <div align="center">
-  
+
 <img width="1000px" src="https://capsule-render.vercel.app/api?type=waving&color=0:001233,25:002855,50:0056b3,75:002855,100:001233&height=200&section=header&text=Victor%20Martins%20Dias&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web&descAlignY=55&descSize=18"/>
 
 </div>
 
 <!-- Typing Effect Profissional -->
 <div align="center">
-  
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0056B3&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+em+constante+evolução;Evoluindo+no+ecossistema+JavaScript;Construindo+interfaces+modernas;Engenharia+de+Prompt+aplicada+ao+Dev;Otimizando+código+com+o+poder+da+I.A." alt="Typing SVG" />
 </a>
@@ -20,7 +20,7 @@
 
 <!-- Social Badges -->
 <div align="center">
-  
+
 <a href="https://www.linkedin.com/in/victormartinsd/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -38,7 +38,6 @@
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/9b6c8f48-1b50-43da-8c4a-c608e35762a8.svg)](https://wakatime.com/@9b6c8f48-1b50-43da-8c4a-c608e35762a8)
-![Lines of Code](https://img.shields.io/badge/Linhas_Escritas-Processando...-002855?style=flat-square&logo=wakatime&logoColor=white)
 <img src="https://komarev.com/ghpvc/?username=VictorMartinsD&color=0056B3&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações"/>
 
 <br>
@@ -46,7 +45,7 @@
 
 <!-- Menu de Navegação Rápida -->
 <div align="center">
-  
+
   <table align="center">
     <tr>
       <td align="center"><a href="#sobre"><kbd> <br> Sobre <br> </kbd></a></td>
@@ -100,7 +99,7 @@ const victor = {
 <!-- Toolbox e Tecnologias -->
 <div align="center">
 <a name="toolbox"></a>
-  
+
 ## 🛠️ Toolbox & Tecnologias
 
 ### 👨‍💻 Desenvolvimento Core & Frontend
@@ -174,7 +173,7 @@ const victor = {
 
 <!-- Roadmaps e Objetivos Futuros -->
 <div align="center">
-  
+
 ## 🎯 Próximos Objetivos de Estudo
 
 _Mapeando a evolução para frameworks modernos e integração de dados._
@@ -190,7 +189,7 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
 <!-- Gráfico de Skills e Proficiência -->
 <div align="center">
 <a name="expertise"></a>
-  
+
 ## 📊 Expertise & Diferenciais
 
 | Área de Atuação          |       Proficiência        | Aplicação Prática & Destaques                                                           |
@@ -209,11 +208,11 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
 <!-- Diplomas e Certificações (Galeria) -->
 <div align="center">
 <a name="certificados"></a>
-  
+
 ## 🏆 Achievements & Certifications
 
   <img src="https://github.com/user-attachments/assets/9d8c35e2-80b8-4775-8d3d-0135fe8ec575" alt="Bacharel em Sistemas de Informação" width="850" />
-  
+
 </div>
 <br>
 
@@ -264,78 +263,83 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3>🎬 Viral Cutter</h3>
+      <p><i>AI-Powered Video Analysis & Automation</i></p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+      <ul>
+        <li>Integração com Google Gemini para análise de conteúdo.</li>
+        <li>Processamento automatizado de vídeos com Cloudinary.</li>
+        <li>Sistema de prompts reutilizáveis e tema claro/escuro.</li>
+      </ul>
+      <a href="https://github.com/VictorMartinsD/viral-cutter-ai"><b>Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>✉️ Formulário de Convite</h3>
       <p><i>Interatividade & Manipulação de DOM</i></p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
       <ul>
         <li>Validação dinâmica e feedback visual.</li>
         <li>Foco total em UX e usabilidade.</li>
       </ul>
       <a href="https://github.com/VictorMartinsD/formulario-de-convite"><b>Ver Repositório →</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🎮 Catálogo Geek</h3>
-      <p><i>Frontend & Organização de Conteúdo</i></p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <h3>🎮 Catálogo Geek</h3>
+        <p><i>Frontend & Organização de Conteúdo</i></p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
       <ul>
-        <li>Layout responsivo com estética moderna.</li>
-        <li>Estruturação de dados dinâmica.</li>
+          <li>Layout responsivo com estética moderna.</li>
+          <li>Estruturação de dados dinâmica.</li>
       </ul>
-      <a href="https://github.com/VictorMartinsD/catalogo-geek"><b>Ver Repositório →</b></a>
+        <a href="https://github.com/VictorMartinsD/catalogo-geek"><b>Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
+        <h3>📱 Rede Social</h3>
+        <p><i>Prototipagem & Mobile First</i></p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+      <ul>
+          <li>Design adaptável com Flexbox e Grid.</li>
+          <li>Simulação de interface realística.</li>
+      </ul>
+        <a href="https://github.com/VictorMartinsD/rede-social"><b>Ver Repositório →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Rede Social</h3>
-      <p><i>Prototipagem & Mobile First</i></p>
+        <h3>🎨 Portfólio Dev</h3>
+        <p><i>Showcase | Estrutura & Estilo</i></p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
       <ul>
-        <li>Design adaptável com Flexbox e Grid.</li>
-        <li>Simulação de interface realística.</li>
+          <li>Navegação semântica e legibilidade.</li>
+          <li>Propriedades modernas de layout CSS.</li>
       </ul>
-      <a href="https://github.com/VictorMartinsD/rede-social"><b>Ver Repositório →</b></a>
+        <a href="https://github.com/VictorMartinsD/portfolio-dev"><b>Ver Repositório →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 Portfólio Dev</h3>
-      <p><i>Showcase | Estrutura & Estilo</i></p>
+        <h3>🎙️ Zingen Landing Page</h3>
+        <p><i>Design UI/UX & Landing Page</i></p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
       <ul>
-        <li>Navegação semântica e legibilidade.</li>
-        <li>Propriedades modernas de layout CSS.</li>
+          <li>Landing page de podcast com design moderno.</li>
+          <li>Uso avançado de seletores e estilização CSS.</li>
       </ul>
-      <a href="https://github.com/VictorMartinsD/portfolio-dev"><b>Ver Repositório →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ Zingen Landing Page</h3>
-      <p><i>Design UI/UX & Landing Page</i></p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-      <ul>
-        <li>Landing page de podcast com design moderno.</li>
-        <li>Uso avançado de seletores e estilização CSS.</li>
-      </ul>
-      <a href="https://github.com/VictorMartinsD/zingen"><b>Ver Repositório →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 JS Learning Lab</h3>
-      <p><i>Lógica & Algoritmos com JavaScript</i></p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      <ul>
-        <li>Exercícios práticos de fundamentos da linguagem.</li>
-        <li>Manipulação de elementos e lógica aplicada ao DOM.</li>
-      </ul>
-      <a href="https://github.com/VictorMartinsD/js-learning-lab"><b>Ver Repositório →</b></a>
+        <a href="https://github.com/VictorMartinsD/zingen"><b>Ver Repositório →</b></a>
     </td>
   </tr>
 </table>
@@ -346,75 +350,76 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3>📚 Encantos Literários</h3>
-        <p><i>Motion Design & Interatividade</i></p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+          <h3>🧪 JS Learning Lab</h3>
+          <p><i>Lógica & Algoritmos com JavaScript</i></p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <ul>
-          <li>Animações fluidas e Responsividade (Media Queries).</li>
-          <li>Manipulação de classes via JS para estados de hover.</li>
+            <li>Exercícios práticos de fundamentos da linguagem.</li>
+            <li>Manipulação de elementos e lógica aplicada ao DOM.</li>
         </ul>
-        <a href="https://github.com/VictorMartinsD/encantos-literarios-motion"><b>Ver Repositório →</b></a>
+          <a href="https://github.com/VictorMartinsD/js-learning-lab"><b>Ver Repositório →</b></a>
       </td>
       <td width="50%" valign="top">
-        <h3>🎧 Snitap Motion</h3>
-        <p><i>Landing Page & CSS Animations</i></p>
+          <h3>📚 Encantos Literários</h3>
+          <p><i>Motion Design & Interatividade</i></p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <ul>
-          <li>Foco total em animações nativas de CSS.</li>
-          <li>Layout moderno com transições de interface imersivas.</li>
+            <li>Animações fluidas e Responsividade (Media Queries).</li>
+            <li>Manipulação de classes via JS para estados de hover.</li>
         </ul>
-        <a href="https://github.com/VictorMartinsD/snitap-motion-landing-page"><b>Ver Repositório →</b></a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>📝 Formulário de Matrícula</h3>
-        <p><i>Estruturação de Dados & Acessibilidade</i></p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-        <ul>
-          <li>Formulário complexo com foco em semântica HTML.</li>
-          <li>Experiência de usuário (UX) aplicada a inputs.</li>
-        </ul>
-        <a href="https://github.com/VictorMartinsD/formulario-de-matricula"><b>Ver Repositório →</b></a>
-      </td>
-      <td width="50%" valign="top">
-        <h3>📰 Portal de Notícias</h3>
-        <p><i>CSS Nesting & Advanced Layout</i></p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-        <ul>
-          <li>Uso de CSS Nesting, Grid e Flexbox.</li>
-          <li>Arquitetura de conteúdo moderna e escalável.</li>
-        </ul>
-        <a href="https://github.com/VictorMartinsD/portal-de-noticias"><b>Ver Repositório →</b></a>
+          <a href="https://github.com/VictorMartinsD/encantos-literarios-motion"><b>Ver Repositório →</b></a>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3>📸 Travelgram</h3>
-        <p><i>Social Feed UI & Responsividade</i></p>
+          <h3>🎧 Snitap Motion</h3>
+          <p><i>Landing Page & CSS Animations</i></p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <ul>
-          <li>Interface de galeria de fotos estilo rede social.</li>
-          <li>Design responsivo com foco em dispositivos móveis.</li>
+            <li>Foco total em animações nativas de CSS.</li>
+            <li>Layout moderno com transições de interface imersivas.</li>
         </ul>
-        <a href="https://github.com/VictorMartinsD/projeto-travelgram"><b>Ver Repositório →</b></a>
+          <a href="https://github.com/VictorMartinsD/snitap-motion-landing-page"><b>Ver Repositório →</b></a>
       </td>
       <td width="50%" valign="top">
-        <h3>📍 Local Turístico</h3>
-        <p><i>Informação & Guia Visual</i></p>
+          <h3>📝 Formulário de Matrícula</h3>
+          <p><i>Estruturação de Dados & Acessibilidade</i></p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <ul>
-          <li>Página informativa com componentes estruturados.</li>
-          <li>Foco em legibilidade e apresentação de destinos.</li>
+            <li>Formulário complexo com foco em semântica HTML.</li>
+            <li>Experiência de usuário (UX) aplicada a inputs.</li>
         </ul>
-        <a href="https://github.com/VictorMartinsD/local-turistico"><b>Ver Repositório →</b></a>
+          <a href="https://github.com/VictorMartinsD/formulario-de-matricula"><b>Ver Repositório →</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+          <h3>📰 Portal de Notícias</h3>
+          <p><i>CSS Nesting & Advanced Layout</i></p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+        <ul>
+            <li>Uso de CSS Nesting, Grid e Flexbox.</li>
+            <li>Arquitetura de conteúdo moderna e escalável.</li>
+        </ul>
+          <a href="https://github.com/VictorMartinsD/portal-de-noticias"><b>Ver Repositório →</b></a>
+      </td>
+      <td width="50%" valign="top">
+          <h3>📸 Travelgram</h3>
+          <p><i>Social Feed UI & Responsividade</i></p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+        <ul>
+            <li>Interface de galeria de fotos estilo rede social.</li>
+            <li>Design responsivo com foco em dispositivos móveis.</li>
+        </ul>
+          <a href="https://github.com/VictorMartinsD/projeto-travelgram"><b>Ver Repositório →</b></a>
       </td>
     </tr>
   </table>
@@ -437,7 +442,7 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
 <a name="stats"></a>
 
 <div align="center">
-  
+
 ## 📊 Estatísticas e Atividade
 
 ### 🔥 Sequência de Commits
@@ -537,7 +542,7 @@ modelo_trabalho: [Remoto, Híbrido, Presencial]
 </a>
 <br><br>
 
-**📩 Email:** [victormartinsjob@gmail.com](mailto:victormartinsjob@gmail.com)  
+**📩 Email:** [victormartinsjob@gmail.com](mailto:victormartinsjob@gmail.com)
 **📍 Disponível para trabalho: Remoto | Presencial | Híbrido**
 
 </div>
@@ -559,7 +564,7 @@ modelo_trabalho: [Remoto, Híbrido, Presencial]
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001233,25:002855,50:0056b3,75:002855,100:001233&height=120&section=footer"/>
 
-`🛠️ Arquitetado com rigor técnico e visão humana.`  
+`🛠️ Arquitetado com rigor técnico e visão humana.`
 <sub>**Ecossistema atualizado em Março de 2026.**</sub>
 
 </div>
