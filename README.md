@@ -131,9 +131,16 @@ const victor = {
 
 ### 🚀 Versionamento e Deploy
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-</p>
+<table align="center">
+  <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+    <br>Github
+  </td>
+  <td align="center" width="96"> 
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+    <br>Git
+  </td>
+</table>
 
 ### 🛠️ Design & Ferramentas
 
@@ -178,7 +185,28 @@ const victor = {
 
 _Mapeando a evolução para frameworks modernos e integração de dados._
 
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,mysql&theme=dark" />
+<table align="center">
+  <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+    <br>TypeScript
+  </td>
+  <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+    <br>React
+  </td>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+    <br>Tailwind
+  </td>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+    <br>Node.js
+  </td>
+  <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+    <br>MySQL
+  </td>
+</table>
 
 <sub>Planejamento focado em <b>TypeScript</b>, <b>React</b> e fundamentos de <b>Backend</b> para expandir a capacidade de entrega no ecossistema JavaScript.</sub>
 
