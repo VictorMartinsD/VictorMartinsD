@@ -136,7 +136,7 @@ const victor = {
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
     <br>Github
   </td>
-  <td align="center" width="96"> 
+  <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
     <br>Git
   </td>
@@ -343,6 +343,23 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
       <a href="https://github.com/VictorMartinsD/viral-cutter-ai"><b>Ver Repositório →</b></a>
     </td>
     <td width="50%" valign="top">
+      <h3>💱 Convert Money</h3>
+      <p><i>Conversor de Moedas em Tempo Real</i></p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+      <img src="https://img.shields.io/badge/%E2%87%84%20ExchangeRate--API-1A73E8?style=flat-square&logoColor=white">
+      <ul>
+        <li>Conversão bidirecional com atualização instantânea entre moedas.</li>
+        <li>Integração com API de câmbio e fallback local para resiliência.</li>
+        <li>Validação de entrada e interface responsiva com foco em UX.</li>
+      </ul>
+      <a href="https://github.com/VictorMartinsD/convert-money"><b>Ver Repositório →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>✉️ Formulário de Convite</h3>
       <p><i>Interatividade & Manipulação de DOM</i></p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -353,6 +370,18 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         <li>Foco total em UX e usabilidade.</li>
       </ul>
       <a href="https://github.com/VictorMartinsD/formulario-de-convite"><b>Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
+        <h3>📚 Encantos Literários</h3>
+        <p><i>Motion Design & Interatividade</i></p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+      <ul>
+            <li>Animações fluidas e Responsividade (Media Queries).</li>
+            <li>Manipulação de classes via JS para estados de hover.</li>
+      </ul>
+          <a href="https://github.com/VictorMartinsD/encantos-literarios-motion"><b>Ver Repositório →</b></a>
     </td>
   </tr>
   <tr>
@@ -381,30 +410,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         <a href="https://github.com/VictorMartinsD/rede-social"><b>Ver Repositório →</b></a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-        <h3>🎨 Portfólio Dev</h3>
-        <p><i>Showcase | Estrutura & Estilo</i></p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-      <ul>
-          <li>Navegação semântica e legibilidade.</li>
-          <li>Propriedades modernas de layout CSS.</li>
-      </ul>
-        <a href="https://github.com/VictorMartinsD/portfolio-dev"><b>Ver Repositório →</b></a>
-    </td>
-    <td width="50%" valign="top">
-        <h3>🎙️ Zingen Landing Page</h3>
-        <p><i>Design UI/UX & Landing Page</i></p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-      <ul>
-          <li>Landing page de podcast com design moderno.</li>
-          <li>Uso avançado de seletores e estilização CSS.</li>
-      </ul>
-        <a href="https://github.com/VictorMartinsD/zingen"><b>Ver Repositório →</b></a>
-    </td>
-  </tr>
 </table>
 
 <details>
@@ -412,6 +417,17 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
   <br>
   <table width="100%">
     <tr>
+      <td width="50%" valign="top">
+          <h3>🎨 Portfólio Dev</h3>
+          <p><i>Showcase | Estrutura & Estilo</i></p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+        <ul>
+            <li>Navegação semântica e legibilidade.</li>
+            <li>Propriedades modernas de layout CSS.</li>
+        </ul>
+          <a href="https://github.com/VictorMartinsD/portfolio-dev"><b>Ver Repositório →</b></a>
+      </td>
       <td width="50%" valign="top">
           <h3>🧪 JS Learning Lab</h3>
           <p><i>Lógica & Algoritmos com JavaScript</i></p>
@@ -424,20 +440,19 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
           <a href="https://github.com/VictorMartinsD/js-learning-lab"><b>Ver Repositório →</b></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
-          <h3>📚 Encantos Literários</h3>
-          <p><i>Motion Design & Interatividade</i></p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+          <h3>🎙️ Zingen Landing Page</h3>
+          <p><i>Design UI/UX & Landing Page</i></p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <ul>
-            <li>Animações fluidas e Responsividade (Media Queries).</li>
-            <li>Manipulação de classes via JS para estados de hover.</li>
+            <li>Landing page de podcast com design moderno.</li>
+            <li>Uso avançado de seletores e estilização CSS.</li>
         </ul>
-          <a href="https://github.com/VictorMartinsD/encantos-literarios-motion"><b>Ver Repositório →</b></a>
+          <a href="https://github.com/VictorMartinsD/zingen"><b>Ver Repositório →</b></a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
           <h3>🎧 Snitap Motion</h3>
           <p><i>Landing Page & CSS Animations</i></p>
@@ -449,6 +464,8 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
           <a href="https://github.com/VictorMartinsD/snitap-motion-landing-page"><b>Ver Repositório →</b></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
           <h3>📝 Formulário de Matrícula</h3>
           <p><i>Estruturação de Dados & Acessibilidade</i></p>
@@ -460,8 +477,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
           <a href="https://github.com/VictorMartinsD/formulario-de-matricula"><b>Ver Repositório →</b></a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
           <h3>📰 Portal de Notícias</h3>
           <p><i>CSS Nesting & Advanced Layout</i></p>
@@ -472,17 +487,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
             <li>Arquitetura de conteúdo moderna e escalável.</li>
         </ul>
           <a href="https://github.com/VictorMartinsD/portal-de-noticias"><b>Ver Repositório →</b></a>
-      </td>
-      <td width="50%" valign="top">
-          <h3>📸 Travelgram</h3>
-          <p><i>Social Feed UI & Responsividade</i></p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-        <ul>
-            <li>Interface de galeria de fotos estilo rede social.</li>
-            <li>Design responsivo com foco em dispositivos móveis.</li>
-        </ul>
-          <a href="https://github.com/VictorMartinsD/projeto-travelgram"><b>Ver Repositório →</b></a>
       </td>
     </tr>
   </table>
