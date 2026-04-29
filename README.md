@@ -74,23 +74,23 @@
 
 ```javascript
 const victor = {
-  nome: "Victor Martins Dias",
-  foco_atuação: "Desenvolvedor Web Frontend | JavaScript Enthusiast",
+  nome: 'Victor Martins Dias',
+  foco_atuação: 'Desenvolvedor Web Frontend | JavaScript Enthusiast',
 
-  objetivo_profissional: "Junior Web Developer",
+  objetivo_profissional: 'Junior Web Developer',
 
   global_skills: {
-    idioma: "Inglês (B1 - Intermediário)",
-    competencias: ["Tradução", "Documentação Técnica", "Comunicação ESL"],
+    idioma: 'Inglês (B1 - Intermediário)',
+    competencias: ['Tradução', 'Documentação Técnica', 'Comunicação ESL'],
   },
 
   aprendendo_atualmente: [
-    "Engenharia de Prompt & I.A. aplicada ao Dev",
-    "Aprofundamento no Ecossistema JavaScript Moderno",
-    "Metodologias de Produtividade & Clean Code",
+    'Engenharia de Prompt & I.A. aplicada ao Dev',
+    'Aprofundamento no Ecossistema JavaScript Moderno',
+    'Metodologias de Produtividade & Clean Code',
   ],
 
-  fun_fact: "Utilizando I.A. para otimizar o fluxo de desenvolvimento 🚀",
+  fun_fact: 'Utilizando I.A. para otimizar o fluxo de desenvolvimento 🚀',
 };
 ```
 
@@ -338,9 +338,8 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
       <img src="https://img.shields.io/badge/LocalStorage-4CAF50?style=flat-square&logo=android&logoColor=white">
       <ul>
         <li>Integração cliente <code>Cloudinary + Gemini</code> para extração automática de clipes (sem backend).</li>
-        <li>Polling robusto com feedback de status durante transcrição e geração.</li>
-        <li>CRUD de prompts e perfis em <code>localStorage</code> para experimentação rápida.</li>
-        <li>Arquitetura modular ES6, API mockável e chaves versionadas.</li>
+        <li>Polling robusto com feedback de status em tempo real.</li>
+        <li>CRUD de prompts e perfis em <code>localStorage</code> com arquitetura modular ES6.</li>
       </ul>
       <a href="https://github.com/VictorMartinsD/viral-cutter-ai"><b>Ver Repositório →</b></a>
     </td>
@@ -353,10 +352,9 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
       <img src="https://img.shields.io/badge/LocalStorage-4CAF50?style=flat-square&logo=android&logoColor=white">
       <ul>
-        <li>Arquitetura modular ES6 com gerenciamento de estado centralizado.</li>
-        <li>Persistência de dados via <code>localStorage</code> com sistema de versionamento.</li>
-        <li>Interface responsiva com tema claro/escuro e modo de foco.</li>
-        <li>Sistema de importação/exportação e organização por categorias.</li>
+        <li>Gerenciamento de estado centralizado com persistência e versionamento em <code>localStorage</code>.</li>
+        <li>Interface responsiva com tema claro/escuro, organização por categorias e importação/exportação.</li>
+        <li>Arquitetura modular ES6 escalável.</li>
       </ul>
       <a href="https://github.com/VictorMartinsD/quicklist-app"><b>Ver Repositório →</b></a>
     </td>
@@ -372,10 +370,9 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
       <img src="https://img.shields.io/badge/LocalStorage-4CAF50?style=flat-square&logo=android&logoColor=white">
       <img src="https://img.shields.io/badge/%E2%87%84%20ExchangeRate--API-1A73E8?style=flat-square&logoColor=white">
       <ul>
-        <li>Testes unitários com <code>Vitest</code> cobrindo normalização, parsing e precisão da conversão.</li>
-        <li>Arquitetura resiliente: integração com <code>ExchangeRate API</code> e fallback local para operação offline.</li>
-        <li>Conversão via ponte BRL com normalização robusta (suporta vírgula/ponto e previne pares duplicados).</li>
-        <li>Pipeline de qualidade: <code>Vite, ESLint, Prettier, Husky</code> e <code>GitHub Actions</code>.</li>
+        <li>Testes unitários com <code>Vitest</code> para normalização, parsing e precisão.</li>
+        <li>Arquitetura resiliente com <code>ExchangeRate API</code> e fallback offline.</li>
+        <li>Pipeline de qualidade integrado: <code>Vite, ESLint, Prettier, Husky</code> e <code>GitHub Actions</code>.</li>
       </ul>
       <a href="https://github.com/VictorMartinsD/convert-money"><b>Ver Repositório →</b></a>
     </td>
@@ -387,10 +384,9 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
       <img src="https://img.shields.io/badge/LocalStorage-4CAF50?style=flat-square&logo=android&logoColor=white">
       <ul>
-        <li>Máscara de telefone inteligente: diferencia celular (99) 99999-9999 de fixo (99) 9999-9999.</li>
-        <li>Persistência automática com <code>localStorage</code>: auto-save de inputs (<code>text, radio, checkbox, datetime</code>) e restauração ao carregar.</li>
-        <li>Sistema de validação visual com feedback de erro: mensagens dinâmicas com ícones <code>SVG</code> e estados em tempo real.</li>
-        <li>Meta tags <code>Open Graph</code> integradas para otimização de compartilhamento em redes sociais.</li>
+        <li>Máscara de telefone inteligente diferenciando celular e fixo com persistência automática.</li>
+        <li>Validação visual em tempo real com feedback dinâmico e ícones <code>SVG</code>.</li>
+        <li>Auto-save de inputs com restauração ao carregar e otimização social (<code>Open Graph</code>).</li>
       </ul>
       <a href="https://github.com/VictorMartinsD/formulario-de-convite"><b>Ver Repositório →</b></a>
     </td>
@@ -403,10 +399,9 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
       <ul>
-        <li>CSS Variables com tipografia fluida (<code>clamp()</code>) e paleta semântica multi-tom para responsividade automática.</li>
-        <li>Animações CSS 3D: transformações combinadas (<code>rotate</code>, <code>translateX</code>, <code>translateY</code>) sincronizadas em keyframes.</li>
-        <li>SVG backgrounds com gradientes radiais compostos e overlays de pseudoelementos para depth visual.</li>
-        <li>Event listeners com <code>mouseenter</code> e flag <code>once: true</code> para trigger único e estados visuais.</li>
+        <li>Tipografia fluida com <code>clamp()</code> e Design System CSS Variables para responsividade automática.</li>
+        <li>Animações CSS 3D com transformações sincronizadas em keyframes.</li>
+        <li>SVG backgrounds com gradientes radiais e depth visual via pseudoelementos.</li>
       </ul>
       <a href="https://github.com/VictorMartinsD/encantos-literarios-motion"><b>Ver Repositório →</b></a>
     </td>
@@ -417,10 +412,9 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
       <ul>
-        <li>Catálogo montado em tempo real com <code>arrays</code> de objetos e criação manual de cards no <code>DOM</code>.</li>
-        <li>Separação automática por categoria, organizando <code>Paintings</code> e <code>Action Figures</code> no script.</li>
-        <li>Vitrines horizontais com <code>overflow-x</code> para navegação fluida entre mais itens.</li>
-        <li>Interface leve com cards padronizados e botões com estado de <code>hover</code>.</li>
+        <li>Catálogo dinâmico montado em tempo real com criação de cards no <code>DOM</code>.</li>
+        <li>Separação automática por categoria e vitrines horizontais com navegação fluida.</li>
+        <li>Interface responsiva com cards padronizados e interatividade em <code>hover</code>.</li>
       </ul>
       <a href="https://github.com/VictorMartinsD/catalogo-geek"><b>Ver Repositório →</b></a>
     </td>
@@ -439,10 +433,9 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <ul>
-          <li>Conteúdo centralizado em <code>database.js</code> para manutenção mais limpa.</li>
-          <li>Uso de <code>&lt;dialog&gt;</code> nativo para abrir e fechar posts sem dependências.</li>
-          <li>Botões de seguir com alternância de estado visual em tempo real.</li>
-          <li>Curtidas com contador dinâmico e troca imediata do ícone de coração.</li>
+          <li>Uso de <code>&lt;dialog&gt;</code> nativo para modal de posts sem dependências.</li>
+          <li>Interatividade dinâmica: botões de seguir com estado visual e curtidas com contador em tempo real.</li>
+          <li>Conteúdo centralizado em <code>database.js</code> para manutenção escalável.</li>
         </ul>
         <a href="https://github.com/VictorMartinsD/rede-social"><b>Ver Repositório →</b></a>
       </td>
@@ -452,10 +445,9 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <ul>
-          <li>Design System com <code>CSS Tokens</code>: tipografia escalável e paleta semântica centralizada.</li>
-          <li>Arquitetura CSS modular com <code>CSS Nesting</code> nativo: escalabilidade sem pré-processador.</li>
-          <li>Acessibilidade web: landmarks <code>HTML</code>, <code>aria-labelledby</code>, lazy loading e metadados <code>Open Graph/Twitter</code>.</li>
-          <li><code>SVG Sprite</code> centralizado para ícones: reduz requisições com animações CSS puras.</li>
+          <li>Design System com <code>CSS Tokens</code> e CSS Nesting nativo sem pré-processador.</li>
+          <li>Acessibilidade completa: landmarks <code>HTML</code>, <code>aria</code> attributes, lazy loading e metadados de redes sociais.</li>
+          <li><code>SVG Sprite</code> otimizado com animações CSS puras.</li>
         </ul>
         <a href="https://github.com/VictorMartinsD/portfolio-dev"><b>Ver Repositório →</b></a>
       </td>
@@ -468,10 +460,9 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <ul>
-          <li>Sistema de Repetição Espaçada integrado ao <code>Notion</code>: ciclo de revisão (dia 0, 1, 7, 30) para retenção de conhecimento.</li>
-          <li>Log de evolução documentado: erros e lacunas transformados em aprendizado consciente antes de correções.</li>
-          <li>Organização cronológica modular: pastas numeradas rastreando sequência de aprendizado.</li>
-          <li>Pipeline de qualidade automática: <code>Prettier + Husky + Lint-staged</code> garantindo consistência em commits de exercícios.</li>
+          <li>Sistema de Repetição Espaçada com <code>Notion</code>: ciclo de revisão (0, 1, 7, 30 dias) para retenção.</li>
+          <li>Log de evolução documentado transformando erros em aprendizado consciente.</li>
+          <li>Organização cronológica modular com pipeline de qualidade automática (<code>Prettier, Husky, Lint-staged</code>).</li>
         </ul>
         <a href="https://github.com/VictorMartinsD/js-learning-lab"><b>Ver Repositório →</b></a>
       </td>
@@ -481,10 +472,9 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <ul>
-          <li>Web Components customizados (<code>&lt;zin-pricing&gt;</code>) para componentes reutilizáveis e escaláveis.</li>
-          <li>CSS Nesting nativo com Design System: variáveis semânticas (cores, tipografia, espaçamentos) para manutenibilidade.</li>
-          <li>Semântica HTML5 com acessibilidade: <code>aria-label</code>, <code>role="list"</code> e navegação por âncoras.</li>
-          <li>Utility-First CSS puro: arquitetura escalável sem dependências externas (flexbox, grid, padding/margin classes).</li>
+          <li>Web Components customizados (<code>&lt;zin-pricing&gt;</code>) reutilizáveis e escaláveis.</li>
+          <li>Design System com CSS Nesting nativo e variáveis semânticas para manutenibilidade.</li>
+          <li>Semântica HTML5 completa com acessibilidade (<code>aria-label</code>, <code>role</code>) e navegação por âncoras.</li>
         </ul>
         <a href="https://github.com/VictorMartinsD/zingen"><b>Ver Repositório →</b></a>
       </td>
@@ -496,10 +486,9 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <ul>
-          <li>Scroll infinito com rolling animation: efeito carrossel contínuo usando <code>translateX</code> em <code>keyframes</code> CSS para motion imersivo.</li>
-          <li>Word-swap dinâmico no hero: animação sincronizada de adjetivos (6s, 2s delay) para copywriting interativo.</li>
-          <li>Gradiente animado de fundo: <code>background-position</code> looping (20s) para movimento visual dinâmico.</li>
-          <li>Design System com paleta semântica: variáveis <code>CSS</code> nomeadas para consistência e harmonia cromática.</li>
+          <li>Scroll infinito com rolling animation contínua usando <code>translateX</code> em keyframes.</li>
+          <li>Word-swap dinâmico sincronizado para copywriting interativo no hero.</li>
+          <li>Gradiente animado com <code>background-position</code> looping para movimento visual constante.</li>
         </ul>
         <a href="https://github.com/VictorMartinsD/snitap-motion-landing-page"><b>Ver Repositório →</b></a>
       </td>
@@ -509,10 +498,9 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <ul>
-          <li>Customização avançada: <code>dropzone</code> com drag-and-drop e <code>radio buttons</code> estilizados com ícones <code>SVG</code>.</li>
-          <li>Arquitetura CSS modular com design system: camadas (reset, global, layout, forms) e variáveis semânticas.</li>
-          <li>Design fiel a protótipo Figma: tipografia fluida com <code>clamp()</code>, espaçamento e paleta alinhada.</li>
-          <li>Acessibilidade em formulários avançados: <code>aria-labelledby</code> em SVGs, labels semânticas e navegação por leitor de tela.</li>
+          <li>Customização avançada com <code>dropzone</code> drag-and-drop e <code>radio buttons</code> estilizados com SVG.</li>
+          <li>Design fiel a protótipo Figma com tipografia fluida (<code>clamp()</code>) e paleta semântica.</li>
+          <li>Acessibilidade completa: <code>aria-labelledby</code> em SVGs, labels semânticas e navegação por leitor de tela.</li>
         </ul>
         <a href="https://github.com/VictorMartinsD/formulario-de-matricula"><b>Ver Repositório →</b></a>
       </td>
