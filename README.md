@@ -74,23 +74,23 @@
 
 ```javascript
 const victor = {
-  nome: 'Victor Martins Dias',
-  foco_atuação: 'Desenvolvedor Web Frontend | JavaScript Enthusiast',
+  nome: "Victor Martins Dias",
+  foco_atuação: "Desenvolvedor Web Frontend | JavaScript Enthusiast",
 
-  objetivo_profissional: 'Junior Web Developer',
+  objetivo_profissional: "Junior Web Developer",
 
   global_skills: {
-    idioma: 'Inglês (B1 - Intermediário)',
-    competencias: ['Tradução', 'Documentação Técnica', 'Comunicação ESL'],
+    idioma: "Inglês (B1 - Intermediário)",
+    competencias: ["Tradução", "Documentação Técnica", "Comunicação ESL"],
   },
 
   aprendendo_atualmente: [
-    'Engenharia de Prompt & I.A. aplicada ao Dev',
-    'Aprofundamento no Ecossistema JavaScript Moderno',
-    'Metodologias de Produtividade & Clean Code',
+    "Engenharia de Prompt & I.A. aplicada ao Dev",
+    "Aprofundamento no Ecossistema JavaScript Moderno",
+    "Metodologias de Produtividade & Clean Code",
   ],
 
-  fun_fact: 'Utilizando I.A. para otimizar o fluxo de desenvolvimento 🚀',
+  fun_fact: "Utilizando I.A. para otimizar o fluxo de desenvolvimento 🚀",
 };
 ```
 
@@ -119,12 +119,31 @@ const victor = {
       <br><sub>CSS3</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="45" height="45" alt="Prettier" />
-      <br><sub>Prettier</sub>
+      <img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="Vite" />
+      <br><sub>Vite</sub>
     </td>
      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=md" width="45" height="45" alt="Markdown" />
       <br><sub>Markdown</sub>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tooling & Code Quality
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="45" height="45" alt="ESLint" />
+      <br><sub>ESLint</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="45" height="45" alt="Prettier" />
+      <br><sub>Prettier</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/husky.svg" width="45" height="45" alt="Husky" />
+      <br><sub>Husky</sub>
     </td>
   </tr>
 </table>
@@ -151,7 +170,6 @@ const victor = {
 ### ⚙️ Suporte & Produtividade Extra
 
 <p>
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black">
   <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white">
@@ -220,13 +238,14 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
 
 ## 📊 Expertise & Diferenciais
 
-| Área de Atuação          |       Proficiência        | Aplicação Prática & Destaques                                                           |
-| :----------------------- | :-----------------------: | :-------------------------------------------------------------------------------------- |
-| **Desenvolvimento Web**  | ████████████████████░ 95% | **HTML5/CSS3:** Foco em semântica, estrutura e SEO.                                     |
-| **Lógica & JavaScript**  | ██████████████████░░░ 85% | **ES6+:** Algoritmos eficientes, manipulação de DOM e escalabilidade.                   |
-| **Design Responsivo**    | ██████████████████░░░ 85% | **UI/UX:** Interfaces adaptáveis (Mobile First) com Flexbox, Grid e Figma.              |
-| **Inglês para Tech**     | ████████████████░░░░░ 75% | **Nível B1:** Leitura de documentação técnica, tradução e comunicação ESL.              |
-| **Engenharia de Prompt** | ██████████████░░░░░░░ 70% | **I.A. Estratégica:** Otimização de fluxo de trabalho, debug e produtividade no código. |
+| Área de Atuação            |       Proficiência        | Aplicação Prática & Destaques                                                           |
+| :------------------------- | :-----------------------: | :-------------------------------------------------------------------------------------- |
+| **Desenvolvimento Web**    | ████████████████████░ 95% | **HTML5/CSS3:** Foco em semântica, estrutura e SEO.                                     |
+| **Lógica & JavaScript**    | ██████████████████░░░ 85% | **ES6+:** Algoritmos eficientes, manipulação de DOM e escalabilidade.                   |
+| **Design Responsivo**      | ██████████████████░░░ 85% | **UI/UX:** Interfaces adaptáveis (Mobile First) com Flexbox, Grid e Figma.              |
+| **Inglês para Tech**       | ████████████████░░░░░ 75% | **Nível B1:** Leitura de documentação técnica, tradução e comunicação ESL.              |
+| **Tooling & Code Quality** | ████████████████░░░░░ 75% | **ESLint, Prettier, Husky:** Pipeline de qualidade, automação de linting e formatação.  |
+| **Engenharia de Prompt**   | ██████████████░░░░░░░ 70% | **I.A. Estratégica:** Otimização de fluxo de trabalho, debug e produtividade no código. |
 
 <br>
 </div>
@@ -649,6 +668,6 @@ modelo_trabalho: [Remoto, Híbrido, Presencial]
 
 `🛠️ Arquitetado com rigor técnico e visão humana.`
 
-<sub>**Ecossistema atualizado em Abril de 2026.**</sub>
+<sub>**Ecossistema atualizado em Maio de 2026.**</sub>
 
 </div>
