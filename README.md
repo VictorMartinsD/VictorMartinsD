@@ -380,6 +380,21 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🧾 Refund Dashboard</h3>
+      <p><i>Controle local de despesas corporativas e totalizadores de reembolso</i></p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+      <img src="https://img.shields.io/badge/LocalStorage-4CAF50?style=flat-square&logo=android&logoColor=white">
+      <ul>
+        <li>Registro de despesas com validação e formatação de moeda em <code>BRL</code>.</li>
+        <li>Persistência local em <code>localStorage</code> e UI sem backend.</li>
+        <li>Alternância de tema com preferência do usuário e recuperação automática.</li>
+      </ul>
+      <a href="https://github.com/VictorMartinsD/refund-dashboard"><b>Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>💱 Convert Money</h3>
       <p><i>Conversor de Moedas em Tempo Real</i></p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -395,6 +410,8 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
       </ul>
       <a href="https://github.com/VictorMartinsD/convert-money"><b>Ver Repositório →</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>✉️ Formulário de Convite</h3>
       <p><i>Interatividade & Manipulação de DOM</i></p>
@@ -409,8 +426,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
       </ul>
       <a href="https://github.com/VictorMartinsD/formulario-de-convite"><b>Ver Repositório →</b></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📚 Encantos Literários</h3>
       <p><i>Motion Design & Interatividade</i></p>
@@ -424,19 +439,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
       </ul>
       <a href="https://github.com/VictorMartinsD/encantos-literarios-motion"><b>Ver Repositório →</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Catálogo Geek</h3>
-      <p><i>Frontend & Organização de Conteúdo</i></p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-      <ul>
-        <li>Catálogo dinâmico montado em tempo real com criação de cards no <code>DOM</code>.</li>
-        <li>Separação automática por categoria e vitrines horizontais com navegação fluida.</li>
-        <li>Interface responsiva com cards padronizados e interatividade em <code>hover</code>.</li>
-      </ul>
-      <a href="https://github.com/VictorMartinsD/catalogo-geek"><b>Ver Repositório →</b></a>
-    </td>
   </tr>
 </table>
 
@@ -445,6 +447,19 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
   <br>
   <table width="100%">
     <tr>
+      <td width="50%" valign="top">
+        <h3>🎮 Catálogo Geek</h3>
+        <p><i>Frontend & Organização de Conteúdo</i></p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+        <ul>
+          <li>Catálogo dinâmico montado em tempo real com criação de cards no <code>DOM</code>.</li>
+          <li>Separação automática por categoria e vitrines horizontais com navegação fluida.</li>
+          <li>Interface responsiva com cards padronizados e interatividade em <code>hover</code>.</li>
+        </ul>
+        <a href="https://github.com/VictorMartinsD/catalogo-geek"><b>Ver Repositório →</b></a>
+      </td>
       <td width="50%" valign="top">
         <h3>📱 Rede Social</h3>
         <p><i>Prototipagem & Mobile First</i></p>
@@ -458,6 +473,8 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
         <a href="https://github.com/VictorMartinsD/rede-social"><b>Ver Repositório →</b></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3>🎨 Portfólio Dev</h3>
         <p><i>Showcase | Estrutura & Estilo</i></p>
@@ -470,8 +487,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
         <a href="https://github.com/VictorMartinsD/portfolio-dev"><b>Ver Repositório →</b></a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3>🧪 JS Learning Lab</h3>
         <p><i>Lógica & Algoritmos com JavaScript</i></p>
@@ -485,6 +500,8 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
         <a href="https://github.com/VictorMartinsD/js-learning-lab"><b>Ver Repositório →</b></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3>🎙️ Zingen Landing Page</h3>
         <p><i>Design UI/UX & Landing Page</i></p>
@@ -497,8 +514,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
         <a href="https://github.com/VictorMartinsD/zingen"><b>Ver Repositório →</b></a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3>🎧 Snitap Motion</h3>
         <p><i>Landing Page & CSS Animations</i></p>
@@ -510,18 +525,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
           <li>Gradiente animado com <code>background-position</code> looping para movimento visual constante.</li>
         </ul>
         <a href="https://github.com/VictorMartinsD/snitap-motion-landing-page"><b>Ver Repositório →</b></a>
-      </td>
-      <td width="50%" valign="top">
-        <h3>📝 Formulário de Matrícula</h3>
-        <p><i>Componentes Customizados & Acessibilidade Avançada</i></p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-        <ul>
-          <li>Customização avançada com <code>dropzone</code> drag-and-drop e <code>radio buttons</code> estilizados com SVG.</li>
-          <li>Design fiel a protótipo Figma com tipografia fluida (<code>clamp()</code>) e paleta semântica.</li>
-          <li>Acessibilidade completa: <code>aria-labelledby</code> em SVGs, labels semânticas e navegação por leitor de tela.</li>
-        </ul>
-        <a href="https://github.com/VictorMartinsD/formulario-de-matricula"><b>Ver Repositório →</b></a>
       </td>
     </tr>
   </table>
