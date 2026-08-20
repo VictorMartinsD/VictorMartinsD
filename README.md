@@ -413,6 +413,20 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎲 Numbers Raffle</h3>
+      <p><i>Sorteio de Números com Validação e Regras Configuráveis</i></p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+      <ul>
+        <li>Geração de números com intervalo configurável e repetição controlada.</li>
+        <li>Validação de entradas e unicidade garantida com <code>Set</code>.</li>
+        <li>Fluxo acessível com <code>aria-live</code>, foco gerenciado e animações.</li>
+      </ul>
+      <a href="https://github.com/VictorMartinsD/numbers-raffle"><b>Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>✉️ Formulário de Convite</h3>
       <p><i>Interatividade & Manipulação de DOM</i></p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -426,19 +440,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
       </ul>
       <a href="https://github.com/VictorMartinsD/formulario-de-convite"><b>Ver Repositório →</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>📚 Encantos Literários</h3>
-      <p><i>Motion Design & Interatividade</i></p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-      <ul>
-        <li>Tipografia fluida com <code>clamp()</code> e Design System CSS Variables para responsividade automática.</li>
-        <li>Animações CSS 3D com transformações sincronizadas em keyframes.</li>
-        <li>SVG backgrounds com gradientes radiais e depth visual via pseudoelementos.</li>
-      </ul>
-      <a href="https://github.com/VictorMartinsD/encantos-literarios-motion"><b>Ver Repositório →</b></a>
-    </td>
   </tr>
 </table>
 
@@ -447,6 +448,19 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
   <br>
   <table width="100%">
     <tr>
+      <td width="50%" valign="top">
+        <h3>📚 Encantos Literários</h3>
+        <p><i>Motion Design & Interatividade</i></p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+        <ul>
+          <li>Tipografia fluida com <code>clamp()</code> e Design System CSS Variables para responsividade automática.</li>
+          <li>Animações CSS 3D com transformações sincronizadas em keyframes.</li>
+          <li>SVG backgrounds com gradientes radiais e depth visual via pseudoelementos.</li>
+        </ul>
+        <a href="https://github.com/VictorMartinsD/encantos-literarios-motion"><b>Ver Repositório →</b></a>
+      </td>
       <td width="50%" valign="top">
         <h3>🎮 Catálogo Geek</h3>
         <p><i>Frontend & Organização de Conteúdo</i></p>
@@ -460,6 +474,8 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
         <a href="https://github.com/VictorMartinsD/catalogo-geek"><b>Ver Repositório →</b></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3>📱 Rede Social</h3>
         <p><i>Prototipagem & Mobile First</i></p>
@@ -473,8 +489,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
         <a href="https://github.com/VictorMartinsD/rede-social"><b>Ver Repositório →</b></a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3>🎨 Portfólio Dev</h3>
         <p><i>Showcase | Estrutura & Estilo</i></p>
@@ -486,19 +500,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
           <li><code>SVG Sprite</code> otimizado com animações CSS puras.</li>
         </ul>
         <a href="https://github.com/VictorMartinsD/portfolio-dev"><b>Ver Repositório →</b></a>
-      </td>
-      <td width="50%" valign="top">
-        <h3>🧪 JS Learning Lab</h3>
-        <p><i>Lógica & Algoritmos com JavaScript</i></p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-        <ul>
-          <li>Sistema de Repetição Espaçada com <code>Notion</code>: ciclo de revisão (0, 1, 7, 30 dias) para retenção.</li>
-          <li>Log de evolução documentado transformando erros em aprendizado consciente.</li>
-          <li>Organização cronológica modular com pipeline de qualidade automática (<code>Prettier, Husky, Lint-staged</code>).</li>
-        </ul>
-        <a href="https://github.com/VictorMartinsD/js-learning-lab"><b>Ver Repositório →</b></a>
       </td>
     </tr>
     <tr>
@@ -515,16 +516,17 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         <a href="https://github.com/VictorMartinsD/zingen"><b>Ver Repositório →</b></a>
       </td>
       <td width="50%" valign="top">
-        <h3>🎧 Snitap Motion</h3>
-        <p><i>Landing Page & CSS Animations</i></p>
+        <h3>🧪 JS Learning Lab</h3>
+        <p><i>Lógica & Algoritmos com JavaScript</i></p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <ul>
-          <li>Scroll infinito com rolling animation contínua usando <code>translateX</code> em keyframes.</li>
-          <li>Word-swap dinâmico sincronizado para copywriting interativo no hero.</li>
-          <li>Gradiente animado com <code>background-position</code> looping para movimento visual constante.</li>
+          <li>Sistema de Repetição Espaçada com <code>Notion</code>: ciclo de revisão (0, 1, 7, 30 dias) para retenção.</li>
+          <li>Log de evolução documentado transformando erros em aprendizado consciente.</li>
+          <li>Organização cronológica modular com pipeline de qualidade automática (<code>Prettier, Husky, Lint-staged</code>).</li>
         </ul>
-        <a href="https://github.com/VictorMartinsD/snitap-motion-landing-page"><b>Ver Repositório →</b></a>
+        <a href="https://github.com/VictorMartinsD/js-learning-lab"><b>Ver Repositório →</b></a>
       </td>
     </tr>
   </table>
@@ -671,6 +673,6 @@ modelo_trabalho: [Remoto, Híbrido, Presencial]
 
 `🛠️ Arquitetado com rigor técnico e visão humana.`
 
-<sub>**Ecossistema atualizado em Maio de 2026.**</sub>
+<sub>**Ecossistema atualizado em Agosto de 2026.**</sub>
 
 </div>
