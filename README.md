@@ -196,6 +196,30 @@ const victor = {
 
 ---
 
+<!-- Build Tools em Aprendizado -->
+<div align="center">
+
+## 🧩 Build Tools em Aprendizado
+
+_Consolidando fundamentos de bundling e transpilação no ecossistema JavaScript._
+
+<table align="center">
+  <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="65" height="65" />
+    <br>Webpack
+  </td>
+  <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="65" height="65" />
+    <br>Babel
+  </td>
+</table>
+
+<sub>Em progresso: configuração de pipeline, integração com loaders/plugins e entendimento pratico de fluxo build -> dev -> dist.</sub>
+
+</div>
+
+---
+
 <!-- Roadmaps e Objetivos Futuros -->
 <div align="center">
 
