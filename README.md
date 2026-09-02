@@ -81,12 +81,14 @@ const victor = {
 
   global_skills: {
     idioma: "Inglês (B1 - Intermediário)",
-    competencias: ["Tradução", "Documentação Técnica", "Comunicação ESL"],
+    competencias: ["JavaScript ES6+", "HTML5 Semântico", "CSS3 Responsivo"],
   },
 
   aprendendo_atualmente: [
+    "Node.js e fundamentos de Backend",
+    "TypeScript e JavaScript moderno",
+    "Webpack, Babel e fluxo de build/dev/dist",
     "Engenharia de Prompt & I.A. aplicada ao Dev",
-    "Aprofundamento no Ecossistema JavaScript Moderno",
     "Metodologias de Produtividade & Clean Code",
   ],
 
@@ -106,24 +108,24 @@ const victor = {
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br><sub>JavaScript</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br><sub>HTML5</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
       <br><sub>CSS3</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="Vite" />
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="65" height="65" alt="Vite" />
       <br><sub>Vite</sub>
     </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=md" width="45" height="45" alt="Markdown" />
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="65" height="65" alt="Markdown" />
       <br><sub>Markdown</sub>
     </td>
   </tr>
@@ -133,16 +135,16 @@ const victor = {
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="45" height="45" alt="ESLint" />
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="65" height="65" alt="ESLint" />
       <br><sub>ESLint</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="45" height="45" alt="Prettier" />
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="Prettier" />
       <br><sub>Prettier</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/husky.svg" width="45" height="45" alt="Husky" />
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://cdn.worldvectorlogo.com/logos/husky.svg" width="65" height="65" alt="Husky" />
       <br><sub>Husky</sub>
     </td>
   </tr>
@@ -151,29 +153,46 @@ const victor = {
 ### 🚀 Versionamento e Deploy
 
 <table align="center">
-  <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-    <br>Github
-  </td>
-  <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-    <br>Git
-  </td>
+  <tr>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br><sub>Github</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
+      <br><sub>Git</sub>
+    </td>
+  </tr>
 </table>
 
 ### 🛠️ Design & Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,vscode,notion,discord&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
+      <br><sub>Figma</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" height="65" alt="VSCode" />
+      <br><sub>VSCode</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="65" height="65" alt="Notion" />
+      <br><sub>Notion</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://skillicons.dev/icons?i=discord&theme=dark&perline=1" width="65" height="65" alt="Discord" />
+      <br><sub>Discord</sub>
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ Suporte & Produtividade Extra
 
 <p>
   <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white">
   <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white">
@@ -196,14 +215,22 @@ const victor = {
 
 ---
 
-<!-- Build Tools em Aprendizado -->
+<!-- Aprendizado Atual e Roadmap Técnico -->
 <div align="center">
 
-## 🧩 Build Tools em Aprendizado
+## 🧩 Aprendizado Atual & Roadmap Técnico
 
-_Consolidando fundamentos de bundling e transpilação no ecossistema JavaScript._
+_Consolidando fundamentos do ecossistema JavaScript e expandindo para frontend, tooling, integração de dados e backend._
 
 <table align="center">
+  <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
+    <br>Node.js
+  </td>
+  <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+    <br>TypeScript
+  </td>
   <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="65" height="65" />
     <br>Webpack
@@ -214,7 +241,7 @@ _Consolidando fundamentos de bundling e transpilação no ecossistema JavaScript
   </td>
 </table>
 
-<sub>Em progresso: configuração de pipeline, integração com loaders/plugins e entendimento pratico de fluxo build -> dev -> dist.</sub>
+<sub>Em progresso: Node.js, TypeScript, React, Tailwind, arquitetura frontend e integração de dados com foco em produtividade e qualidade de código.</sub>
 
 </div>
 
@@ -229,20 +256,12 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
 
 <table align="center">
   <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-    <br>TypeScript
-  </td>
-  <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
     <br>React
   </td>
   <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="tailwind" />
     <br>Tailwind
-  </td>
-  <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-    <br>Node.js
   </td>
   <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -290,6 +309,12 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top" width="220">
+      <a href="https://app.rocketseat.com.br/certificates/52a1eaf1-44d1-4e24-8f85-9aa8c68cff43" target="_blank">
+        <img src="https://github.com/user-attachments/assets/6ecc0475-f531-4a01-9b78-aaa367b2c901" width="200" alt="Javascript Rocketseat"/><br>
+        <sub><b>JavaScript</b><br>Rocketseat</sub>
+      </a>
+    </td>
+    <td align="center" valign="top" width="220">
       <a href="https://consultadiploma.estacio.br/diploma/163.163.1921d345a70e" target="_blank">
         <img src="https://github.com/user-attachments/assets/af6ab0ff-dc2d-40f0-87df-e58450fc897d" width="200" alt="Bacharel SI"/><br>
         <sub><b>Barcharel em Sistemas de Informação</b><br>Estácio</sub>
@@ -307,12 +332,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         <sub><b>Inglês para Devs</b><br>Rocketseat</sub>
       </a>
     </td>
-    <td align="center" valign="top" width="220">
-      <a href="https://cert.efset.org/en/Qv7k7Y" target="_blank">
-        <img src="https://github.com/user-attachments/assets/d252725e-1570-4a20-b9d8-6e2912868896" width="200" alt="EF SET B1"/><br>
-        <sub><b>EF SET English</b><br>B1 Intermediate</sub>
-      </a>
-    </td>
   </tr>
 </table>
 
@@ -322,6 +341,12 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
   <br>
   <table align="center" border="0">
     <tr>
+      <td align="center" valign="top" width="220">
+        <a href="https://cert.efset.org/en/Qv7k7Y" target="_blank">
+          <img src="https://github.com/user-attachments/assets/d252725e-1570-4a20-b9d8-6e2912868896" width="200" alt="EF SET B1"/><br>
+          <sub><b>EF SET English</b><br>B1 Intermediate</sub>
+        </a>
+      </td>
       <td align="center" valign="top" width="220">
         <a href="https://app.rocketseat.com.br/certificates/faf321bf-b930-4fb8-b876-98361bd1a4fa" target="_blank">
           <img src="https://github.com/user-attachments/assets/226aaa5d-3a17-4fb0-98eb-9c951742d58d" width="200" alt="Engenharia de Prompt"/><br>
@@ -338,12 +363,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         <a href="https://www.linkedin.com/in/victormartinsd/overlay/Position/1312780318/treasury/?profileId=ACoAACUx_T0BZVBdW3GUllnwWrTOAiyfSyKC6Us" target="_blank">
           <img src="https://github.com/user-attachments/assets/1b6acacb-dcb4-42e4-b46f-08c42b76dae7" width="200" alt="Estágio de Nível Superior no INSS"/><br>
           <sub><b>Estágio de Nível Superior</b><br>Instituto Nacional do Seguro Social (INSS)</sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="220">
-        <a href="https://www.linkedin.com/in/victormartinsd/overlay/Certifications/1249209268/treasury/?profileId=ACoAACUx_T0BZVBdW3GUllnwWrTOAiyfSyKC6Us" target="_blank">
-          <img src="https://github.com/user-attachments/assets/d116eee0-065a-4039-974a-b172d62dcb7f" width="200" alt="Técnico em Informática"/><br>
-          <sub><b>Técnico em Informática</b><br>Instituto Educacional Imaculada Conceição</sub>
         </a>
       </td>
     </tr>
@@ -437,6 +456,22 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>✂️ Hair Day</h3>
+      <p><i>Agenda diária com reservas, cancelamento e horários.</i></p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black">
+      <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black">
+      <img src="https://img.shields.io/badge/Day.js-FF5F6D?style=flat-square&logo=javascript&logoColor=white">
+      <ul>
+        <li>Seleção de data e horários disponíveis com regras de agenda em tempo real.</li>
+        <li>Criação e cancelamento de compromissos com atualização imediata.</li>
+        <li>Arquitetura modular com <code>JavaScript</code>, <code>Webpack</code> e <code>Babel</code>.</li>
+      </ul>
+      <a href="https://github.com/VictorMartinsD/hairday"><b>Ver Repositório →</b></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎲 Numbers Raffle</h3>
       <p><i>Sorteio de Números com Validação e Regras Configuráveis</i></p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -450,20 +485,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
       </ul>
       <a href="https://github.com/VictorMartinsD/numbers-raffle"><b>Ver Repositório →</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>✉️ Formulário de Convite</h3>
-      <p><i>Interatividade & Manipulação de DOM</i></p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-      <img src="https://img.shields.io/badge/LocalStorage-4CAF50?style=flat-square&logo=android&logoColor=white">
-      <ul>
-        <li>Máscara de telefone inteligente diferenciando celular e fixo com persistência automática.</li>
-        <li>Validação visual em tempo real com feedback dinâmico e ícones <code>SVG</code>.</li>
-        <li>Auto-save de inputs com restauração ao carregar e otimização social (<code>Open Graph</code>).</li>
-      </ul>
-      <a href="https://github.com/VictorMartinsD/formulario-de-convite"><b>Ver Repositório →</b></a>
-    </td>
   </tr>
 </table>
 
@@ -472,6 +493,20 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
   <br>
   <table width="100%">
     <tr>
+      <td width="50%" valign="top">
+        <h3>✉️ Formulário de Convite</h3>
+        <p><i>Interatividade & Manipulação de DOM</i></p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+        <img src="https://img.shields.io/badge/LocalStorage-4CAF50?style=flat-square&logo=android&logoColor=white">
+        <ul>
+          <li>Máscara de telefone inteligente diferenciando celular e fixo com persistência automática.</li>
+          <li>Validação visual em tempo real com feedback dinâmico e ícones <code>SVG</code>.</li>
+          <li>Auto-save de inputs com restauração ao carregar e otimização social (<code>Open Graph</code>).</li>
+        </ul>
+        <a href="https://github.com/VictorMartinsD/formulario-de-convite"><b>Ver Repositório →</b></a>
+      </td>
       <td width="50%" valign="top">
         <h3>📚 Encantos Literários</h3>
         <p><i>Motion Design & Interatividade</i></p>
@@ -485,6 +520,8 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
         <a href="https://github.com/VictorMartinsD/encantos-literarios-motion"><b>Ver Repositório →</b></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3>🎮 Catálogo Geek</h3>
         <p><i>Frontend & Organização de Conteúdo</i></p>
@@ -498,8 +535,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
         <a href="https://github.com/VictorMartinsD/catalogo-geek"><b>Ver Repositório →</b></a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3>📱 Rede Social</h3>
         <p><i>Prototipagem & Mobile First</i></p>
@@ -513,6 +548,8 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
         <a href="https://github.com/VictorMartinsD/rede-social"><b>Ver Repositório →</b></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3>🎨 Portfólio Dev</h3>
         <p><i>Showcase | Estrutura & Estilo</i></p>
@@ -525,8 +562,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
         </ul>
         <a href="https://github.com/VictorMartinsD/portfolio-dev"><b>Ver Repositório →</b></a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3>🎙️ Zingen Landing Page</h3>
         <p><i>Design UI/UX & Landing Page</i></p>
@@ -538,19 +573,6 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
           <li>Semântica HTML5 completa com acessibilidade (<code>aria-label</code>, <code>role</code>) e navegação por âncoras.</li>
         </ul>
         <a href="https://github.com/VictorMartinsD/zingen"><b>Ver Repositório →</b></a>
-      </td>
-      <td width="50%" valign="top">
-        <h3>🧪 JS Learning Lab</h3>
-        <p><i>Lógica & Algoritmos com JavaScript</i></p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-        <ul>
-          <li>Sistema de Repetição Espaçada com <code>Notion</code>: ciclo de revisão (0, 1, 7, 30 dias) para retenção.</li>
-          <li>Log de evolução documentado transformando erros em aprendizado consciente.</li>
-          <li>Organização cronológica modular com pipeline de qualidade automática (<code>Prettier, Husky, Lint-staged</code>).</li>
-        </ul>
-        <a href="https://github.com/VictorMartinsD/js-learning-lab"><b>Ver Repositório →</b></a>
       </td>
     </tr>
   </table>
@@ -589,6 +611,9 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="VictorMartinsD's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=VictorMartinsD&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=82AAFF&icon_color=82AAFF&text_color=82AAFF" height="192px"/>
   </a>
+
+  <br>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="VictorMartinsD's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VictorMartinsD&langs_count=8&layout=compact&hide_border=false&bg_color=000000&title_color=82AAFF&icon_color=82AAFF&text_color=82AAFF&hide=Jupyter%20Notebook,Roff&card_height=192" height="192px"/>
   </a>
@@ -697,6 +722,6 @@ modelo_trabalho: [Remoto, Híbrido, Presencial]
 
 `🛠️ Arquitetado com rigor técnico e visão humana.`
 
-<sub>**Ecossistema atualizado em Agosto de 2026.**</sub>
+<sub>**Ecossistema atualizado em Setembro de 2026.**</sub>
 
 </div>
