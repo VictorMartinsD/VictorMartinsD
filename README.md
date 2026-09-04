@@ -113,6 +113,10 @@ const victor = {
       <br><sub>JavaScript</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br><sub>TypeScript</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br><sub>HTML5</sub>
     </td>
@@ -125,7 +129,11 @@ const victor = {
       <br><sub>Vite</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="65" height="65" alt="Markdown" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="65" height="65" alt="Webpack" />
+      <br><sub>Webpack</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://cdn.simpleicons.org/markdown/ffffff" width="65" height="65" alt="Markdown" />
       <br><sub>Markdown</sub>
     </td>
   </tr>
@@ -136,8 +144,16 @@ const victor = {
 <table align="center">
   <tr>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" width="65" height="65" alt="Babel" />
+      <br><sub>Babel</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="65" height="65" alt="ESLint" />
       <br><sub>ESLint</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://cdn.simpleicons.org/stylelint/ffffff" width="65" height="65" alt="Stylelint" />
+      <br><sub>Stylelint</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="Prettier" />
@@ -220,28 +236,18 @@ const victor = {
 
 ## 🧩 Aprendizado Atual & Roadmap Técnico
 
-_Consolidando fundamentos do ecossistema JavaScript e expandindo para frontend, tooling, integração de dados e backend._
+_Consolidando fundamentos do ecossistema JavaScript e expandindo para backend, integração de dados e arquitetura de aplicações._
 
 <table align="center">
-  <td align="center" width="120">
+  <tr>
+    <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
-    <br>Node.js
-  </td>
-  <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-    <br>TypeScript
-  </td>
-  <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="65" height="65" />
-    <br>Webpack
-  </td>
-  <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="65" height="65" />
-    <br>Babel
-  </td>
+      <br>Node.js
+    </td>
+  </tr>
 </table>
 
-<sub>Em progresso: Node.js, TypeScript, React, Tailwind, arquitetura frontend e integração de dados com foco em produtividade e qualidade de código.</sub>
+<sub>Em progresso: Node.js, arquitetura frontend com foco em performance e escalabilidade.</sub>
 
 </div>
 
@@ -269,7 +275,7 @@ _Mapeando a evolução para frameworks modernos e integração de dados._
   </td>
 </table>
 
-<sub>Planejamento focado em <b>TypeScript</b>, <b>React</b> e fundamentos de <b>Backend</b> para expandir a capacidade de entrega no ecossistema JavaScript.</sub>
+<sub>Planejamento focado em <b>React</b>, <b>Tailwind</b>, <b>MySQL</b> e fundamentos de <b>Backend</b> para expandir a capacidade de entrega no ecossistema JavaScript.</sub>
 
 </div>
 
