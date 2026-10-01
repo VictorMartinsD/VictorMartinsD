@@ -1,0 +1,35 @@
+name: Atualizar data do perfil
+
+on:
+  schedule:
+    - cron: "0 3 1,15 * *" # dias 1 e 15, 03:00 UTC = 00:00 em Brasília; só gera commit quando o mês muda
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar SVG da data
+        run: |
+          mkdir -p assets
+          MESES=(Janeiro Fevereiro Março Abril Maio Junho Julho Agosto Setembro Outubro Novembro Dezembro)
+          MES=$(TZ=America/Sao_Paulo date +%-m)
+          ANO=$(TZ=America/Sao_Paulo date +%Y)
+          TEXTO="Atualizado em ${MESES[$((MES-1))]} de $ANO"
+          cat > assets/updated.svg <<EOF
+          <svg xmlns="http://www.w3.org/2000/svg" width="320" height="24">
+            <text x="160" y="16" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4A90E2">$TEXTO</text>
+          </svg>
+          EOF
+
+      - name: Commit como bot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/updated.svg
+          git diff --cached --quiet || (git commit -m "chore: update profile date" && git push)
