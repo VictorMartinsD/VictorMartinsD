@@ -715,36 +715,24 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2048%20mins-blue?style=flat)
 
-**🐱 Meus dados no GitHub** 
-
-> 📦 62.8 kB Usado no armazenamento do GitHub 
- > 
-> 🏆 660 Contribuições no ano de 2026
- > 
-> 🚫 Não aberto para contratação
- > 
-> 📜 34 Repositórios Públicos 
- > 
-> 🔑 0 Repositórios Privados 
- > 
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  222 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-🌆 Tarde                  301 commits         ██████████░░░░░░░░░░░░░░░   39.04 % 
-🌃 Noite                  236 commits         ████████░░░░░░░░░░░░░░░░░   30.61 % 
-🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+🌞 Manhã                  222 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌆 Tarde                  302 commits         ██████████░░░░░░░░░░░░░░░   39.12 % 
+🌃 Noite                  236 commits         ████████░░░░░░░░░░░░░░░░░   30.57 % 
+🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 📅 **Sou mais produtivo em Sexta-Feira** 
 
 ```text
-Segunda-Feira            102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Terça-Feira              135 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Quarta-Feira             120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Quinta-Feira             95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Sexta-Feira              146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Sábado                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Domingo                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Segunda-Feira            103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Terça-Feira              135 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Quarta-Feira             120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Quinta-Feira             95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Sexta-Feira              146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Sábado                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Domingo                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 ```
 
 
@@ -786,12 +774,8 @@ Github-Copilot           1,251 lines         ███████████�
 🔍 Hands-On Reviewer — 87.47% of changed lines were hand-edited
 ```
 
-**Linha do tempo**
 
-![Lines of Code chart](https://raw.githubusercontent.com/VictorMartinsD/VictorMartinsD/main/assets/bar_graph.png)
-
-
- Last Updated on 12/10/2026 17:46:32 UTC
+ Last Updated on 12/10/2026 17:55:13 UTC
 <!--END_SECTION:waka-->
 
 ### 🔥 Sequência de Commits
