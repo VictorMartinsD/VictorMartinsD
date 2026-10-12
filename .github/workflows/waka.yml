@@ -1,0 +1,30 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCALE: pt
+          COMMIT_MESSAGE: "chore(stats): update WakaTime metrics"
+          BAR_STYLE: "svg"
+          BAR_COLOR: "#82AAFF"
+          BAR_TRACK_COLOR: "#1a2230"
+          BAR_RADIUS: "4"
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_OS: "False"
+          SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
