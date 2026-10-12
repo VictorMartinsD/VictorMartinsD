@@ -15,7 +15,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: pt
           COMMIT_MESSAGE: "chore(stats): update WakaTime metrics and custom theme"
-          BAR_STYLE: "svg"
+          BAR_STYLE: "solid"
           BAR_COLOR: "#82AAFF"
           BAR_TRACK_COLOR: "#1a2230"
           BAR_RADIUS: "4"
