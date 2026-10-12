@@ -1,0 +1,13 @@
+# E-mail (não precisa ser verificado)
+^mailto:
+
+# LinkedIn bloqueia bots (responde 999) e o link de overlay exige login
+^https?://([a-z]+\.)?linkedin\.com/
+
+# Portal de diplomas da Estácio costuma bloquear requisições automatizadas
+^https://consultadiploma\.estacio\.br/
+
+# Serviços de imagem dinâmica, lentos ou com limite de requisições (vercel.app)
+^https://denvercoder1-github-readme-stats\.vercel\.app/
+^https://capsule-render\.vercel\.app/
+^https://readme-typing-svg\.demolab\.com/
