@@ -715,42 +715,34 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2048%20mins-blue?style=flat)
 
+**🐱 Meus dados no GitHub** 
+
+> 📦 62.8 kB Usado no armazenamento do GitHub 
+ > 
+> 🏆 660 Contribuições no ano de 2026
+ > 
+> 🚫 Não aberto para contratação
+ > 
+> 📜 34 Repositórios Públicos 
+ > 
+> 🔑 0 Repositórios Privados 
+ > 
 **Eu sou diurno 🐤** 
 
-```text
-🌞 Manhã                  222 commits         ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-🌆 Tarde                  299 commits         ██████████░░░░░░░░░░░░░░░   38.88 % 
-🌃 Noite                  236 commits         ████████░░░░░░░░░░░░░░░░░   30.69 % 
-🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-```
+<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 Manhã</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">222 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="6" width="104" height="8" rx="4" fill="#82AAFF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">28.83%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 Tarde</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">300 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="30" width="140" height="8" rx="4" fill="#82AAFF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">38.96%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 Noite</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">236 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="54" width="110" height="8" rx="4" fill="#82AAFF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">30.65%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 Madrugada</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">12 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="78" width="6" height="8" rx="4" fill="#82AAFF"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">1.56%</text></svg>
 📅 **Sou mais produtivo em Sexta-Feira** 
 
-```text
-Segunda-Feira            100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Terça-Feira              135 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Quarta-Feira             120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Quinta-Feira             95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Sexta-Feira              146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Sábado                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Domingo                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-```
+<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Segunda-Feira</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">101 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="6" width="47" height="8" rx="4" fill="#82AAFF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">13.12%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Terça-Feira</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">135 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="30" width="63" height="8" rx="4" fill="#82AAFF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">17.53%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Quarta-Feira</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">120 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="54" width="56" height="8" rx="4" fill="#82AAFF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">15.58%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Quinta-Feira</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">95 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="78" width="44" height="8" rx="4" fill="#82AAFF"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">12.34%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Sexta-Feira</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">146 commits</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="102" width="68" height="8" rx="4" fill="#82AAFF"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">18.96%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#c9d1d9">Sábado</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8b949e">90 commits</text><rect x="280" y="126" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="126" width="42" height="8" rx="4" fill="#82AAFF"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8b949e">11.69%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#c9d1d9">Domingo</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8b949e">83 commits</text><rect x="280" y="150" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="150" width="39" height="8" rx="4" fill="#82AAFF"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8b949e">10.78%</text></svg>
 
 
 📊 **Esta semana eu gastei meu tempo em** 
 
-```text
 💬 Linguagens de programação: 
-Other                    47 hrs 29 mins      ███████████████████░░░░░░   75.20 % 
-TypeScript               9 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-CSS                      2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Markdown                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-HTML                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">47 hrs 29 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="6" width="271" height="8" rx="4" fill="#82AAFF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">75.20%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">TypeScript</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">9 hrs 6 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="30" width="52" height="8" rx="4" fill="#82AAFF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">14.41%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">CSS</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 47 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="54" width="16" height="8" rx="4" fill="#82AAFF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">4.42%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1 hr 32 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="78" width="9" height="8" rx="4" fill="#82AAFF"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">2.43%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">HTML</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">55 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="102" width="5" height="8" rx="4" fill="#82AAFF"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">1.48%</text></svg>
 
 🔥 Editores: 
-Chrome                   48 hrs 35 mins      ███████████████████░░░░░░   77.01 % 
-VS Code                  14 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-```
+<svg width="720" viewBox="0 0 720 92" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Chrome</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">48 hrs 35 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="6" width="277" height="8" rx="4" fill="#82AAFF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">77.01%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">14 hrs 29 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="30" width="83" height="8" rx="4" fill="#82AAFF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">22.96%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Copilot CLI</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">0 secs</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="54" width="0" height="8" rx="4" fill="#82AAFF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">0.02%</text></svg>
+
 
 🤖 **AI Coding This Week** 
 
@@ -765,7 +757,7 @@ Copilot CLI              0 secs              ░░░░░░░░░░░�
 
 🧠 15 AI Sessions, 32 AI Prompts
 
-Github-Copilot           1,251 lines         █████████████████████████   100.00 % 
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Github-Copilot</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">1,251 lines</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#1a2230"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#82AAFF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 18.37% of written lines came from AI
@@ -774,8 +766,12 @@ Github-Copilot           1,251 lines         ███████████�
 🔍 Hands-On Reviewer — 87.47% of changed lines were hand-edited
 ```
 
+**Linha do tempo**
 
- Last Updated on 12/10/2026 17:19:49 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/VictorMartinsD/VictorMartinsD/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/10/2026 17:37:05 UTC
 <!--END_SECTION:waka-->
 
 ### 🔥 Sequência de Commits
