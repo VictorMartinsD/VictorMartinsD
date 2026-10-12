@@ -708,6 +708,11 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 
 ## 📊 Estatísticas e Atividade
 
+### ⌚ Tempo de Código (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 🔥 Sequência de Commits
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
