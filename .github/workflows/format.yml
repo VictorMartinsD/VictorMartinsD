@@ -1,0 +1,30 @@
+name: Format README
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'README.md'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'README.md'
+
+permissions:
+  contents: write
+
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Run Prettier
+        uses: creyD/prettier_action@v4
+        with:
+          prettier_options: '--write README.md'
+          commit_message: 'style(readme): auto-format README with Prettier'
+          file_pattern: 'README.md'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
