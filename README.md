@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0056B3&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+em+constante+evolução;Evoluindo+no+ecossistema+JavaScript;Construindo+interfaces+modernas;Desenvolvimento+Web+orientado+a+Produto;Explorando+IA+e+automação+aplicadas+ao+desenvolvimento" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0056B3&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+em+constante+evolu%C3%A7%C3%A3o;Evoluindo+no+ecossistema+JavaScript;Construindo+interfaces+modernas;Desenvolvimento+Web+orientado+a+Produto;Explorando+IA+e+automa%C3%A7%C3%A3o+aplicadas+ao+desenvolvimento" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -38,7 +38,6 @@
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/9b6c8f48-1b50-43da-8c4a-c608e35762a8.svg)](https://wakatime.com/@9b6c8f48-1b50-43da-8c4a-c608e35762a8)
-<img src="https://komarev.com/ghpvc/?username=VictorMartinsD&color=0056B3&style=flat-square&label=%F0%9F%91%81%EF%B8%8F+Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Visualizações"/>
 
 <br>
 </div>
@@ -79,11 +78,17 @@ const victor = {
   nome: "Victor Martins Dias",
   foco_atuação: "Desenvolvimento Web Frontend | Produto Digital",
 
-  objetivo_profissional: "Criar e evoluir soluções web alinhadas às necessidades de usuários e produtos digitais",
+  objetivo_profissional:
+    "Criar e evoluir soluções web alinhadas às necessidades de usuários e produtos digitais",
 
   global_skills: {
-    idioma: "Inglês (B1 - Intermediário geral: leitura, escrita, fala e escuta)",
-    competencias: ["JavaScript ES6+ e lógica de programação", "HTML5 e CSS3", "Documentação técnica"],
+    idioma:
+      "Inglês (B1 - Intermediário geral: leitura, escrita, fala e escuta)",
+    competencias: [
+      "JavaScript ES6+ e lógica de programação",
+      "HTML5 e CSS3",
+      "Documentação técnica",
+    ],
   },
 
   aprendendo_atualmente: ["React", "Tailwind CSS"],
@@ -219,6 +224,14 @@ const victor = {
       <br><sub>Figma</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="65" height="65" alt="Jira" />
+      <br><sub>Jira</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" width="65" height="65" alt="Trello" />
+      <br><sub>Trello</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="65" height="65" alt="Notion" />
       <br><sub>Notion</sub>
     </td>
@@ -261,7 +274,7 @@ const victor = {
 
 ## 🧩 Aprendizado Atual
 
-_Consolidando os fundamentos de React e Tailwind CSS para construir interfaces web modernas e interativas._
+_Consolidando os fundamentos de React, Tailwind CSS e banco de dados para construir aplicações web completas, modernas e interativas._
 
 <table align="center">
   <tr>
@@ -273,10 +286,18 @@ _Consolidando os fundamentos de React e Tailwind CSS para construir interfaces w
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65" />
+      <br>SQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="SQLite" />
+      <br>SQLite
+    </td>
   </tr>
 </table>
 
-<sub>Em progresso: fundamentos de React, componentes, navegação e formulários, além de estilização com Tailwind CSS.</sub>
+<sub>Em progresso: desenvolvimento de interfaces reativas com componentes em React, estilização utilitária com Tailwind CSS, além de consultas relacionais em SQL e manipulação de dados locais com SQLite.</sub>
 
 </div>
 
@@ -287,24 +308,22 @@ _Consolidando os fundamentos de React e Tailwind CSS para construir interfaces w
 
 ## 🎯 Próximos Objetivos de Estudo
 
-_Ampliando a base fullstack com dados, infraestrutura e persistência._
+_Ampliando a base fullstack com bancos de dados relacionais robustos, infraestrutura e conteinerização._
 
 <table align="center">
-  <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65" />
-    <br>SQL
-  </td>
-  <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-    <br>MySQL
-  </td>
-  <td align="center" width="96">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="120">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-    <br>Docker
-  </td>
+      <br>Docker
+    </td>
+  </tr>
 </table>
 
-<sub>Próximos passos: SQL, MySQL, containers e fundamentos de infraestrutura para aplicações web.</sub>
+<sub>Próximos passos: modelagem e gerenciamento de bancos de dados relacionais em ambiente de produção com MySQL, e conteinerização de serviços com Docker para deploy e infraestrutura web.</sub>
 
 </div>
 
@@ -349,7 +368,7 @@ _Ampliando a base fullstack com dados, infraestrutura e persistência._
     </td>
     <td width="50%" valign="top" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:16px;">
       <h4>🎯 Discovery, Requisitos & backlog</h4>
-      <p>Transformação de dores e necessidades dos usuários em requisitos técnicos bem definidos e tarefas acionáveis de desenvolvimento.</p>
+      <p>Transformação de dores e necessidades dos usuários em requisitos técnicos bem definidos e tarefas acionáveis, com apoio de Jira, Trello e Kanban.</p>
     </td>
   </tr>
   <tr>
@@ -692,7 +711,7 @@ _Ampliando a base fullstack com dados, infraestrutura e persistência._
 ### 🔥 Sequência de Commits
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="GitHub Streak" alt="VictorMartinsD's streak" src="https://streak-stats.demolab.com/?user=VictorMartinsD&background=000000&border=82AAFF&stroke=82AAFF&ring=82AAFF&fire=82AAFF&currStreakNum=82AAFF&sideNums=82AAFF&currStreakLabel=82AAFF&sideLabels=82AAFF&dates=82AAFF&hide_border=false"/>
+    <img title="GitHub Streak" alt="VictorMartinsD's streak" src="./profile/streak.svg"/>
   </a>
 
   <br/>
