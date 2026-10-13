@@ -1,0 +1,108 @@
+name: Notify Workflow Failure
+
+on:
+  workflow_run:
+    # Nomes EXATOS do campo `name:` de cada workflow monitorado
+    workflows:
+      - "Waka Readme"
+      - "Update streak stats"
+      - "GitHub-Profile-3D-Contrib"
+      - "Atualizar data do perfil"
+      - "Links"
+      - "Recent Activity"
+    types: [completed]
+
+permissions:
+  issues: write
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    if: >-
+      contains(fromJSON('["failure", "timed_out", "success"]'), github.event.workflow_run.conclusion)
+    steps:
+      - name: Open, update or close failure issue
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const run = context.payload.workflow_run;
+            const { owner, repo } = context.repo;
+            const label = 'workflow-failure';
+            const title = `⚠️ Workflow falhou: ${run.name}`;
+            const failed = ['failure', 'timed_out'].includes(run.conclusion);
+
+            const hints = {
+              'Waka Readme': 'Confira os secrets `WAKATIME_API_KEY` e `GH_TOKEN` (o token pode ter expirado).',
+              'Update streak stats': 'Confira o secret `STREAK_STATS_TOKEN` (o token pode ter expirado).',
+              'GitHub-Profile-3D-Contrib': 'Veja se houve limite de requisições da API ou mudança na action `github-profile-3d-contrib`.',
+              'Atualizar data do perfil': 'Veja o log do passo que gera o SVG ou faz o commit.',
+              Links: 'Veja o log do lychee; o job em si só falha por erro de infraestrutura.',
+              'Recent Activity': 'Confira se os marcadores `<!--START_SECTION:recent-activity-->` e `<!--END_SECTION:recent-activity-->` existem no README.',
+            };
+
+            // Procura uma issue já aberta para este workflow (evita duplicar)
+            const open = await github.paginate(github.rest.issues.listForRepo, {
+              owner,
+              repo,
+              state: 'open',
+              labels: label,
+              per_page: 100,
+            });
+            const existing = open.find((i) => i.title === title && !i.pull_request);
+
+            if (failed) {
+              const details = [
+                `- **Workflow:** ${run.name}`,
+                `- **Resultado:** \`${run.conclusion}\``,
+                `- **Disparado por:** \`${run.event}\``,
+                `- **Quando:** ${run.run_started_at ?? run.created_at}`,
+                `- **Execução:** ${run.html_url}`,
+              ].join('\n');
+              const hint = hints[run.name] ? `\n\n**Onde olhar primeiro:** ${hints[run.name]}` : '';
+
+              if (existing) {
+                await github.rest.issues.createComment({
+                  owner,
+                  repo,
+                  issue_number: existing.number,
+                  body: `Falhou de novo.\n\n${details}`,
+                });
+                core.info(`Comentário adicionado na issue #${existing.number}`);
+              } else {
+                try {
+                  await github.rest.issues.createLabel({
+                    owner,
+                    repo,
+                    name: label,
+                    color: 'D93F0B',
+                    description: 'Falha automática detectada em um workflow',
+                  });
+                } catch (err) {
+                  core.info(`Label já existe ou não pôde ser criada: ${err.message}`);
+                }
+                const { data } = await github.rest.issues.create({
+                  owner,
+                  repo,
+                  title,
+                  labels: [label],
+                  body: `@${owner}, um workflow do seu perfil falhou.\n\n${details}${hint}\n\nQuando o workflow voltar a funcionar, esta issue é fechada automaticamente.`,
+                });
+                core.info(`Issue #${data.number} criada`);
+              }
+            } else if (existing) {
+              // Workflow voltou a passar: fecha a issue
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number: existing.number,
+                body: `✅ O workflow voltou a funcionar: ${run.html_url}`,
+              });
+              await github.rest.issues.update({
+                owner,
+                repo,
+                issue_number: existing.number,
+                state: 'closed',
+                state_reason: 'completed',
+              });
+              core.info(`Issue #${existing.number} fechada`);
+            }
