@@ -711,48 +711,49 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 ### ⌚ Tempo de Código (WakaTime)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2048%20mins-blue?style=flat)
 
-**Eu sou diurno 🐤** 
+**Eu sou diurno 🐤**
 
 ```text
-🌞 Manhã                  229 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-🌆 Tarde                  304 commits         ██████████░░░░░░░░░░░░░░░   38.73 % 
-🌃 Noite                  240 commits         ████████░░░░░░░░░░░░░░░░░   30.57 % 
-🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+🌞 Manhã                  229 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 %
+🌆 Tarde                  304 commits         ██████████░░░░░░░░░░░░░░░   38.73 %
+🌃 Noite                  240 commits         ████████░░░░░░░░░░░░░░░░░   30.57 %
+🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
-📅 **Sou mais produtivo em Sexta-Feira** 
+
+📅 **Sou mais produtivo em Sexta-Feira**
 
 ```text
-Segunda-Feira            109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Terça-Feira              142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Quarta-Feira             120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Quinta-Feira             95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Sexta-Feira              146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Sábado                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Domingo                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Segunda-Feira            109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Terça-Feira              142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 %
+Quarta-Feira             120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 %
+Quinta-Feira             95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Sexta-Feira              146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 %
+Sábado                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Domingo                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 %
 ```
 
-
-📊 **Esta semana eu gastei meu tempo em** 
+📊 **Esta semana eu gastei meu tempo em**
 
 ```text
-💬 Linguagens de programação: 
-Other                    42 hrs 8 mins       ███████████████████░░░░░░   74.43 % 
-TypeScript               8 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-CSS                      2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Markdown                 1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-HTML                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+💬 Linguagens de programação:
+Other                    42 hrs 8 mins       ███████████████████░░░░░░   74.43 %
+TypeScript               8 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+CSS                      2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Markdown                 1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+HTML                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 
-🔥 Editores: 
-Chrome                   43 hrs 10 mins      ███████████████████░░░░░░   76.33 % 
-VS Code                  13 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+🔥 Editores:
+Chrome                   43 hrs 10 mins      ███████████████████░░░░░░   76.33 %
+VS Code                  13 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   23.64 %
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
-🤖 **AI Coding This Week** 
+🤖 **AI Coding This Week**
 
 ```text
 ⏱ AI Coding Time: 2 hrs 11 mins (3.86%)
@@ -765,7 +766,7 @@ Copilot CLI              0 secs              ░░░░░░░░░░░�
 
 🧠 14 AI Sessions, 26 AI Prompts
 
-Github-Copilot           879 lines           █████████████████████████   100.00 % 
+Github-Copilot           879 lines           █████████████████████████   100.00 %
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 19.8% of written lines came from AI
@@ -774,8 +775,7 @@ Github-Copilot           879 lines           ███████████�
 🔍 Hands-On Reviewer — 84.99% of changed lines were hand-edited
 ```
 
-
- Last Updated on 13/10/2026 13:15:55 UTC
+Last Updated on 13/10/2026 13:15:55 UTC
 <!--END_SECTION:waka-->
 
 ### 🔥 Sequência de Commits
