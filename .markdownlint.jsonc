@@ -1,0 +1,9 @@
+{
+  "default": true,
+  "MD013": false, // tamanho de linha
+  "MD033": false, // HTML inline
+  "MD041": false, // primeira linha como H1
+  "MD036": false, // ênfase como título
+  "MD024": false, // títulos duplicados
+  "MD051": false  // fragmentos de link (usa <a name>)
+}
