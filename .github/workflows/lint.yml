@@ -1,0 +1,20 @@
+name: Lint README
+
+on:
+  pull_request:
+  push:
+    paths:
+      - "README.md"
+      - ".markdownlint.jsonc"
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Run markdownlint
+        uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          globs: README.md
