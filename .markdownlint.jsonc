@@ -5,5 +5,9 @@
   "MD041": false, // primeira linha como H1
   "MD036": false, // ênfase como título
   "MD024": false, // títulos duplicados
-  "MD051": false  // fragmentos de link (usa <a name>)
+  "MD051": false, // fragmentos de link (usa <a name>)
+  "MD045": false, // ignorar alt text em imagens/badges
+  "MD009": false, // espaços no final das linhas
+  "MD012": false, // múltiplas linhas em branco consecutivas
+  "MD031": false  // linhas em branco ao redor de blocos de código
 }
