@@ -1,0 +1,122 @@
+name: Recent Activity
+
+on:
+  schedule:
+    - cron: "23 */6 * * *" # a cada 6 horas, no minuto 23 (UTC)
+  workflow_dispatch: # Permite rodar manualmente pela aba Actions do GitHub
+
+permissions:
+  contents: write
+
+# Evita conflito de push com os outros workflows que também commitam no README
+concurrency:
+  group: profile-readme-commits
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Update recent activity section
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const fs = require('fs');
+            const { owner, repo: profileRepo } = context.repo;
+
+            const START = '<!--START_SECTION:recent-activity-->';
+            const END = '<!--END_SECTION:recent-activity-->';
+            const REPOS_TO_SCAN = 8; // repositórios mais recentemente atualizados
+            const COMMITS_PER_REPO = 3; // últimos commits seus em cada um
+            const MAX_ITEMS = 6; // quantos aparecem no README
+            const MAX_MESSAGE = 70; // limite de caracteres da mensagem
+
+            // 1) Repositórios PRÓPRIOS e PÚBLICOS, do push mais recente para o mais antigo
+            const { data: all } = await github.rest.repos.listForUser({
+              username: owner,
+              type: 'owner',
+              sort: 'pushed',
+              direction: 'desc',
+              per_page: 30,
+            });
+            const candidates = all
+              .filter((r) => !r.fork && !r.archived && r.name !== profileRepo)
+              .slice(0, REPOS_TO_SCAN);
+
+            // 2) Últimos commits FEITOS POR VOCÊ em cada um deles (somente leitura)
+            const commits = [];
+            for (const r of candidates) {
+              try {
+                const { data } = await github.rest.repos.listCommits({
+                  owner,
+                  repo: r.name,
+                  author: owner,
+                  per_page: COMMITS_PER_REPO,
+                });
+                for (const c of data) {
+                  commits.push({
+                    repo: r.name,
+                    repoUrl: r.html_url,
+                    sha: c.sha,
+                    url: c.html_url,
+                    message: c.commit.message.split('\n')[0].trim(),
+                    date: new Date(c.commit.author.date),
+                  });
+                }
+              } catch (err) {
+                // repositório vazio (409) ou sem acesso: ignora e segue
+                core.info(`Skipping ${r.name}: ${err.message}`);
+              }
+            }
+
+            commits.sort((a, b) => b.date - a.date);
+            const latest = commits.filter((c) => c.message).slice(0, MAX_ITEMS);
+
+            // 3) Monta o markdown (data absoluta, para só gerar commit quando houver novidade)
+            const fmt = new Intl.DateTimeFormat('pt-BR', {
+              timeZone: 'America/Sao_Paulo',
+              day: '2-digit',
+              month: '2-digit',
+              year: 'numeric',
+            });
+            const clean = (text) => {
+              const t = text.replace(/`/g, "'");
+              return t.length > MAX_MESSAGE ? `${t.slice(0, MAX_MESSAGE - 1)}…` : t;
+            };
+
+            const lines = latest.map(
+              (c) =>
+                `**[${c.repo}](${c.repoUrl})** · \`${clean(c.message)}\` · [\`${c.sha.slice(0, 7)}\`](${c.url}) · ${fmt.format(c.date)}`,
+            );
+            const body = lines.length
+              ? lines.join('\n\n')
+              : '_Nenhuma atividade recente encontrada._';
+            const block = `${START}\n\n${body}\n\n${END}`;
+
+            // 4) Substitui só o trecho entre os marcadores
+            const file = 'README.md';
+            const readme = fs.readFileSync(file, 'utf8');
+            const start = readme.indexOf(START);
+            const end = readme.indexOf(END);
+            if (start === -1 || end === -1 || end < start) {
+              throw new Error(`Marcadores ${START} / ${END} não encontrados no README.md`);
+            }
+            const next = readme.slice(0, start) + block + readme.slice(end + END.length);
+            if (next !== readme) {
+              fs.writeFileSync(file, next);
+              core.info('README.md atualizado.');
+            } else {
+              core.info('Nada mudou.');
+            }
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "chore(readme): update recent activity"
+          git pull --rebase
+          git push
