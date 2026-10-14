@@ -21,7 +21,7 @@ jobs:
           # Conta e aparência
           user: VictorMartinsD
           template: classic
-          base: header, activity, metadata
+          base: header
           base_hireable: yes
           config_display: regular
           config_timezone: America/Sao_Paulo
@@ -41,15 +41,7 @@ jobs:
           # Projetos
           plugin_projects: yes
           plugin_projects_limit: 4
-
-          # Atividade recente
-          plugin_activity: yes
-          plugin_activity_filter: push, pr, release
-          plugin_activity_limit: 5
-          plugin_activity_days: 0 # sem limite de idade dos eventos
-          plugin_activity_timestamps: yes
-          plugin_activity_visibility: public # nunca exibe atividade privada
           
           # Tratamento de erros
           plugins_errors_fatal: yes
-          debug: yes
+          retries: 1
