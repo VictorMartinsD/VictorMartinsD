@@ -1,0 +1,47 @@
+# Referência completa: https://github.com/lowlighter/metrics#-documentation
+name: Metrics
+
+on:
+  schedule:
+    - cron: "47 11 * * *" # todo dia às 11:47 UTC (08:47 em Brasília)
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Conta e aparência
+          user: VictorMartinsD
+          template: classic
+          base: header, activity, metadata
+          base_hireable: yes
+          base_indepth: yes # totais mais precisos (commits, PRs, issues)
+          config_display: columns
+          config_timezone: America/Sao_Paulo
+          config_output: svg
+          output_condition: data-changed # só commita se os dados mudaram
+          committer_message: "chore(stats): update GitHub metrics"
+
+          # Atividade recente
+          plugin_activity: yes
+          plugin_activity_filter: push, pr, release
+          plugin_activity_limit: 5
+          plugin_activity_days: 0 # sem limite de idade dos eventos
+          plugin_activity_timestamps: yes
+          plugin_activity_visibility: public # nunca exibe atividade privada
+
+          # Linguagens mais usadas
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_other: yes
+          plugin_languages_threshold: 0%
