@@ -711,46 +711,47 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 ### ⌚ Tempo de Código (WakaTime)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%208%20mins-blue?style=flat)
 
-**Eu sou diurno 🐤** 
+**Eu sou diurno 🐤**
 
 ```text
-🌞 Manhã                  233 commits         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-🌆 Tarde                  307 commits         ██████████░░░░░░░░░░░░░░░   38.76 % 
-🌃 Noite                  240 commits         ████████░░░░░░░░░░░░░░░░░   30.30 % 
-🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+🌞 Manhã                  233 commits         ███████░░░░░░░░░░░░░░░░░░   29.42 %
+🌆 Tarde                  307 commits         ██████████░░░░░░░░░░░░░░░   38.76 %
+🌃 Noite                  240 commits         ████████░░░░░░░░░░░░░░░░░   30.30 %
+🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
-📅 **Sou mais produtivo em Terça-Feira** 
+
+📅 **Sou mais produtivo em Terça-Feira**
 
 ```text
-Segunda-Feira            109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Terça-Feira              146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Quarta-Feira             123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Quinta-Feira             95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Sexta-Feira              146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Sábado                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Domingo                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Segunda-Feira            109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 %
+Terça-Feira              146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 %
+Quarta-Feira             123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
+Quinta-Feira             95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Sexta-Feira              146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 %
+Sábado                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+Domingo                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 %
 ```
 
-
-📊 **Esta semana eu gastei meu tempo em** 
+📊 **Esta semana eu gastei meu tempo em**
 
 ```text
-💬 Linguagens de programação: 
-TypeScript               13 hrs 3 mins       █████████████████░░░░░░░░   68.58 % 
-CSS                      3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-HTML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+💬 Linguagens de programação:
+TypeScript               13 hrs 3 mins       █████████████████░░░░░░░░   68.58 %
+CSS                      3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 %
+Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+HTML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 
-🔥 Editores: 
-VS Code                  19 hrs 2 mins       █████████████████████████   100.00 % 
+🔥 Editores:
+VS Code                  19 hrs 2 mins       █████████████████████████   100.00 %
 ```
 
-🤖 **AI Coding This Week** 
+🤖 **AI Coding This Week**
 
 ```text
 ⏱ AI Coding Time: 3 hrs 25 mins (17.96%)
@@ -763,7 +764,7 @@ VS Code                  19 hrs 2 mins       ███████████�
 
 🧠 11 AI Sessions, 27 AI Prompts
 
-Github-Copilot           603 lines           █████████████████████████   100.00 % 
+Github-Copilot           603 lines           █████████████████████████   100.00 %
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 26.13% of written lines came from AI
@@ -772,8 +773,7 @@ Github-Copilot           603 lines           ███████████�
 🔍 Hands-On Reviewer — 80.08% of changed lines were hand-edited
 ```
 
-
- Last Updated on 14/10/2026 10:55:33 UTC
+Last Updated on 14/10/2026 10:55:33 UTC
 <!--END_SECTION:waka-->
 
 ### ⚡ Atividade Recente
