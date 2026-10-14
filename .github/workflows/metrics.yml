@@ -37,11 +37,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_threshold: 0%
-
-          # Projetos
-          plugin_projects: yes
-          plugin_projects_limit: 4
           
-          # Tratamento de erros
-          plugins_errors_fatal: yes
-          retries: 1
+          # Modo de diagnóstico
+          debug: yes
