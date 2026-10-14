@@ -28,14 +28,6 @@ jobs:
           config_output: svg
           committer_message: "chore(stats): update GitHub metrics"
 
-          # Atividade recente
-          plugin_activity: yes
-          plugin_activity_filter: push, pr, release
-          plugin_activity_limit: 5
-          plugin_activity_days: 0 # sem limite de idade dos eventos
-          plugin_activity_timestamps: yes
-          plugin_activity_visibility: public # nunca exibe atividade privada
-
           # Linguagens mais usadas
           plugin_languages: yes
           plugin_languages_sections: most-used
@@ -45,3 +37,19 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_threshold: 0%
+
+          # Projetos
+          plugin_projects: yes
+          plugin_projects_limit: 4
+
+          # Atividade recente
+          plugin_activity: yes
+          plugin_activity_filter: push, pr, release
+          plugin_activity_limit: 5
+          plugin_activity_days: 0 # sem limite de idade dos eventos
+          plugin_activity_timestamps: yes
+          plugin_activity_visibility: public # nunca exibe atividade privada
+          
+          # Tratamento de erros
+          plugins_errors_fatal: yes
+          debug: yes
