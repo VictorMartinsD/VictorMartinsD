@@ -708,75 +708,25 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 
 ## 📊 Estatísticas e Atividade
 
-### ⌚ Tempo de Código (WakaTime)
+### 💻 Visão Geral & Tecnologias
+<img alt="Métricas do GitHub de VictorMartinsD: atividade e linguagens mais usadas" src="./github-metrics.svg" width="800" />
 
-<!--START_SECTION:waka-->
+<p align="center">
+  <br>
+  <sub><b>Nota:</b> A seção de "Linguagens mais usadas" é uma métrica baseada em meus repositórios públicos, servindo como panorama estatístico e não como limitador de proficiência técnica.</sub>
+</p>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2039%20mins-blue?style=flat)
+### 📊 Atividade em 3D
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%208%20mins-blue?style=flat)
-
-**Eu sou diurno 🐤**
-
-```text
-🌞 Manhã                  233 commits         ███████░░░░░░░░░░░░░░░░░░   29.42 %
-🌆 Tarde                  307 commits         ██████████░░░░░░░░░░░░░░░   38.76 %
-🌃 Noite                  240 commits         ████████░░░░░░░░░░░░░░░░░   30.30 %
-🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-```
-
-📅 **Sou mais produtivo em Terça-Feira**
-
-```text
-Segunda-Feira            109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 %
-Terça-Feira              146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 %
-Quarta-Feira             123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-Quinta-Feira             95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-Sexta-Feira              146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 %
-Sábado                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-Domingo                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-```
-
-📊 **Esta semana eu gastei meu tempo em**
-
-```text
-💬 Linguagens de programação:
-TypeScript               13 hrs 3 mins       █████████████████░░░░░░░░   68.58 %
-CSS                      3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 %
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-HTML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-
-🔥 Editores:
-VS Code                  19 hrs 2 mins       █████████████████████████   100.00 %
-```
-
-🤖 **AI Coding This Week**
-
-```text
-⏱ AI Coding Time: 3 hrs 25 mins (17.96%)
-
-✍️ 603 lines written by AI, 1,705 lines written by hand (26.13% AI-written)
-
-🔤 343,368 Input Tokens, 5,518 Output Tokens
-
-💵 $1.11 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 27 AI Prompts
-
-Github-Copilot           603 lines           █████████████████████████   100.00 %
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.13% of written lines came from AI
-📝 Concise Prompter — average 367 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 80.08% of changed lines were hand-edited
-```
-
-Last Updated on 14/10/2026 10:55:33 UTC
-<!--END_SECTION:waka-->
+[<img alt="3D Contri-Graph" src="profile-3d-contrib/profile-night-rainbow.svg" width="600">](https://github.com/VictorMartinsD)
 
 ### ⚡ Atividade Recente
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="left">
 
 <!--START_SECTION:recent-activity-->
 
@@ -794,6 +744,12 @@ Last Updated on 14/10/2026 10:55:33 UTC
 
 <!--END_SECTION:recent-activity-->
 
+</td>
+  </tr>
+</table>
+
+<div align="center">
+
 ### 🔥 Sequência de Commits
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -802,26 +758,75 @@ Last Updated on 14/10/2026 10:55:33 UTC
 
   <br/>
 
-### 💻 Status do Perfil no GitHub
+### ⌚ Tempo de Código (WakaTime)
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="VictorMartinsD's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=VictorMartinsD&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=82AAFF&icon_color=82AAFF&text_color=82AAFF" height="192px"/>
-  </a>
+<!--START_SECTION:waka-->
 
-  <br>
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs-blue?style=flat)
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="VictorMartinsD's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VictorMartinsD&langs_count=8&layout=compact&hide_border=false&bg_color=000000&title_color=82AAFF&icon_color=82AAFF&text_color=82AAFF&hide=Jupyter%20Notebook,Roff&card_height=192" height="192px"/>
-  </a>
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2048%20mins-blue?style=flat)
 
-<p align="center">
-  <br>
-  <sub><b>Nota:</b> A seção de "Linguagens mais usadas" é uma métrica baseada em meus repositórios públicos, servindo como panorama estatístico e não como limitador de proficiência técnica.</sub>
-</p>
+**Eu sou diurno 🐤**
 
-### 📊 Atividade em 3D
+```text
+🌞 Manhã                  229 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 %
+🌆 Tarde                  304 commits         ██████████░░░░░░░░░░░░░░░   38.73 %
+🌃 Noite                  240 commits         ████████░░░░░░░░░░░░░░░░░   30.57 %
+🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+```
 
-[<img alt="3D Contri-Graph" src="profile-3d-contrib/profile-night-rainbow.svg" width="600">](https://github.com/VictorMartinsD)
+📅 **Sou mais produtivo em Sexta-Feira**
+
+```text
+Segunda-Feira            109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Terça-Feira              142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 %
+Quarta-Feira             120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 %
+Quinta-Feira             95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Sexta-Feira              146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 %
+Sábado                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Domingo                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+```
+
+📊 **Esta semana eu gastei meu tempo em**
+
+```text
+💬 Linguagens de programação:
+Other                    42 hrs 8 mins       ███████████████████░░░░░░   74.43 %
+TypeScript               8 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+CSS                      2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Markdown                 1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+HTML                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+
+🔥 Editores:
+Chrome                   43 hrs 10 mins      ███████████████████░░░░░░   76.33 %
+VS Code                  13 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   23.64 %
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
+🤖 **AI Coding This Week**
+
+```text
+⏱ AI Coding Time: 2 hrs 11 mins (3.86%)
+
+✍️ 454 lines written by AI, 1,839 lines written by hand (19.8% AI-written)
+
+🔤 325,210 Input Tokens, 5,436 Output Tokens
+
+💵 $1.27 Estimated AI Cost This Week
+
+🧠 14 AI Sessions, 26 AI Prompts
+
+Github-Copilot           879 lines           █████████████████████████   100.00 %
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 19.8% of written lines came from AI
+📄 Detailed Prompter — average 537 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 84.99% of changed lines were hand-edited
+```
+
+Last Updated on 13/10/2026 13:15:55 UTC
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -836,10 +841,13 @@ Last Updated on 14/10/2026 10:55:33 UTC
 ## 🎯 Aberto a Oportunidades
 
 </div>
+
+<div style="max-width: 750px; margin: 0 auto; text-align: left;">
+
 <br>
-<table width="80%" border="0">
+<table align="center" width="100%" style="border: none; border-collapse: collapse; background: transparent;">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top" style="border: none; background: transparent; text-align: left;">
 
 ```yaml
 buscando:
@@ -865,6 +873,8 @@ modelo_trabalho: Remoto, Híbrido ou Presencial
    </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
