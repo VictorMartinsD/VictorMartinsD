@@ -10,6 +10,7 @@ on:
       - "Atualizar data do perfil"
       - "Links"
       - "Recent Activity"
+      - "Metrics"
     types: [completed]
 
 permissions:
