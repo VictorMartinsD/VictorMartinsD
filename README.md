@@ -709,6 +709,7 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 ## 📊 Estatísticas e Atividade
 
 ### 💻 Visão Geral & Tecnologias
+
 <img alt="Métricas do GitHub de VictorMartinsD: atividade e linguagens mais usadas" src="./github-metrics.svg" width="800" />
 
 <p align="center">
