@@ -1,11 +1,11 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+# Referência completa: https://github.com/lowlighter/metrics#-documentation
 name: Metrics
+
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "47 11 * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  schedule:
+    - cron: "47 11 * * *" # todo dia às 11:47 UTC (08:47 em Brasília)
+  workflow_dispatch: # Permite rodar manualmente pela aba Actions do GitHub
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,46 +14,34 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - public_repo
-          #  - read:project
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
+          # Token pessoal (clássico) com os escopos: public_repo, read:org,
+          # read:packages, read:project, read:user e repo:status
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
+          # Conta e aparência
           user: VictorMartinsD
           template: classic
-          base: header
+          base: header, activity, metadata
           base_hireable: yes
+          config_display: regular
           config_timezone: America/Sao_Paulo
+          config_output: svg
           committer_message: "chore(stats): update GitHub metrics"
+
+          # Atividade recente
           plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_activity_filter: push, pr, release
           plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_activity_days: 0 # sem limite de idade dos eventos
+          plugin_activity_timestamps: yes
+          plugin_activity_visibility: public # nunca exibe atividade privada
+
+          # Linguagens mais usadas
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_sections: most-used
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: percentage
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
+          plugin_languages_other: yes
           plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-          plugin_projects: yes
-          plugin_projects_limit: 4
