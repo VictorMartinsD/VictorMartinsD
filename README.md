@@ -822,18 +822,21 @@ Last Updated on 15/10/2026 10:37:59 UTC
     <td align="left">
 
 ### 📖 Lendo Atualmente
+
 <!-- GOODREADS-CURRENTLY-READING:START -->
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 <br />
 
 ### ✅ Livros Lidos & Avaliações
+
 <!-- GOODREADS-READ:START -->
 <!-- GOODREADS-READ:END -->
 
 <br />
 
 ### 🎯 Próximas Leituras (To Read)
+
 <!-- GOODREADS-TO-READ:START -->
 <!-- GOODREADS-TO-READ:END -->
 
