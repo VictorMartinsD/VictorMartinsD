@@ -843,13 +843,9 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### 📌 Próximas Leituras (To Read)
 
 <!-- GOODREADS-TO-READ:START -->
-
-- 🎯 **[The Little Book That Still Beats the Market (Little Books. Big Profits)](https://www.goodreads.com/review/show/9027497271?utm_medium=api&utm_source=rss)** - _Joel Greenblatt_ (Média: ⭐️ 4) <br />
-- 🎯 **[Fator de enriquecimento: Uma fórmula simples e poderosa que vai enriquecê-lo e fazer você atingir seus objetivos (Portuguese Edition)](https://www.goodreads.com/review/show/9027495149?utm_medium=api&utm_source=rss)** - _Paulo Vieira_ (Média: ⭐️ 3.89) <br />
-- 🎯 **[A ciência para ficar rico](https://www.goodreads.com/review/show/9027494834?utm_medium=api&utm_source=rss)** - _Wallace D. Wattles_ (Média: ⭐️ 4.18) <br />
-- 🎯 **[Vou-te Ensinar a Ficar Rico](https://www.goodreads.com/review/show/9027494595?utm_medium=api&utm_source=rss)** - _Ramit Sethi_ (Média: ⭐️ 3.75) <br />
-- 🎯 **[Pai Rico: Escola de Negócios](https://www.goodreads.com/review/show/9027494439?utm_medium=api&utm_source=rss)** - _Robert T. Kiyosaki_ (Média: ⭐️ 4.36) <br />
-
+<sub>• <a href="https://www.goodreads.com/review/show/9027497271?utm_medium=api&utm_source=rss"><b>The Little Book That Still Beats the Market (Little Books. Big Profits)</b></a> - <i>Joel Greenblatt</i> (Média: ⭐️ 4)</sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027495149?utm_medium=api&utm_source=rss"><b>Fator de enriquecimento: Uma fórmula simples e poderosa que vai enriquecê-lo e fazer você atingir seus objetivos (Portuguese Edition)</b></a> - <i>Paulo Vieira</i> (Média: ⭐️ 3.89)</sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027494834?utm_medium=api&utm_source=rss"><b>A ciência para ficar rico</b></a> - <i>Wallace D. Wattles</i> (Média: ⭐️ 4.18)</sub><br />
 <!-- GOODREADS-TO-READ:END -->
 
 <hr />
