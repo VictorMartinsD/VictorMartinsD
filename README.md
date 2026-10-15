@@ -708,13 +708,13 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 
 ## 📊 Estatísticas e Atividade
 
-### 💻 Visão Geral & Tecnologias
+### 💻 Visão Geral & Linguagens de Programação
 
 <img alt="Métricas do GitHub de VictorMartinsD: atividade e linguagens mais usadas" src="./github-metrics.svg" width="800" />
 
 <p align="center">
   <br>
-  <sub><b>Nota:</b> A seção de "Linguagens mais usadas" é uma métrica baseada em meus repositórios públicos, servindo como panorama estatístico e não como limitador de proficiência técnica.</sub>
+  <sub><b>Nota:</b> A seção de "Most used languages" é uma métrica baseada em meus repositórios públicos, servindo como panorama estatístico e não como limitador de proficiência técnica.</sub>
 </p>
 
 ### 📊 Atividade em 3D
@@ -813,7 +813,33 @@ Github-Copilot           583 lines           ███████████�
 Last Updated on 15/10/2026 10:37:59 UTC
 <!--END_SECTION:waka-->
 
+## 📚 Minha Estante & Leituras
+
 </div>
+
+<table align="center">
+  <tr>
+    <td align="left">
+
+### 📖 Lendo Atualmente
+<!-- GOODREADS-CURRENTLY-READING:START -->
+<!-- GOODREADS-CURRENTLY-READING:END -->
+
+<br />
+
+### ✅ Livros Lidos & Avaliações
+<!-- GOODREADS-READ:START -->
+<!-- GOODREADS-READ:END -->
+
+<br />
+
+### 🎯 Próximas Leituras (To Read)
+<!-- GOODREADS-TO-READ:START -->
+<!-- GOODREADS-TO-READ:END -->
+
+</td>
+  </tr>
+</table>
 
 ---
 
