@@ -824,6 +824,7 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### 📖 Lendo Atualmente
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+<a href="https://www.goodreads.com/review/show/9027461544?utm_medium=api&utm_source=rss"><img src="" width="90" alt="O Código da Inteligência" title="O Código da Inteligência" /></a>
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 <br />
