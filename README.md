@@ -813,9 +813,9 @@ Github-Copilot           583 lines           ███████████�
 Last Updated on 15/10/2026 10:37:59 UTC
 <!--END_SECTION:waka-->
 
-## 📚 Minha Estante & Leituras
-
 </div>
+
+## 📚 Livros
 
 <table align="center">
   <tr>
@@ -827,8 +827,9 @@ Last Updated on 15/10/2026 10:37:59 UTC
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 <br />
+<hr />
 
-### ✅ Livros Lidos & Avaliações
+### ✅ Lidos
 
 <!-- GOODREADS-READ:START -->
 <sub><a href="https://www.goodreads.com/review/show/9027475458?utm_medium=api&utm_source=rss"><b>Scrum: The Art of Doing Twice the Work in Half the Time</b></a><br /><i>Jeff Sutherland</i><br />Sua nota: ⭐⭐⭐⭐<br />Média: ⭐️ 4.11 (2014)</sub> |
@@ -839,9 +840,9 @@ Last Updated on 15/10/2026 10:37:59 UTC
 <sub><a href="https://www.goodreads.com/review/show/9027468496?utm_medium=api&utm_source=rss"><b>a sutil arte de ligar o foda-se</b></a><br /><i>Mark Manson</i><br />Sua nota: ⭐⭐⭐⭐<br />Média: ⭐️ 3.34 (2016)</sub> |
 <!-- GOODREADS-READ:END -->
 
-<br />
+<hr />
 
-### 🎯 Próximas Leituras (To Read)
+### 📌 Próximas Leituras (To Read)
 
 <!-- GOODREADS-TO-READ:START -->
 - 🎯 **[The Little Book That Still Beats the Market (Little Books. Big Profits)](https://www.goodreads.com/review/show/9027497271?utm_medium=api&utm_source=rss)** - *Joel Greenblatt* (Média: ⭐️ 4) <br />
@@ -850,6 +851,15 @@ Last Updated on 15/10/2026 10:37:59 UTC
 - 🎯 **[Vou-te Ensinar a Ficar Rico](https://www.goodreads.com/review/show/9027494595?utm_medium=api&utm_source=rss)** - *Ramit Sethi* (Média: ⭐️ 3.75) <br />
 - 🎯 **[Pai Rico: Escola de Negócios](https://www.goodreads.com/review/show/9027494439?utm_medium=api&utm_source=rss)** - *Robert T. Kiyosaki* (Média: ⭐️ 4.36) <br />
 <!-- GOODREADS-TO-READ:END -->
+
+<hr />
+
+<div align="center">
+  <sub>Quer ver todas as minhas resenhas, metas de leitura e histórico completo?</sub><br /><br />
+  <a href="https://www.goodreads.com/user/show/205640656-victor-dias" target="_blank">
+    <img src="https://img.shields.io/badge/Goodreads-Ver_perfil_completo-371B0B?style=for-the-badge&logo=goodreads&logoColor=white" alt="Perfil do Goodreads" />
+  </a>
+</div>
 
 </td>
   </tr>
