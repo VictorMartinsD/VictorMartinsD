@@ -831,6 +831,12 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### ✅ Livros Lidos & Avaliações
 
 <!-- GOODREADS-READ:START -->
+<sub><a href="https://www.goodreads.com/review/show/9027475458?utm_medium=api&utm_source=rss"><b>Scrum: The Art of Doing Twice the Work in Half the Time</b></a><br /><i>Jeff Sutherland</i><br />Sua nota: ⭐⭐⭐⭐<br />Média: ⭐️ 4.11 (2014)</sub> |
+<sub><a href="https://www.goodreads.com/review/show/9027474371?utm_medium=api&utm_source=rss"><b>Como Fazer Amigos e Influenciar Pessoas</b></a><br /><i>Dale Carnegie</i><br />Sua nota: ⭐⭐⭐⭐⭐<br />Média: ⭐️ 4.14 (1936)</sub> |
+<sub><a href="https://www.goodreads.com/review/show/9027473048?utm_medium=api&utm_source=rss"><b>Resumo Estendido De As Armas Da Persuasão (Influence: The Psychology Of Persuasion) – Baseado No Livro De Robert B. Cialdini</b></a><br /><i>Mentors Library</i><br />Sua nota: ⭐⭐⭐⭐<br />Média: ⭐️ 4.17 ()</sub> |
+<sub><a href="https://www.goodreads.com/review/show/9027471168?utm_medium=api&utm_source=rss"><b>O Poder do Hábito: Por que Fazemos o Que Fazemos na Vida e nos Negócios</b></a><br /><i>Charles Duhigg</i><br />Sua nota: ⭐⭐⭐⭐⭐<br />Média: ⭐️ 4.09 (2012)</sub> |
+<sub><a href="https://www.goodreads.com/review/show/9027469399?utm_medium=api&utm_source=rss"><b>O monge e o executivo</b></a><br /><i>James C. Hunter</i><br />Sua nota: ⭐⭐⭐⭐<br />Média: ⭐️ 3.89 (1998)</sub> |
+<sub><a href="https://www.goodreads.com/review/show/9027468496?utm_medium=api&utm_source=rss"><b>a sutil arte de ligar o foda-se</b></a><br /><i>Mark Manson</i><br />Sua nota: ⭐⭐⭐⭐<br />Média: ⭐️ 3.34 (2016)</sub> |
 <!-- GOODREADS-READ:END -->
 
 <br />
