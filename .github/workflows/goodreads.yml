@@ -24,7 +24,8 @@ jobs:
           shelf: "currently-reading"
           comment_tag_name: "GOODREADS-CURRENTLY-READING"
           max_books_count: "3"
-          template: '<a href="$url"><img src="$cover_image" width="90" alt="$title" title="$title" /></a> '
+          sort_by_fields: ">user_date_added"
+          template: '<sub>• <a href="$url"><b>$title</b></a> - <i>$author</i><br />&nbsp;&nbsp;Status: Lendo atualmente</sub><br /><br />'
 
       # 2. LIVROS LIDOS
       - name: Fetch Read Books
@@ -46,7 +47,7 @@ jobs:
           comment_tag_name: "GOODREADS-TO-READ"
           max_books_count: "3"
           sort_by_fields: ">user_date_added"
-          template: '<sub>• <a href="$url"><b>$title</b></a> - <i>$author</i> (Média: ⭐️ $average_rating)</sub><br />'
+          template: '<sub>• <a href="$url"><b>$title</b></a> - <i>$author</i><br />&nbsp;&nbsp;Média: ⭐️ $average_rating</sub><br /><br />'
 
       # 4. COMMIT DAS ALTERAÇÕES NO README
       - name: Commit changes
