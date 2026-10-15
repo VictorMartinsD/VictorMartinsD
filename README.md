@@ -69,7 +69,11 @@
 
 <a name="sobre"></a>
 
+<div align="center">
+
 ## 👤 Sobre Mim
+
+</div>
 
 > Sou formado em **Sistemas de Informação** e desenvolvedor web focado em **Frontend**. Gosto de entender o problema antes de construir a solução e aprendo na prática: estudo, crio projetos, testo e ajusto. Também olho para o produto além do código, priorizando a experiência do usuário e transformando necessidades em **requisitos claros**.
 
@@ -815,17 +819,20 @@ Last Updated on 15/10/2026 10:37:59 UTC
 
 </div>
 
-## 📚 Livros
-
 <table align="center">
   <tr>
     <td align="left">
 
+<div align="center">
+
+## 📚 Livros
+
+</div>
+
 ### 📖 Lendo Atualmente
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-<sub>• <a href="https://www.goodreads.com/review/show/9027788982?utm_medium=api&utm_source=rss"><b>Black Holes: The Key to Understanding the Universe</b></a> - <i>Brian Cox</i></sub><br />
-<sub>• <a href="https://www.goodreads.com/review/show/9027788849?utm_medium=api&utm_source=rss"><b>Beyond Order: 12 More Rules For Life</b></a> - <i>Jordan B. Peterson</i></sub><br />
+
 <sub>• <a href="https://www.goodreads.com/review/show/9027461544?utm_medium=api&utm_source=rss"><b>O Código da Inteligência</b></a> - <i>Augusto Cury</i></sub><br />
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
@@ -835,6 +842,7 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### ✅ Lidos
 
 <!-- GOODREADS-READ:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9027475458?utm_medium=api&utm_source=rss"><b>Scrum: The Art of Doing Twice the Work in Half the Time</b></a> - <i>Jeff Sutherland</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.11</sub><br /><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027474371?utm_medium=api&utm_source=rss"><b>Como Fazer Amigos e Influenciar Pessoas</b></a> - <i>Dale Carnegie</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.14</sub><br /><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027473048?utm_medium=api&utm_source=rss"><b>Resumo Estendido De As Armas Da Persuasão (Influence: The Psychology Of Persuasion) – Baseado No Livro De Robert B. Cialdini</b></a> - <i>Mentors Library</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.17</sub><br /><br />
@@ -845,9 +853,10 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### 📌 Próximas Leituras
 
 <!-- GOODREADS-TO-READ:START -->
-<sub>• <a href="https://www.goodreads.com/review/show/9027762229?utm_medium=api&utm_source=rss"><b>Essencialismo: A disciplinada busca por menos (Portuguese Edition)</b></a> - <i>Greg McKeown</i></sub><br />
-<sub>• <a href="https://www.goodreads.com/review/show/9027761808?utm_medium=api&utm_source=rss"><b>Inspirado: Como Criar Produtos De Tecnologia Que Os Clientes Amam</b></a> - <i>Marty Cagan</i></sub><br />
-<sub>• <a href="https://www.goodreads.com/review/show/9027760910?utm_medium=api&utm_source=rss"><b>A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade</b></a> - <i>Morgan Housel</i></sub><br />
+
+<sub>• <a href="https://www.goodreads.com/review/show/9027497271?utm_medium=api&utm_source=rss"><b>The Little Book That Still Beats the Market (Little Books. Big Profits)</b></a> - <i>Joel Greenblatt</i></sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027495149?utm_medium=api&utm_source=rss"><b>Fator de enriquecimento: Uma fórmula simples e poderosa que vai enriquecê-lo e fazer você atingir seus objetivos (Portuguese Edition)</b></a> - <i>Paulo Vieira</i></sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027494834?utm_medium=api&utm_source=rss"><b>A ciência para ficar rico</b></a> - <i>Wallace D. Wattles</i></sub><br />
 <!-- GOODREADS-TO-READ:END -->
 
 <hr />
