@@ -844,6 +844,11 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### 🎯 Próximas Leituras (To Read)
 
 <!-- GOODREADS-TO-READ:START -->
+- 🎯 **[The Little Book That Still Beats the Market (Little Books. Big Profits)](https://www.goodreads.com/review/show/9027497271?utm_medium=api&utm_source=rss)** - *Joel Greenblatt* (Média: ⭐️ 4) <br />
+- 🎯 **[Fator de enriquecimento: Uma fórmula simples e poderosa que vai enriquecê-lo e fazer você atingir seus objetivos (Portuguese Edition)](https://www.goodreads.com/review/show/9027495149?utm_medium=api&utm_source=rss)** - *Paulo Vieira* (Média: ⭐️ 3.89) <br />
+- 🎯 **[A ciência para ficar rico](https://www.goodreads.com/review/show/9027494834?utm_medium=api&utm_source=rss)** - *Wallace D. Wattles* (Média: ⭐️ 4.18) <br />
+- 🎯 **[Vou-te Ensinar a Ficar Rico](https://www.goodreads.com/review/show/9027494595?utm_medium=api&utm_source=rss)** - *Ramit Sethi* (Média: ⭐️ 3.75) <br />
+- 🎯 **[Pai Rico: Escola de Negócios](https://www.goodreads.com/review/show/9027494439?utm_medium=api&utm_source=rss)** - *Robert T. Kiyosaki* (Média: ⭐️ 4.36) <br />
 <!-- GOODREADS-TO-READ:END -->
 
 </td>
