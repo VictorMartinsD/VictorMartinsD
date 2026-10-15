@@ -25,9 +25,9 @@ jobs:
           comment_tag_name: "GOODREADS-CURRENTLY-READING"
           max_books_count: "3"
           sort_by_fields: ">user_date_added"
-          template: '<sub>• <a href="$url"><b>$title</b></a> - <i>$author</i></sub><br /><br />'
+          template: '<sub>• <a href="$url"><b>$title</b></a> - <i>$author</i></sub><br />'
 
-      # 2. LIVROS LIDOS
+      # 2. LIDOS
       - name: Fetch Read Books
         uses: zwacky/goodreads-profile-workflow@main
         with:
@@ -36,7 +36,7 @@ jobs:
           comment_tag_name: "GOODREADS-READ"
           max_books_count: "3"
           sort_by_fields: ">user_read_at"
-          template: '<sub>• <a href="$url"><b>$title</b></a> - <i>$author</i><br />&nbsp;&nbsp;Minha nota: $my_rating_stars &nbsp;|&nbsp; Média: ⭐️ $average_rating</sub><br /><br />'
+          template: '<sub>• <a href="$url"><b>$title</b></a> - <i>$author</i><br />&nbsp;&nbsp;Minha nota: $my_rating_stars &nbsp;|&nbsp; Média: ⭐️ $average_rating</sub><br />'
 
       # 3. QUERO LER
       - name: Fetch To Read Books
