@@ -832,6 +832,7 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### ✅ Lidos
 
 <!-- GOODREADS-READ:START -->
+
 <sub><a href="https://www.goodreads.com/review/show/9027475458?utm_medium=api&utm_source=rss"><b>Scrum: The Art of Doing Twice the Work in Half the Time</b></a><br /><i>Jeff Sutherland</i><br />Sua nota: ⭐⭐⭐⭐<br />Média: ⭐️ 4.11 (2014)</sub> |
 <sub><a href="https://www.goodreads.com/review/show/9027474371?utm_medium=api&utm_source=rss"><b>Como Fazer Amigos e Influenciar Pessoas</b></a><br /><i>Dale Carnegie</i><br />Sua nota: ⭐⭐⭐⭐⭐<br />Média: ⭐️ 4.14 (1936)</sub> |
 <sub><a href="https://www.goodreads.com/review/show/9027473048?utm_medium=api&utm_source=rss"><b>Resumo Estendido De As Armas Da Persuasão (Influence: The Psychology Of Persuasion) – Baseado No Livro De Robert B. Cialdini</b></a><br /><i>Mentors Library</i><br />Sua nota: ⭐⭐⭐⭐<br />Média: ⭐️ 4.17 ()</sub> |
@@ -845,11 +846,13 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### 📌 Próximas Leituras (To Read)
 
 <!-- GOODREADS-TO-READ:START -->
-- 🎯 **[The Little Book That Still Beats the Market (Little Books. Big Profits)](https://www.goodreads.com/review/show/9027497271?utm_medium=api&utm_source=rss)** - *Joel Greenblatt* (Média: ⭐️ 4) <br />
-- 🎯 **[Fator de enriquecimento: Uma fórmula simples e poderosa que vai enriquecê-lo e fazer você atingir seus objetivos (Portuguese Edition)](https://www.goodreads.com/review/show/9027495149?utm_medium=api&utm_source=rss)** - *Paulo Vieira* (Média: ⭐️ 3.89) <br />
-- 🎯 **[A ciência para ficar rico](https://www.goodreads.com/review/show/9027494834?utm_medium=api&utm_source=rss)** - *Wallace D. Wattles* (Média: ⭐️ 4.18) <br />
-- 🎯 **[Vou-te Ensinar a Ficar Rico](https://www.goodreads.com/review/show/9027494595?utm_medium=api&utm_source=rss)** - *Ramit Sethi* (Média: ⭐️ 3.75) <br />
-- 🎯 **[Pai Rico: Escola de Negócios](https://www.goodreads.com/review/show/9027494439?utm_medium=api&utm_source=rss)** - *Robert T. Kiyosaki* (Média: ⭐️ 4.36) <br />
+
+- 🎯 **[The Little Book That Still Beats the Market (Little Books. Big Profits)](https://www.goodreads.com/review/show/9027497271?utm_medium=api&utm_source=rss)** - _Joel Greenblatt_ (Média: ⭐️ 4) <br />
+- 🎯 **[Fator de enriquecimento: Uma fórmula simples e poderosa que vai enriquecê-lo e fazer você atingir seus objetivos (Portuguese Edition)](https://www.goodreads.com/review/show/9027495149?utm_medium=api&utm_source=rss)** - _Paulo Vieira_ (Média: ⭐️ 3.89) <br />
+- 🎯 **[A ciência para ficar rico](https://www.goodreads.com/review/show/9027494834?utm_medium=api&utm_source=rss)** - _Wallace D. Wattles_ (Média: ⭐️ 4.18) <br />
+- 🎯 **[Vou-te Ensinar a Ficar Rico](https://www.goodreads.com/review/show/9027494595?utm_medium=api&utm_source=rss)** - _Ramit Sethi_ (Média: ⭐️ 3.75) <br />
+- 🎯 **[Pai Rico: Escola de Negócios](https://www.goodreads.com/review/show/9027494439?utm_medium=api&utm_source=rss)** - _Robert T. Kiyosaki_ (Média: ⭐️ 4.36) <br />
+
 <!-- GOODREADS-TO-READ:END -->
 
 <hr />
