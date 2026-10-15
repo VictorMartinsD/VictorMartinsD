@@ -845,10 +845,9 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### 📌 Próximas Leituras
 
 <!-- GOODREADS-TO-READ:START -->
-
-<sub>• <a href="https://www.goodreads.com/review/show/9027497271?utm_medium=api&utm_source=rss"><b>The Little Book That Still Beats the Market (Little Books. Big Profits)</b></a> - <i>Joel Greenblatt</i></sub><br />
-<sub>• <a href="https://www.goodreads.com/review/show/9027495149?utm_medium=api&utm_source=rss"><b>Fator de enriquecimento: Uma fórmula simples e poderosa que vai enriquecê-lo e fazer você atingir seus objetivos (Portuguese Edition)</b></a> - <i>Paulo Vieira</i></sub><br />
-<sub>• <a href="https://www.goodreads.com/review/show/9027494834?utm_medium=api&utm_source=rss"><b>A ciência para ficar rico</b></a> - <i>Wallace D. Wattles</i></sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027762229?utm_medium=api&utm_source=rss"><b>Essencialismo: A disciplinada busca por menos (Portuguese Edition)</b></a> - <i>Greg McKeown</i></sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027761808?utm_medium=api&utm_source=rss"><b>Inspirado: Como Criar Produtos De Tecnologia Que Os Clientes Amam</b></a> - <i>Marty Cagan</i></sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027760910?utm_medium=api&utm_source=rss"><b>A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade</b></a> - <i>Morgan Housel</i></sub><br />
 <!-- GOODREADS-TO-READ:END -->
 
 <hr />
