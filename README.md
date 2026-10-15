@@ -840,7 +840,7 @@ Last Updated on 15/10/2026 10:37:59 UTC
 
 <hr />
 
-### 📌 Próximas Leituras (To Read)
+### 📌 Próximas Leituras
 
 <!-- GOODREADS-TO-READ:START -->
 <sub>• <a href="https://www.goodreads.com/review/show/9027497271?utm_medium=api&utm_source=rss"><b>The Little Book That Still Beats the Market (Little Books. Big Profits)</b></a> - <i>Joel Greenblatt</i></sub><br />
