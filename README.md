@@ -843,9 +843,9 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### 📌 Próximas Leituras (To Read)
 
 <!-- GOODREADS-TO-READ:START -->
-<sub>• <a href="https://www.goodreads.com/review/show/9027497271?utm_medium=api&utm_source=rss"><b>The Little Book That Still Beats the Market (Little Books. Big Profits)</b></a> - <i>Joel Greenblatt</i><br />&nbsp;&nbsp;Média: ⭐️ 4</sub>
-<sub>• <a href="https://www.goodreads.com/review/show/9027495149?utm_medium=api&utm_source=rss"><b>Fator de enriquecimento: Uma fórmula simples e poderosa que vai enriquecê-lo e fazer você atingir seus objetivos (Portuguese Edition)</b></a> - <i>Paulo Vieira</i><br />&nbsp;&nbsp;Média: ⭐️ 3.89</sub>
-<sub>• <a href="https://www.goodreads.com/review/show/9027494834?utm_medium=api&utm_source=rss"><b>A ciência para ficar rico</b></a> - <i>Wallace D. Wattles</i><br />&nbsp;&nbsp;Média: ⭐️ 4.18</sub>
+<sub>• <a href="https://www.goodreads.com/review/show/9027497271?utm_medium=api&utm_source=rss"><b>The Little Book That Still Beats the Market (Little Books. Big Profits)</b></a> - <i>Joel Greenblatt</i><br />&nbsp;&nbsp;Média: ⭐️ 4</sub><br /><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027495149?utm_medium=api&utm_source=rss"><b>Fator de enriquecimento: Uma fórmula simples e poderosa que vai enriquecê-lo e fazer você atingir seus objetivos (Portuguese Edition)</b></a> - <i>Paulo Vieira</i><br />&nbsp;&nbsp;Média: ⭐️ 3.89</sub><br /><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027494834?utm_medium=api&utm_source=rss"><b>A ciência para ficar rico</b></a> - <i>Wallace D. Wattles</i><br />&nbsp;&nbsp;Média: ⭐️ 4.18</sub><br /><br />
 <!-- GOODREADS-TO-READ:END -->
 
 <hr />
