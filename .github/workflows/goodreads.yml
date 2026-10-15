@@ -1,0 +1,55 @@
+name: Update Goodreads Bookshelf
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa automaticamente 1x por dia
+  workflow_dispatch: # Permite rodar manualmente no painel do GitHub
+
+permissions:
+  contents: write # Permissão necessária para fazer commit no README
+
+jobs:
+  update-readme-books:
+    name: Update README with Goodreads Shelves
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      # 1. LENDO ATUALMENTE
+      - name: Fetch Currently Reading
+        uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "205640656"
+          shelf: "currently-reading"
+          comment_tag_name: "GOODREADS-CURRENTLY-READING"
+          max_books_count: "3"
+          template: '<a href="$url"><img src="$cover_image" width="90" alt="$title" title="$title" /></a> '
+
+      # 2. LIVROS LIDOS (Com nota e nota média)
+      - name: Fetch Read Books
+        uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "205640656"
+          shelf: "read"
+          comment_tag_name: "GOODREADS-READ"
+          max_books_count: "6"
+          sort_by_fields: ">user_read_at"
+          template: '<sub><a href="$url"><b>$title</b></a><br /><i>$author</i><br />Sua nota: $my_rating_stars<br />Média: ⭐️ $average_rating ($published_year)</sub> | '
+
+      # 3. QUERO LER (To Read)
+      - name: Fetch To Read Books
+        uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "205640656"
+          shelf: "to-read"
+          comment_tag_name: "GOODREADS-TO-READ"
+          max_books_count: "5"
+          sort_by_fields: ">user_date_added"
+          template: '- 🎯 **[$title]($url)** - *$author* (Média: ⭐️ $average_rating) <br />'
+
+      # 4. COMMIT DAS ALTERAÇÕES NO README
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "docs: update Goodreads bookshelf in README"
