@@ -832,9 +832,9 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### 📖 Lendo Atualmente
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-<sub>• <a href="https://www.goodreads.com/review/show/9027788982?utm_medium=api&utm_source=rss"><b>Black Holes: The Key to Understanding the Universe</b></a> - <i>Brian Cox</i></sub><br /><br />
-<sub>• <a href="https://www.goodreads.com/review/show/9027788849?utm_medium=api&utm_source=rss"><b>Beyond Order: 12 More Rules For Life</b></a> - <i>Jordan B. Peterson</i></sub><br /><br />
-<sub>• <a href="https://www.goodreads.com/review/show/9027461544?utm_medium=api&utm_source=rss"><b>O Código da Inteligência</b></a> - <i>Augusto Cury</i></sub><br /><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027788982?utm_medium=api&utm_source=rss"><b>Black Holes: The Key to Understanding the Universe</b></a> - <i>Brian Cox</i></sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027788849?utm_medium=api&utm_source=rss"><b>Beyond Order: 12 More Rules For Life</b></a> - <i>Jordan B. Peterson</i></sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027461544?utm_medium=api&utm_source=rss"><b>O Código da Inteligência</b></a> - <i>Augusto Cury</i></sub><br />
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 <br />
