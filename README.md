@@ -824,7 +824,7 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### 📖 Lendo Atualmente
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-<sub>• <a href="https://www.goodreads.com/review/show/9027461544?utm_medium=api&utm_source=rss"><b>O Código da Inteligência</b></a> - <i>Augusto Cury</i><br />&nbsp;&nbsp;Status: Lendo atualmente</sub><br /><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9027461544?utm_medium=api&utm_source=rss"><b>O Código da Inteligência</b></a> - <i>Augusto Cury</i></sub>
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 <br />
