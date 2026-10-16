@@ -120,6 +120,10 @@ const victor = {
       <br><sub>TypeScript</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <br><sub>React</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br><sub>HTML5</sub>
     </td>
@@ -128,12 +132,12 @@ const victor = {
       <br><sub>CSS3</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="65" height="65" alt="Vite" />
-      <br><sub>Vite</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
       <br><sub>Node.js</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="65" height="65" alt="Vite" />
+      <br><sub>Vite</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="65" height="65" alt="Webpack" />
@@ -165,6 +169,14 @@ const victor = {
     <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="65" height="65" alt="JSON" />
       <br><sub>JSON</sub>
+    </td>
+    <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65" />
+      <br><sub>SQL</sub>
+    </td>
+    <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="SQLite" />
+      <br><sub>SQLite</sub>
     </td>
     <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="65" height="65" alt="GitHub Actions" />
@@ -278,30 +290,18 @@ const victor = {
 
 ## 🧩 Aprendizado Atual
 
-_Consolidando os fundamentos de React, Tailwind CSS e banco de dados para construir aplicações web completas, modernas e interativas._
+_Aprofundando o uso de Tailwind CSS para criar interfaces web consistentes, responsivas e alinhadas às necessidades do produto._
 
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind CSS" />
       <br>Tailwind CSS
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65" />
-      <br>SQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="SQLite" />
-      <br>SQLite
     </td>
   </tr>
 </table>
 
-<sub>Em progresso: desenvolvimento de interfaces reativas com componentes em React, estilização utilitária com Tailwind CSS, além de consultas relacionais em SQL e manipulação de dados locais com SQLite.</sub>
+<sub>Em progresso: composição de layouts responsivos, criação de componentes reutilizáveis e aplicação de padrões visuais com classes utilitárias do Tailwind CSS.</sub>
 
 </div>
 
@@ -815,6 +815,7 @@ Github-Copilot           583 lines           ███████████�
 ```
 
 Last Updated on 15/10/2026 10:37:59 UTC
+
 <!--END_SECTION:waka-->
 
 </div>
@@ -832,7 +833,9 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### 📖 Lendo Atualmente
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9028520431?utm_medium=api&utm_source=rss"><b>O Código da Inteligência</b></a> - <i>Augusto Cury</i></sub><br />
+
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 <hr />
@@ -840,9 +843,11 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### ✅ Lidos
 
 <!-- GOODREADS-READ:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9027475458?utm_medium=api&utm_source=rss"><b>Scrum: The Art of Doing Twice the Work in Half the Time</b></a> - <i>Jeff Sutherland</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.11</sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027474371?utm_medium=api&utm_source=rss"><b>Como Fazer Amigos e Influenciar Pessoas</b></a> - <i>Dale Carnegie</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.14</sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027473048?utm_medium=api&utm_source=rss"><b>Resumo Estendido De As Armas Da Persuasão (Influence: The Psychology Of Persuasion) – Baseado No Livro De Robert B. Cialdini</b></a> - <i>Mentors Library</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.17</sub><br />
+
 <!-- GOODREADS-READ:END -->
 
 <hr />
@@ -850,9 +855,11 @@ Last Updated on 15/10/2026 10:37:59 UTC
 ### 📌 Próximas Leituras
 
 <!-- GOODREADS-TO-READ:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9027762229?utm_medium=api&utm_source=rss"><b>Essencialismo: A disciplinada busca por menos (Portuguese Edition)</b></a> - <i>Greg McKeown</i></sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027761808?utm_medium=api&utm_source=rss"><b>Inspirado: Como Criar Produtos De Tecnologia Que Os Clientes Amam</b></a> - <i>Marty Cagan</i></sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027760910?utm_medium=api&utm_source=rss"><b>A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade</b></a> - <i>Morgan Housel</i></sub><br />
+
 <!-- GOODREADS-TO-READ:END -->
 
 <hr />
