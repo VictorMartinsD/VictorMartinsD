@@ -89,13 +89,14 @@ const victor = {
     idioma:
       "Inglês (B1 - Intermediário geral: leitura, escrita, fala e escuta)",
     competencias: [
-      "JavaScript ES6+ e lógica de programação",
-      "HTML5 e CSS3",
+      "React e componentização de interfaces",
+      "JavaScript ES6+ e TypeScript",
+      "HTML5, CSS3 e design responsivo",
       "Documentação técnica",
     ],
   },
 
-  aprendendo_atualmente: ["React", "Tailwind CSS"],
+  aprendendo_atualmente: ["Tailwind CSS"],
 };
 ```
 
@@ -112,16 +113,16 @@ const victor = {
 <table align="center">
   <tr>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br><sub>JavaScript</sub>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <br><sub>React</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
       <br><sub>TypeScript</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
-      <br><sub>React</sub>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br><sub>JavaScript</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
@@ -135,18 +136,6 @@ const victor = {
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
       <br><sub>Node.js</sub>
     </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="65" height="65" alt="Vite" />
-      <br><sub>Vite</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="65" height="65" alt="Webpack" />
-      <br><sub>Webpack</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://cdn.simpleicons.org/markdown/ffffff" width="65" height="65" alt="Markdown" />
-      <br><sub>Markdown</sub>
-    </td>
   </tr>
 </table>
 
@@ -154,14 +143,6 @@ const victor = {
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="65" height="65" alt="npm" />
-      <br><sub>npm</sub>
-    </td>
-    <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png" width="65" height="65" alt="Express.js" />
-      <br><sub>Express.js</sub>
-    </td>
     <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST APIs" />
       <br><sub>REST APIs</sub>
@@ -171,16 +152,16 @@ const victor = {
       <br><sub>JSON</sub>
     </td>
     <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png" width="65" height="65" alt="Express.js" />
+      <br><sub>Express.js</sub>
+    </td>
+    <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65" />
       <br><sub>SQL</sub>
     </td>
     <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="SQLite" />
       <br><sub>SQLite</sub>
-    </td>
-    <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="65" height="65" alt="GitHub Actions" />
-      <br><sub>GitHub<br />Actions</sub>
     </td>
   </tr>
 </table>
@@ -190,6 +171,10 @@ const victor = {
 <table align="center">
   <tr>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="65" height="65" alt="Vite" />
+      <br><sub>Vite</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="65" height="65" alt="ESLint" />
       <br><sub>ESLint</sub>
     </td>
@@ -198,12 +183,20 @@ const victor = {
       <br><sub>Prettier</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://cdn.simpleicons.org/stylelint/ffffff" width="65" height="65" alt="Stylelint" />
-      <br><sub>Stylelint</sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="65" height="65" alt="npm" />
+      <br><sub>npm</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://cdn.worldvectorlogo.com/logos/husky.svg" width="65" height="65" alt="Husky" />
       <br><sub>Husky</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="65" height="65" alt="Webpack" />
+      <br><sub>Webpack</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://cdn.simpleicons.org/stylelint/ffffff" width="65" height="65" alt="Stylelint" />
+      <br><sub>Stylelint</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" width="65" height="65" alt="Babel" />
@@ -224,6 +217,14 @@ const victor = {
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br><sub>Github</sub>
     </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://cdn.simpleicons.org/githubpages/ffffff" width="65" height="65" alt="GitHub Pages" />
+      <br><sub>GitHub<br />Pages</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="65" height="65" alt="GitHub Actions" />
+      <br><sub>GitHub<br />Actions</sub>
+    </td>
   </tr>
 </table>
 
@@ -238,6 +239,14 @@ const victor = {
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
       <br><sub>Figma</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://cdn.simpleicons.org/markdown/ffffff" width="65" height="65" alt="Markdown" />
+      <br><sub>Markdown</sub>
+    </td>
+    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://desktop.github.com/images/desktop-icon.svg" width="65" height="65" alt="GitHub Desktop" />
+      <br><sub>GitHub<br />Desktop</sub>
     </td>
     <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="65" height="65" alt="Jira" />
@@ -257,8 +266,6 @@ const victor = {
 ### 📦 Ferramentas Complementares
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white">
   <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white">
