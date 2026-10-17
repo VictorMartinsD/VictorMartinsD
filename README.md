@@ -857,11 +857,9 @@ Last Updated on 16/10/2026 10:24:40 UTC
 ### 📌 Próximas Leituras
 
 <!-- GOODREADS-TO-READ:START -->
-
 <sub>• <a href="https://www.goodreads.com/review/show/9027762229?utm_medium=api&utm_source=rss"><b>Essencialismo: A disciplinada busca por menos (Portuguese Edition)</b></a> - <i>Greg McKeown</i></sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027761808?utm_medium=api&utm_source=rss"><b>Inspirado: Como Criar Produtos De Tecnologia Que Os Clientes Amam</b></a> - <i>Marty Cagan</i></sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027760910?utm_medium=api&utm_source=rss"><b>A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade</b></a> - <i>Morgan Housel</i></sub><br />
-
 <!-- GOODREADS-TO-READ:END -->
 
 <hr />
