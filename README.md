@@ -773,32 +773,33 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 ### ⌚ Tempo de Código (WakaTime)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2035%20mins-blue?style=flat)
 
-**Eu sou diurno 🐤** 
+**Eu sou diurno 🐤**
 
 ```text
-🌞 Manhã                  268 commits         ████████░░░░░░░░░░░░░░░░░   32.13 % 
-🌆 Tarde                  309 commits         █████████░░░░░░░░░░░░░░░░   37.05 % 
-🌃 Noite                  245 commits         ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+🌞 Manhã                  268 commits         ████████░░░░░░░░░░░░░░░░░   32.13 %
+🌆 Tarde                  309 commits         █████████░░░░░░░░░░░░░░░░   37.05 %
+🌃 Noite                  245 commits         ███████░░░░░░░░░░░░░░░░░░   29.38 %
+🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
-📅 **Sou mais produtivo em Sexta-Feira** 
+
+📅 **Sou mais produtivo em Sexta-Feira**
 
 ```text
-Segunda-Feira            109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Terça-Feira              146 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Quarta-Feira             135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Quinta-Feira             115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Sexta-Feira              156 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Sábado                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Domingo                  83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Segunda-Feira            109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 %
+Terça-Feira              146 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 %
+Quarta-Feira             135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
+Quinta-Feira             115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Sexta-Feira              156 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 %
+Sábado                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Domingo                  83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 %
 ```
 
-
-🤖 **AI Coding This Week** 
+🤖 **AI Coding This Week**
 
 ```text
 ⏱ AI Coding Time: 3 hrs 51 mins (29.01%)
@@ -811,7 +812,7 @@ Domingo                  83 commits          ██░░░░░░░░░�
 
 🧠 8 AI Sessions, 34 AI Prompts
 
-Github-Copilot           1,564 lines         █████████████████████████   100.00 % 
+Github-Copilot           1,564 lines         █████████████████████████   100.00 %
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 62.11% of written lines came from AI
@@ -820,8 +821,7 @@ Github-Copilot           1,564 lines         ███████████�
 🔍 Hands-On Reviewer — 65.87% of changed lines were hand-edited
 ```
 
-
- Last Updated on 17/10/2026 09:56:45 UTC
+Last Updated on 17/10/2026 09:56:45 UTC
 <!--END_SECTION:waka-->
 
 </div>
@@ -839,6 +839,7 @@ Github-Copilot           1,564 lines         ███████████�
 ### 📖 Lendo Atualmente
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9028520431?utm_medium=api&utm_source=rss"><b>O Código da Inteligência</b></a> - <i>Augusto Cury</i></sub><br />
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
@@ -847,6 +848,7 @@ Github-Copilot           1,564 lines         ███████████�
 ### ✅ Lidos
 
 <!-- GOODREADS-READ:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9027475458?utm_medium=api&utm_source=rss"><b>Scrum: The Art of Doing Twice the Work in Half the Time</b></a> - <i>Jeff Sutherland</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.11</sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027474371?utm_medium=api&utm_source=rss"><b>Como Fazer Amigos e Influenciar Pessoas</b></a> - <i>Dale Carnegie</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.14</sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027473048?utm_medium=api&utm_source=rss"><b>Resumo Estendido De As Armas Da Persuasão (Influence: The Psychology Of Persuasion) – Baseado No Livro De Robert B. Cialdini</b></a> - <i>Mentors Library</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.17</sub><br />
@@ -857,6 +859,7 @@ Github-Copilot           1,564 lines         ███████████�
 ### 📌 Próximas Leituras
 
 <!-- GOODREADS-TO-READ:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9027762229?utm_medium=api&utm_source=rss"><b>Essencialismo: A disciplinada busca por menos (Portuguese Edition)</b></a> - <i>Greg McKeown</i></sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027761808?utm_medium=api&utm_source=rss"><b>Inspirado: Como Criar Produtos De Tecnologia Que Os Clientes Amam</b></a> - <i>Marty Cagan</i></sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027760910?utm_medium=api&utm_source=rss"><b>A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade</b></a> - <i>Morgan Housel</i></sub><br />
