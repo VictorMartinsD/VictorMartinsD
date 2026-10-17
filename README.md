@@ -742,11 +742,11 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 
 <!--START_SECTION:recent-activity-->
 
+**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `feat: implement database connection and course creation route` · [`bc6afc0`](https://github.com/VictorMartinsD/query-builder/commit/bc6afc0119f96857a5575823737057cac45317a4) · 16/10/2026
+
+**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `feat: add updated_at column to courses table` · [`b546411`](https://github.com/VictorMartinsD/query-builder/commit/b546411930507896fa5236a87e80e748f72d90af) · 16/10/2026
+
 **[query-builder](https://github.com/VictorMartinsD/query-builder)** · `Merge branch 'main' of https://github.com/VictorMartinsD/query-builder` · [`f030386`](https://github.com/VictorMartinsD/query-builder/commit/f0303865865c12a76d913fa582bd5f2b84358602) · 16/10/2026
-
-**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `feat: create courses migration and ignore database files` · [`2253b18`](https://github.com/VictorMartinsD/query-builder/commit/2253b1822b6c39b9fdfd16f2c8db6b436ca1c2f5) · 16/10/2026
-
-**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `chore: setup knex configuration and execution scripts` · [`4269e88`](https://github.com/VictorMartinsD/query-builder/commit/4269e8813bfefca927c7312df4960ae2b0127d1c) · 16/10/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: enforce form field character limits` · [`e51e884`](https://github.com/VictorMartinsD/react-forms/commit/e51e88403a23ae6fe91172b84a15ca53505cc82e) · 13/10/2026
 
