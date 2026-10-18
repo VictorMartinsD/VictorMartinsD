@@ -742,11 +742,11 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 
 <!--START_SECTION:recent-activity-->
 
-**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `feat: add delete course route` · [`d403838`](https://github.com/VictorMartinsD/query-builder/commit/d403838dc2f15dd10fa888651698d549716f98a8) · 17/10/2026
+**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `feat: configure sqlite foreign keys and add modules routes` · [`05c1e94`](https://github.com/VictorMartinsD/query-builder/commit/05c1e94ad86dc9a4d79870951d89e8e623c908cc) · 18/10/2026
 
-**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `feat: add update course route and standardize controller returns` · [`19c90ab`](https://github.com/VictorMartinsD/query-builder/commit/19c90ab1aedcb37e16c196e28c16faeedadee478) · 17/10/2026
+**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `feat: create course_modules migration with foreign key` · [`96445af`](https://github.com/VictorMartinsD/query-builder/commit/96445af7764def81a3efde6d3b8609bba545f77d) · 18/10/2026
 
-**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `feat: add list courses route with sorting` · [`6e3f81f`](https://github.com/VictorMartinsD/query-builder/commit/6e3f81fd595f98e63945146f84ce7b9a66edaf7b) · 17/10/2026
+**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `feat: add initial courses seed and configuration` · [`692fcc2`](https://github.com/VictorMartinsD/query-builder/commit/692fcc2096076c8967f19950934084ceea2b2430) · 18/10/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: enforce form field character limits` · [`e51e884`](https://github.com/VictorMartinsD/react-forms/commit/e51e88403a23ae6fe91172b84a15ca53505cc82e) · 13/10/2026
 
