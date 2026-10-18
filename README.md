@@ -857,10 +857,9 @@ Last Updated on 17/10/2026 09:56:45 UTC
 ### 📌 Próximas Leituras
 
 <!-- GOODREADS-TO-READ:START -->
-
-<sub>• <a href="https://www.goodreads.com/review/show/9027762229?utm_medium=api&utm_source=rss"><b>Essencialismo: A disciplinada busca por menos (Portuguese Edition)</b></a> - <i>Greg McKeown</i></sub><br />
-<sub>• <a href="https://www.goodreads.com/review/show/9027761808?utm_medium=api&utm_source=rss"><b>Inspirado: Como Criar Produtos De Tecnologia Que Os Clientes Amam</b></a> - <i>Marty Cagan</i></sub><br />
-<sub>• <a href="https://www.goodreads.com/review/show/9027760910?utm_medium=api&utm_source=rss"><b>A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade</b></a> - <i>Morgan Housel</i></sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9032649940?utm_medium=api&utm_source=rss"><b>Inspira-te (Portuguese Edition)</b></a> - <i>Marty Cagan</i></sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9032643405?utm_medium=api&utm_source=rss"><b>The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you</b></a> - <i>Rob  Fitzpatrick</i></sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9032642197?utm_medium=api&utm_source=rss"><b>Escaping the Build Trap: How Effective Product Management Creates Real Value</b></a> - <i>Melissa Perri</i></sub><br />
 <!-- GOODREADS-TO-READ:END -->
 
 <hr />
