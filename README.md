@@ -742,6 +742,10 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 
 <!--START_SECTION:recent-activity-->
 
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat: implement global error handling and AppError` · [`8f5bd5f`](https://github.com/VictorMartinsD/api-restaurant/commit/8f5bd5f445e5b21ef37ce500ae28f806d2c47482) · 19/10/2026
+
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(api): setup express framework and implement product routes and c…` · [`616ea29`](https://github.com/VictorMartinsD/api-restaurant/commit/616ea292f58b03130bb65efc77763a0ad351f917) · 19/10/2026
+
 **[template-base-vite](https://github.com/VictorMartinsD/template-base-vite)** · `refactor(build): migrate scripts and dependencies from webpack to vite` · [`2da1e97`](https://github.com/VictorMartinsD/template-base-vite/commit/2da1e97ecbaf7b6e52f90fadad492cdacd3f9839) · 18/10/2026
 
 **[template-base-webpack](https://github.com/VictorMartinsD/template-base-webpack)** · `chore(deps): add rimraf to clean dist directory on build` · [`14210a7`](https://github.com/VictorMartinsD/template-base-webpack/commit/14210a77716d1a937bc27c1f1391ab47ff59ed4a) · 18/10/2026
@@ -749,10 +753,6 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 **[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `chore(deps): add rimraf to clean dist directory on build` · [`624de94`](https://github.com/VictorMartinsD/template-base-node/commit/624de94a87c1aa57aad17475298836b6c556e126) · 18/10/2026
 
 **[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `chore(deps): add rimraf to clean dist directory on build` · [`b5a7f29`](https://github.com/VictorMartinsD/api-restaurant/commit/b5a7f2944e52e1a5ae7ac74712b1bb06603eecc3) · 18/10/2026
-
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `build(deps): setup typescript and configure project base structure` · [`70ed785`](https://github.com/VictorMartinsD/api-restaurant/commit/70ed785e64ec6c71622cfd843bebb4b507080bde) · 18/10/2026
-
-**[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `docs: update README for TypeScript Node template` · [`d74a54b`](https://github.com/VictorMartinsD/template-base-node/commit/d74a54b63c37207a57e5ee0c3af4fb29aa86b25f) · 18/10/2026
 
 <!--END_SECTION:recent-activity-->
 
