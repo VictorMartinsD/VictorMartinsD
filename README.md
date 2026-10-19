@@ -742,17 +742,17 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 
 <!--START_SECTION:recent-activity-->
 
-**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `feat: add route to list course modules with join` · [`384a12a`](https://github.com/VictorMartinsD/query-builder/commit/384a12add36b6f8ea203ba16ec5a448506564453) · 18/10/2026
+**[template-base-vite](https://github.com/VictorMartinsD/template-base-vite)** · `refactor(build): migrate scripts and dependencies from webpack to vite` · [`2da1e97`](https://github.com/VictorMartinsD/template-base-vite/commit/2da1e97ecbaf7b6e52f90fadad492cdacd3f9839) · 18/10/2026
 
-**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `feat: configure sqlite foreign keys and add modules routes` · [`05c1e94`](https://github.com/VictorMartinsD/query-builder/commit/05c1e94ad86dc9a4d79870951d89e8e623c908cc) · 18/10/2026
+**[template-base-webpack](https://github.com/VictorMartinsD/template-base-webpack)** · `chore(deps): add rimraf to clean dist directory on build` · [`14210a7`](https://github.com/VictorMartinsD/template-base-webpack/commit/14210a77716d1a937bc27c1f1391ab47ff59ed4a) · 18/10/2026
 
-**[query-builder](https://github.com/VictorMartinsD/query-builder)** · `feat: create course_modules migration with foreign key` · [`96445af`](https://github.com/VictorMartinsD/query-builder/commit/96445af7764def81a3efde6d3b8609bba545f77d) · 18/10/2026
+**[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `chore(deps): add rimraf to clean dist directory on build` · [`624de94`](https://github.com/VictorMartinsD/template-base-node/commit/624de94a87c1aa57aad17475298836b6c556e126) · 18/10/2026
 
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: enforce form field character limits` · [`e51e884`](https://github.com/VictorMartinsD/react-forms/commit/e51e88403a23ae6fe91172b84a15ca53505cc82e) · 13/10/2026
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `chore(deps): add rimraf to clean dist directory on build` · [`b5a7f29`](https://github.com/VictorMartinsD/api-restaurant/commit/b5a7f2944e52e1a5ae7ac74712b1bb06603eecc3) · 18/10/2026
 
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `Merge branch 'main' of https://github.com/VictorMartinsD/react-forms` · [`232904f`](https://github.com/VictorMartinsD/react-forms/commit/232904fbe5c12696a3e25dc36930636f7d439cce) · 13/10/2026
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `build(deps): setup typescript and configure project base structure` · [`70ed785`](https://github.com/VictorMartinsD/api-restaurant/commit/70ed785e64ec6c71622cfd843bebb4b507080bde) · 18/10/2026
 
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: improve form validation accessibility` · [`56caa53`](https://github.com/VictorMartinsD/react-forms/commit/56caa53bc0d90875d267950624306362b92ec52c) · 13/10/2026
+**[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `docs: update README for TypeScript Node template` · [`d74a54b`](https://github.com/VictorMartinsD/template-base-node/commit/d74a54b63c37207a57e5ee0c3af4fb29aa86b25f) · 18/10/2026
 
 <!--END_SECTION:recent-activity-->
 
