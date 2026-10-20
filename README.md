@@ -742,11 +742,11 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 
 <!--START_SECTION:recent-activity-->
 
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(validation): add zod package and handle zod validation errors gl…` · [`3b97643`](https://github.com/VictorMartinsD/api-restaurant/commit/3b97643fda11e5eac63169b69ccc590ebfc93d4b) · 20/10/2026
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(db): create tables_sessions migration for order and seating cont…` · [`39ff210`](https://github.com/VictorMartinsD/api-restaurant/commit/39ff21049bce9bc8f0ccc3ca12ee496fc785be72) · 20/10/2026
 
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(db): setup knex database connection instance` · [`57d959f`](https://github.com/VictorMartinsD/api-restaurant/commit/57d959f4a085129740a5f6e8707d9445b4b95185) · 20/10/2026
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(tables): implement tables listing route, controller and reposito…` · [`b39851f`](https://github.com/VictorMartinsD/api-restaurant/commit/b39851f5165f47a7e433cf5011dbd7d078e87fa3) · 20/10/2026
 
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(db): create products table migration and ignore local database f…` · [`29ae896`](https://github.com/VictorMartinsD/api-restaurant/commit/29ae896510031de7fbcf3362555802094d6f08c6) · 20/10/2026
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(db): add tables seed data for restaurant seating` · [`7270306`](https://github.com/VictorMartinsD/api-restaurant/commit/72703063c343917197a25b48e8a2a1eb1f4dc805) · 20/10/2026
 
 **[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `chore: ignore local database files` · [`b6b4385`](https://github.com/VictorMartinsD/template-base-node/commit/b6b4385b512a59751e9c2e0782c5b4fbc584fbd5) · 20/10/2026
 
