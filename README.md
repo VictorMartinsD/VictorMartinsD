@@ -742,11 +742,11 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 
 <!--START_SECTION:recent-activity-->
 
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(db): create tables_sessions migration for order and seating cont…` · [`39ff210`](https://github.com/VictorMartinsD/api-restaurant/commit/39ff21049bce9bc8f0ccc3ca12ee496fc785be72) · 20/10/2026
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `chore: add insomnia API requests collection export` · [`e634663`](https://github.com/VictorMartinsD/api-restaurant/commit/e6346639f15dc3c115b810a1b9128924ab94306a) · 20/10/2026
 
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(tables): implement tables listing route, controller and reposito…` · [`b39851f`](https://github.com/VictorMartinsD/api-restaurant/commit/b39851f5165f47a7e433cf5011dbd7d078e87fa3) · 20/10/2026
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(orders): add table session total endpoint and fix database schem…` · [`40bc08f`](https://github.com/VictorMartinsD/api-restaurant/commit/40bc08f19d80eb6f0ede9ca536978d5c1a69319a) · 20/10/2026
 
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(db): add tables seed data for restaurant seating` · [`7270306`](https://github.com/VictorMartinsD/api-restaurant/commit/72703063c343917197a25b48e8a2a1eb1f4dc805) · 20/10/2026
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(orders): calculate item total price using knex.raw and add sorti…` · [`96af74a`](https://github.com/VictorMartinsD/api-restaurant/commit/96af74a819ef6d1c70e3d82d1ca89093458503af) · 20/10/2026
 
 **[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `chore: ignore local database files` · [`b6b4385`](https://github.com/VictorMartinsD/template-base-node/commit/b6b4385b512a59751e9c2e0782c5b4fbc584fbd5) · 20/10/2026
 
