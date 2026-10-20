@@ -742,17 +742,17 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 
 <!--START_SECTION:recent-activity-->
 
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat: configure knex with sqlite and create initial migration structu…` · [`d1a0585`](https://github.com/VictorMartinsD/api-restaurant/commit/d1a0585bf7d8a8859ce2626090b5aa3ce0c1dfaa) · 19/10/2026
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(validation): add zod package and handle zod validation errors gl…` · [`3b97643`](https://github.com/VictorMartinsD/api-restaurant/commit/3b97643fda11e5eac63169b69ccc590ebfc93d4b) · 20/10/2026
 
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat: implement global error handling and AppError` · [`8f5bd5f`](https://github.com/VictorMartinsD/api-restaurant/commit/8f5bd5f445e5b21ef37ce500ae28f806d2c47482) · 19/10/2026
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(db): setup knex database connection instance` · [`57d959f`](https://github.com/VictorMartinsD/api-restaurant/commit/57d959f4a085129740a5f6e8707d9445b4b95185) · 20/10/2026
 
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(api): setup express framework and implement product routes and c…` · [`616ea29`](https://github.com/VictorMartinsD/api-restaurant/commit/616ea292f58b03130bb65efc77763a0ad351f917) · 19/10/2026
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(db): create products table migration and ignore local database f…` · [`29ae896`](https://github.com/VictorMartinsD/api-restaurant/commit/29ae896510031de7fbcf3362555802094d6f08c6) · 20/10/2026
+
+**[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `chore: ignore local database files` · [`b6b4385`](https://github.com/VictorMartinsD/template-base-node/commit/b6b4385b512a59751e9c2e0782c5b4fbc584fbd5) · 20/10/2026
 
 **[template-base-vite](https://github.com/VictorMartinsD/template-base-vite)** · `refactor(build): migrate scripts and dependencies from webpack to vite` · [`2da1e97`](https://github.com/VictorMartinsD/template-base-vite/commit/2da1e97ecbaf7b6e52f90fadad492cdacd3f9839) · 18/10/2026
 
 **[template-base-webpack](https://github.com/VictorMartinsD/template-base-webpack)** · `chore(deps): add rimraf to clean dist directory on build` · [`14210a7`](https://github.com/VictorMartinsD/template-base-webpack/commit/14210a77716d1a937bc27c1f1391ab47ff59ed4a) · 18/10/2026
-
-**[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `chore(deps): add rimraf to clean dist directory on build` · [`624de94`](https://github.com/VictorMartinsD/template-base-node/commit/624de94a87c1aa57aad17475298836b6c556e126) · 18/10/2026
 
 <!--END_SECTION:recent-activity-->
 
