@@ -773,56 +773,58 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 ### ⌚ Tempo de Código (WakaTime)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2046%20mins-blue?style=flat)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2037%20mins-blue?style=flat)
-
-**Eu sou diurno 🐤**
+**Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  274 commits         ████████░░░░░░░░░░░░░░░░░   32.01 %
-🌆 Tarde                  314 commits         █████████░░░░░░░░░░░░░░░░   36.68 %
-🌃 Noite                  256 commits         ███████░░░░░░░░░░░░░░░░░░   29.91 %
-🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+🌞 Manhã                  290 commits         ████████░░░░░░░░░░░░░░░░░   32.69 % 
+🌆 Tarde                  329 commits         █████████░░░░░░░░░░░░░░░░   37.09 % 
+🌃 Noite                  256 commits         ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+```
+📅 **Sou mais produtivo em Terça-Feira** 
+
+```text
+Segunda-Feira            113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Terça-Feira              177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Quarta-Feira             135 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Quinta-Feira             115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Sexta-Feira              156 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Sábado                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Domingo                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 ```
 
-📅 **Sou mais produtivo em Sexta-Feira**
+
+🤖 **AI Coding This Week** 
 
 ```text
-Segunda-Feira            113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Terça-Feira              146 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 %
-Quarta-Feira             135 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Quinta-Feira             115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Sexta-Feira              156 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 %
-Sábado                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-Domingo                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-```
+⏱ AI Coding Time: 3 hrs 6 mins (18.16%)
 
-🤖 **AI Coding This Week**
+✍️ 1,077 lines written by AI, 1,245 lines written by hand (46.38% AI-written)
 
-```text
-⏱ AI Coding Time: 2 hrs 48 mins (26.19%)
+🔤 2,151,527 Input Tokens, 61,860 Output Tokens
 
-✍️ 1,624 lines written by AI, 833 lines written by hand (66.1% AI-written)
+💵 $5.59 Estimated AI Cost This Week
 
-🔤 1,782,033 Input Tokens, 11,151 Output Tokens
+🧠 14 AI Sessions, 38 AI Prompts
 
-💵 $5.51 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 37 AI Prompts
-
-Github-Copilot           1,554 lines         ████████████████████████░   95.69 %
-Vscode                   70 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Github-Copilot           981 lines           ███████████████████████░░   91.09 % 
+Vscode                   70 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+GPT                      24 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Code                     2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 66.1% of written lines came from AI
-📝 Concise Prompter — average 486 characters per prompt
+⚖️ Balanced with AI — 46.38% of written lines came from AI
+📝 Concise Prompter — average 488 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 62.38% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 74.1% of changed lines were hand-edited
 ```
 
-Last Updated on 20/10/2026 10:43:46 UTC
+
+ Last Updated on 21/10/2026 10:54:36 UTC
 <!--END_SECTION:waka-->
 
 </div>
