@@ -24,8 +24,8 @@
 <a href="https://www.linkedin.com/in/victormartinsd/">
   <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/VictorMartinsD">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/VictorMartinsD?tab=repositories">
+  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios GitHub"/>
 </a>
 <a href="https://victormartinsd.github.io/portfolio-dev/">
   <img src="https://img.shields.io/badge/Portfólio-0056B3?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfólio"/>
@@ -95,8 +95,6 @@ const victor = {
       "Documentação técnica",
     ],
   },
-
-  aprendendo_atualmente: ["Tailwind CSS"],
 };
 ```
 
@@ -297,18 +295,38 @@ const victor = {
 
 ## 🧩 Aprendizado Atual
 
-_Aprofundando o uso de Tailwind CSS para criar interfaces web consistentes, responsivas e alinhadas às necessidades do produto._
+_Aprofundando em estilização moderna, testes automatizados, segurança de APIs, ORM, bancos de dados relacionais e conteinerização de aplicações web._
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind CSS" />
       <br>Tailwind CSS
+    </td>
+    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="65" height="65" alt="Jest" />
+      <br>Jest
+    </td>
+    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://jwt.io/img/pic_logo.svg" width="65" height="65" alt="JWT" />
+      <br>JWT
+    </td>
+    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://cdn.simpleicons.org/prisma/5A67D8" width="65" height="65" alt="Prisma" />
+      <br>Prisma ORM
+    </td>
+    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+      <br>Docker
     </td>
   </tr>
 </table>
 
-<sub>Em progresso: composição de layouts responsivos, criação de componentes reutilizáveis e aplicação de padrões visuais com classes utilitárias do Tailwind CSS.</sub>
+<sub>Em progresso: criação de interfaces com Tailwind, testes unitários com Jest, autenticação via JWT, modelagem de dados com Prisma ORM em PostgreSQL e conteinerização de ambientes de desenvolvimento com Docker.</sub>
 
 </div>
 
@@ -319,22 +337,18 @@ _Aprofundando o uso de Tailwind CSS para criar interfaces web consistentes, resp
 
 ## 🎯 Próximos Objetivos de Estudo
 
-_Ampliando a base fullstack com bancos de dados relacionais robustos, infraestrutura e conteinerização._
+_Expandindo o domínio em bancos de dados relacionais e otimização de consultas em escala._
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-      <br>Docker
     </td>
   </tr>
 </table>
 
-<sub>Próximos passos: modelagem e gerenciamento de bancos de dados relacionais em ambiente de produção com MySQL, e conteinerização de serviços com Docker para deploy e infraestrutura web.</sub>
+<sub>Próximos passos: aprofundamento em modelagem relacional, otimização de queries complexas e gerenciamento do MySQL em ambientes de produção.</sub>
 
 </div>
 
