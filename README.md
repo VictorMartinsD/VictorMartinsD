@@ -773,32 +773,33 @@ _Ampliando a base fullstack com bancos de dados relacionais robustos, infraestru
 ### ⌚ Tempo de Código (WakaTime)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2014%20mins-blue?style=flat)
 
-**Eu sou diurno 🐤** 
+**Eu sou diurno 🐤**
 
 ```text
-🌞 Manhã                  290 commits         ████████░░░░░░░░░░░░░░░░░   32.69 % 
-🌆 Tarde                  329 commits         █████████░░░░░░░░░░░░░░░░   37.09 % 
-🌃 Noite                  256 commits         ███████░░░░░░░░░░░░░░░░░░   28.86 % 
-🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+🌞 Manhã                  290 commits         ████████░░░░░░░░░░░░░░░░░   32.69 %
+🌆 Tarde                  329 commits         █████████░░░░░░░░░░░░░░░░   37.09 %
+🌃 Noite                  256 commits         ███████░░░░░░░░░░░░░░░░░░   28.86 %
+🌙 Madrugada              12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
-📅 **Sou mais produtivo em Terça-Feira** 
+
+📅 **Sou mais produtivo em Terça-Feira**
 
 ```text
-Segunda-Feira            113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Terça-Feira              177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Quarta-Feira             135 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Quinta-Feira             115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Sexta-Feira              156 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Sábado                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Domingo                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Segunda-Feira            113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Terça-Feira              177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 %
+Quarta-Feira             135 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 %
+Quinta-Feira             115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Sexta-Feira              156 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 %
+Sábado                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Domingo                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 %
 ```
 
-
-🤖 **AI Coding This Week** 
+🤖 **AI Coding This Week**
 
 ```text
 ⏱ AI Coding Time: 3 hrs 6 mins (18.16%)
@@ -811,10 +812,10 @@ Domingo                  97 commits          ███░░░░░░░░�
 
 🧠 14 AI Sessions, 38 AI Prompts
 
-Github-Copilot           981 lines           ███████████████████████░░   91.09 % 
-Vscode                   70 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-GPT                      24 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Code                     2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Github-Copilot           981 lines           ███████████████████████░░   91.09 %
+Vscode                   70 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+GPT                      24 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Code                     2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 46.38% of written lines came from AI
@@ -823,8 +824,7 @@ Code                     2 lines             ░░░░░░░░░░░�
 🔍 Hands-On Reviewer — 74.1% of changed lines were hand-edited
 ```
 
-
- Last Updated on 21/10/2026 10:54:36 UTC
+Last Updated on 21/10/2026 10:54:36 UTC
 <!--END_SECTION:waka-->
 
 </div>
@@ -842,6 +842,7 @@ Code                     2 lines             ░░░░░░░░░░░�
 ### 📖 Lendo Atualmente
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9028520431?utm_medium=api&utm_source=rss"><b>O Código da Inteligência</b></a> - <i>Augusto Cury</i></sub><br />
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
@@ -850,6 +851,7 @@ Code                     2 lines             ░░░░░░░░░░░�
 ### ✅ Lidos
 
 <!-- GOODREADS-READ:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9027475458?utm_medium=api&utm_source=rss"><b>Scrum: The Art of Doing Twice the Work in Half the Time</b></a> - <i>Jeff Sutherland</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.11</sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027474371?utm_medium=api&utm_source=rss"><b>Como Fazer Amigos e Influenciar Pessoas</b></a> - <i>Dale Carnegie</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.14</sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027473048?utm_medium=api&utm_source=rss"><b>Resumo Estendido De As Armas Da Persuasão (Influence: The Psychology Of Persuasion) – Baseado No Livro De Robert B. Cialdini</b></a> - <i>Mentors Library</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.17</sub><br />
@@ -860,8 +862,9 @@ Code                     2 lines             ░░░░░░░░░░░�
 ### 📌 Próximas Leituras
 
 <!-- GOODREADS-TO-READ:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9032649940?utm_medium=api&utm_source=rss"><b>Inspira-te (Portuguese Edition)</b></a> - <i>Marty Cagan</i></sub><br />
-<sub>• <a href="https://www.goodreads.com/review/show/9032643405?utm_medium=api&utm_source=rss"><b>The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you</b></a> - <i>Rob  Fitzpatrick</i></sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9032643405?utm_medium=api&utm_source=rss"><b>The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you</b></a> - <i>Rob Fitzpatrick</i></sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9032642197?utm_medium=api&utm_source=rss"><b>Escaping the Build Trap: How Effective Product Management Creates Real Value</b></a> - <i>Melissa Perri</i></sub><br />
 <!-- GOODREADS-TO-READ:END -->
 
