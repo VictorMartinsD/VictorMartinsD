@@ -756,6 +756,8 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
+**[docker-api](https://github.com/VictorMartinsD/docker-api)** · `build: add docker-compose configuration for application and database …` · [`0576263`](https://github.com/VictorMartinsD/docker-api/commit/0576263af8185bbda23962274226e46bbfd069b9) · 22/10/2026
+
 **[docker-api](https://github.com/VictorMartinsD/docker-api)** · `build: add Docker containerization configuration` · [`429479d`](https://github.com/VictorMartinsD/docker-api/commit/429479d56c1ea45f9f54599b747ff1b210eb6caa) · 21/10/2026
 
 **[docker-api](https://github.com/VictorMartinsD/docker-api)** · `chore: initialize docker api project shell` · [`25c4691`](https://github.com/VictorMartinsD/docker-api/commit/25c469132dd2c77cf51d54b1445ae14d4a1351e1) · 21/10/2026
@@ -765,8 +767,6 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 **[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(orders): add table session total endpoint and fix database schem…` · [`40bc08f`](https://github.com/VictorMartinsD/api-restaurant/commit/40bc08f19d80eb6f0ede9ca536978d5c1a69319a) · 20/10/2026
 
 **[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `feat(orders): calculate item total price using knex.raw and add sorti…` · [`96af74a`](https://github.com/VictorMartinsD/api-restaurant/commit/96af74a819ef6d1c70e3d82d1ca89093458503af) · 20/10/2026
-
-**[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `chore: ignore local database files` · [`b6b4385`](https://github.com/VictorMartinsD/template-base-node/commit/b6b4385b512a59751e9c2e0782c5b4fbc584fbd5) · 20/10/2026
 
 <!--END_SECTION:recent-activity-->
 
