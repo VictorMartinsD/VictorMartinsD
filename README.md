@@ -312,8 +312,8 @@ _Aprofundando em estilização moderna, testes automatizados, segurança de APIs
       <br>JWT
     </td>
     <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://cdn.simpleicons.org/prisma/5A67D8" width="65" height="65" alt="Prisma" />
-      <br>Prisma ORM
+      <img src="https://github.com/user-attachments/assets/153fa4cb-cfd4-4d7e-9764-9ada9cfb36cf" width="65" height="65" alt="Prisma" style="margin-bottom: 10px;" />
+      <br>Prisma
     </td>
     <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
