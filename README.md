@@ -756,17 +756,17 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
-**[question-api](https://github.com/VictorMartinsD/question-api)** · `feat: scaffold questions API` · [`1d6bf94`](https://github.com/VictorMartinsD/question-api/commit/1d6bf9442d1c848dc36339472940e106b10a33e2) · 22/10/2026
+**[question-api](https://github.com/VictorMartinsD/question-api)** · `feat(database): create user model and initial migration` · [`c4fa6fd`](https://github.com/VictorMartinsD/question-api/commit/c4fa6fd30538d8e7b6ccb632ea406e4df3dd7153) · 22/10/2026
 
-**[question-api](https://github.com/VictorMartinsD/question-api)** · `feat: scaffold questions API` · [`8d5c12f`](https://github.com/VictorMartinsD/question-api/commit/8d5c12f35be9ebae3d7e754a9702a5ea7741561e) · 22/10/2026
+**[question-api](https://github.com/VictorMartinsD/question-api)** · `chore: configure prisma ORM and database environment` · [`2dd98df`](https://github.com/VictorMartinsD/question-api/commit/2dd98df7c48a36d04bdb38fb34a0fd03e59a983d) · 22/10/2026
 
-**[docker-api](https://github.com/VictorMartinsD/docker-api)** · `build: add docker-compose configuration for application and database …` · [`0576263`](https://github.com/VictorMartinsD/docker-api/commit/0576263af8185bbda23962274226e46bbfd069b9) · 22/10/2026
+**[question-api](https://github.com/VictorMartinsD/question-api)** · `feat(server): register express-async-errors middleware and dependenci…` · [`dc43689`](https://github.com/VictorMartinsD/question-api/commit/dc43689e8bb3245ecd8bfd716625b7fdfb7fab15) · 22/10/2026
 
-**[docker-api](https://github.com/VictorMartinsD/docker-api)** · `build: add Docker containerization configuration` · [`429479d`](https://github.com/VictorMartinsD/docker-api/commit/429479d56c1ea45f9f54599b747ff1b210eb6caa) · 21/10/2026
+**[template-base-webpack](https://github.com/VictorMartinsD/template-base-webpack)** · `style: update prettier print width limit` · [`e54ed59`](https://github.com/VictorMartinsD/template-base-webpack/commit/e54ed59a98ff4b26619d8eb11e4479ad46e61dcd) · 22/10/2026
 
-**[docker-api](https://github.com/VictorMartinsD/docker-api)** · `chore: initialize docker api project shell` · [`25c4691`](https://github.com/VictorMartinsD/docker-api/commit/25c469132dd2c77cf51d54b1445ae14d4a1351e1) · 21/10/2026
+**[template-base-vite](https://github.com/VictorMartinsD/template-base-vite)** · `style: update prettier print width limit` · [`4cff2e1`](https://github.com/VictorMartinsD/template-base-vite/commit/4cff2e1c2a7ea642933d8f6d15d506241412a625) · 22/10/2026
 
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `chore: add insomnia API requests collection export` · [`e634663`](https://github.com/VictorMartinsD/api-restaurant/commit/e6346639f15dc3c115b810a1b9128924ab94306a) · 20/10/2026
+**[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `style: update prettier print width limit` · [`3ff0186`](https://github.com/VictorMartinsD/template-base-node/commit/3ff01868b35b98ca97ed292399a8d0b68e69fbce) · 22/10/2026
 
 <!--END_SECTION:recent-activity-->
 
