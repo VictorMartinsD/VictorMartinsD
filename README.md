@@ -756,11 +756,11 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
+**[question-api](https://github.com/VictorMartinsD/question-api)** · `feat(users): implement user CRUD operations with prisma` · [`238bc37`](https://github.com/VictorMartinsD/question-api/commit/238bc372a8fcfd709ea6b5533822eda45915eda8) · 22/10/2026
+
 **[question-api](https://github.com/VictorMartinsD/question-api)** · `feat(database): create user model and initial migration` · [`c4fa6fd`](https://github.com/VictorMartinsD/question-api/commit/c4fa6fd30538d8e7b6ccb632ea406e4df3dd7153) · 22/10/2026
 
 **[question-api](https://github.com/VictorMartinsD/question-api)** · `chore: configure prisma ORM and database environment` · [`2dd98df`](https://github.com/VictorMartinsD/question-api/commit/2dd98df7c48a36d04bdb38fb34a0fd03e59a983d) · 22/10/2026
-
-**[question-api](https://github.com/VictorMartinsD/question-api)** · `feat(server): register express-async-errors middleware and dependenci…` · [`dc43689`](https://github.com/VictorMartinsD/question-api/commit/dc43689e8bb3245ecd8bfd716625b7fdfb7fab15) · 22/10/2026
 
 **[template-base-webpack](https://github.com/VictorMartinsD/template-base-webpack)** · `style: update prettier print width limit` · [`e54ed59`](https://github.com/VictorMartinsD/template-base-webpack/commit/e54ed59a98ff4b26619d8eb11e4479ad46e61dcd) · 22/10/2026
 
