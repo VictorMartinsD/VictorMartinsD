@@ -27,3 +27,5 @@ jobs:
           commit_message: 'style(readme): auto-format README with Prettier'
           file_pattern: 'README.md'
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          name: github-actions[bot]
+          email: 41898282+github-actions[bot]@users.noreply.github.com
