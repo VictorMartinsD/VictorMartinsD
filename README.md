@@ -756,6 +756,8 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
+**[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: scaffold authentication and authorization API` · [`6b9359d`](https://github.com/VictorMartinsD/auth-template/commit/6b9359d5560b15bb7d7640ce240b7d8edf76cfa0) · 23/10/2026
+
 **[question-api](https://github.com/VictorMartinsD/question-api)** · `chore(insomnia): add questions api requests collection` · [`67aa8eb`](https://github.com/VictorMartinsD/question-api/commit/67aa8ebbe4a0097fadf997fbb31c68251905dc70) · 23/10/2026
 
 **[question-api](https://github.com/VictorMartinsD/question-api)** · `chore(database): configure database seeding and initial data` · [`68a4761`](https://github.com/VictorMartinsD/question-api/commit/68a4761400cdf6a662f4ed71054d13a9426abfc8) · 23/10/2026
@@ -765,8 +767,6 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 **[template-base-webpack](https://github.com/VictorMartinsD/template-base-webpack)** · `style: update prettier print width limit` · [`e54ed59`](https://github.com/VictorMartinsD/template-base-webpack/commit/e54ed59a98ff4b26619d8eb11e4479ad46e61dcd) · 22/10/2026
 
 **[template-base-vite](https://github.com/VictorMartinsD/template-base-vite)** · `style: update prettier print width limit` · [`4cff2e1`](https://github.com/VictorMartinsD/template-base-vite/commit/4cff2e1c2a7ea642933d8f6d15d506241412a625) · 22/10/2026
-
-**[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `style: update prettier print width limit` · [`3ff0186`](https://github.com/VictorMartinsD/template-base-node/commit/3ff01868b35b98ca97ed292399a8d0b68e69fbce) · 22/10/2026
 
 <!--END_SECTION:recent-activity-->
 
