@@ -787,58 +787,58 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 ### ⌚ Tempo de Código (WakaTime)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%203%20mins-blue?style=flat)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%206%20mins-blue?style=flat)
-
-**Eu sou diurno 🐤**
+**Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  298 commits         ████████░░░░░░░░░░░░░░░░░   32.93 %
-🌆 Tarde                  337 commits         █████████░░░░░░░░░░░░░░░░   37.24 %
-🌃 Noite                  257 commits         ███████░░░░░░░░░░░░░░░░░░   28.40 %
-🌙 Madrugada              13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+🌞 Manhã                  300 commits         ████████░░░░░░░░░░░░░░░░░   32.93 % 
+🌆 Tarde                  340 commits         █████████░░░░░░░░░░░░░░░░   37.32 % 
+🌃 Noite                  258 commits         ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+🌙 Madrugada              13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+```
+📅 **Sou mais produtivo em Terça-Feira** 
+
+```text
+Segunda-Feira            113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Terça-Feira              177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Quarta-Feira             139 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Quinta-Feira             129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Sexta-Feira              162 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Sábado                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Domingo                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 ```
 
-📅 **Sou mais produtivo em Terça-Feira**
+
+🤖 **AI Coding This Week** 
 
 ```text
-Segunda-Feira            113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-Terça-Feira              177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.56 %
-Quarta-Feira             139 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
-Quinta-Feira             129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 %
-Sexta-Feira              156 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 %
-Sábado                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-Domingo                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-```
+⏱ AI Coding Time: 2 hrs 46 mins (13.01%)
 
-🤖 **AI Coding This Week**
+✍️ 100 lines written by AI, 1,592 lines written by hand (5.91% AI-written)
 
-```text
-⏱ AI Coding Time: 3 hrs 57 mins (18.02%)
+🔤 844,899 Input Tokens, 69,535 Output Tokens
 
-✍️ 1,077 lines written by AI, 1,535 lines written by hand (41.23% AI-written)
+💵 $1.32 Estimated AI Cost This Week
 
-🔤 2,230,786 Input Tokens, 69,248 Output Tokens
+🧠 19 AI Sessions, 35 AI Prompts
 
-💵 $5.62 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 44 AI Prompts
-
-Github-Copilot           981 lines           ███████████████████████░░   90.75 %
-Vscode                   70 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-GPT                      28 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Code                     2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Vscode                   70 lines            █████████████████░░░░░░░░   67.31 % 
+GPT                      32 lines            ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Code                     2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.23% of written lines came from AI
-📝 Concise Prompter — average 490 characters per prompt
+🧑‍💻 Mostly Hands-On — 5.91% of written lines came from AI
+📝 Concise Prompter — average 409 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 63.23% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.9% of changed lines were hand-edited
 ```
 
-Last Updated on 23/10/2026 10:46:39 UTC
+
+ Last Updated on 24/10/2026 10:03:05 UTC
 <!--END_SECTION:waka-->
 
 </div>
