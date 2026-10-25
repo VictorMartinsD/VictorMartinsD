@@ -756,17 +756,17 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
+**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: add responsive author footer` · [`6fb5bc3`](https://github.com/VictorMartinsD/react-forms/commit/6fb5bc310a2403ac30e3a0c0b4f69e13e15f506f) · 25/10/2026
+
+**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `style: refine form feedback and sizing` · [`869ffd5`](https://github.com/VictorMartinsD/react-forms/commit/869ffd54c1a81fbde4422911de08175a931510aa) · 25/10/2026
+
+**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: add date-based time selection` · [`06c9002`](https://github.com/VictorMartinsD/react-forms/commit/06c90029d12bd667c6654658ad1d42c56d25527b) · 25/10/2026
+
 **[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: scaffold authentication and authorization API` · [`6b9359d`](https://github.com/VictorMartinsD/auth-template/commit/6b9359d5560b15bb7d7640ce240b7d8edf76cfa0) · 23/10/2026
 
 **[question-api](https://github.com/VictorMartinsD/question-api)** · `chore(insomnia): add questions api requests collection` · [`67aa8eb`](https://github.com/VictorMartinsD/question-api/commit/67aa8ebbe4a0097fadf997fbb31c68251905dc70) · 23/10/2026
 
 **[question-api](https://github.com/VictorMartinsD/question-api)** · `chore(database): configure database seeding and initial data` · [`68a4761`](https://github.com/VictorMartinsD/question-api/commit/68a4761400cdf6a662f4ed71054d13a9426abfc8) · 23/10/2026
-
-**[question-api](https://github.com/VictorMartinsD/question-api)** · `feat(questions): implement complete questions crud and filter logic` · [`bf93a15`](https://github.com/VictorMartinsD/question-api/commit/bf93a1580037a7b5282744269301a781631da38b) · 23/10/2026
-
-**[template-base-webpack](https://github.com/VictorMartinsD/template-base-webpack)** · `style: update prettier print width limit` · [`e54ed59`](https://github.com/VictorMartinsD/template-base-webpack/commit/e54ed59a98ff4b26619d8eb11e4479ad46e61dcd) · 22/10/2026
-
-**[template-base-vite](https://github.com/VictorMartinsD/template-base-vite)** · `style: update prettier print width limit` · [`4cff2e1`](https://github.com/VictorMartinsD/template-base-vite/commit/4cff2e1c2a7ea642933d8f6d15d506241412a625) · 22/10/2026
 
 <!--END_SECTION:recent-activity-->
 
