@@ -756,11 +756,11 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
+**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: clear persisted form after submission` · [`1a40109`](https://github.com/VictorMartinsD/react-forms/commit/1a40109da0991f2dfad12f3c7a3698eb0dbb5c13) · 26/10/2026
+
+**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: persist event form data` · [`c01336c`](https://github.com/VictorMartinsD/react-forms/commit/c01336c48a3b060ee48813e991d3ed366d76b294) · 26/10/2026
+
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: add responsive author footer` · [`6fb5bc3`](https://github.com/VictorMartinsD/react-forms/commit/6fb5bc310a2403ac30e3a0c0b4f69e13e15f506f) · 25/10/2026
-
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `style: refine form feedback and sizing` · [`869ffd5`](https://github.com/VictorMartinsD/react-forms/commit/869ffd54c1a81fbde4422911de08175a931510aa) · 25/10/2026
-
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: add date-based time selection` · [`06c9002`](https://github.com/VictorMartinsD/react-forms/commit/06c90029d12bd667c6654658ad1d42c56d25527b) · 25/10/2026
 
 **[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: scaffold authentication and authorization API` · [`6b9359d`](https://github.com/VictorMartinsD/auth-template/commit/6b9359d5560b15bb7d7640ce240b7d8edf76cfa0) · 23/10/2026
 
