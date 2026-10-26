@@ -787,58 +787,58 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 ### ⌚ Tempo de Código (WakaTime)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2035%20mins-blue?style=flat)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2022%20mins-blue?style=flat)
-
-**Eu sou diurno 🐤**
+**Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  305 commits         ████████░░░░░░░░░░░░░░░░░   33.30 %
-🌆 Tarde                  340 commits         █████████░░░░░░░░░░░░░░░░   37.12 %
-🌃 Noite                  258 commits         ███████░░░░░░░░░░░░░░░░░░   28.17 %
-🌙 Madrugada              13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+🌞 Manhã                  317 commits         █████████░░░░░░░░░░░░░░░░   34.16 % 
+🌆 Tarde                  340 commits         █████████░░░░░░░░░░░░░░░░   36.64 % 
+🌃 Noite                  258 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+🌙 Madrugada              13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+```
+📅 **Sou mais produtivo em Terça-Feira** 
+
+```text
+Segunda-Feira            113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Terça-Feira              177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Quarta-Feira             139 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Quinta-Feira             129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Sexta-Feira              162 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Sábado                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Domingo                  109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
 ```
 
-📅 **Sou mais produtivo em Terça-Feira**
+
+🤖 **AI Coding This Week** 
 
 ```text
-Segunda-Feira            113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Terça-Feira              177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 %
-Quarta-Feira             139 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Quinta-Feira             129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 %
-Sexta-Feira              162 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 %
-Sábado                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-Domingo                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-```
+⏱ AI Coding Time: 2 hrs 35 mins (15.54%)
 
-🤖 **AI Coding This Week**
+✍️ 5,241 lines written by AI, 1,147 lines written by hand (82.04% AI-written)
 
-```text
-⏱ AI Coding Time: 2 hrs 46 mins (13.34%)
+🔤 1,221,707 Input Tokens, 65,100 Output Tokens
 
-✍️ 100 lines written by AI, 1,570 lines written by hand (5.99% AI-written)
+💵 $2.38 Estimated AI Cost This Week
 
-🔤 844,899 Input Tokens, 69,535 Output Tokens
+🧠 13 AI Sessions, 38 AI Prompts
 
-💵 $1.32 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 35 AI Prompts
-
-Vscode                   70 lines            █████████████████░░░░░░░░   67.31 %
-GPT                      32 lines            ████████░░░░░░░░░░░░░░░░░   30.77 %
-Code                     2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Vscode                   5,010 lines         ████████████████████████░   95.52 % 
+Github-Copilot           201 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+GPT                      32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Code                     2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.99% of written lines came from AI
-📝 Concise Prompter — average 409 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 94.82% of changed lines were hand-edited
+🤖 AI-Driven — 82.04% of written lines came from AI
+📝 Concise Prompter — average 343 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 20.28% of changed lines were hand-edited
 ```
 
-Last Updated on 25/10/2026 10:28:30 UTC
+
+ Last Updated on 26/10/2026 11:57:58 UTC
 <!--END_SECTION:waka-->
 
 </div>
