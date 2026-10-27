@@ -756,11 +756,11 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
+**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: add bilingual technical study notes` · [`e54800b`](https://github.com/VictorMartinsD/react-forms/commit/e54800b5eb910359461ef57bc71d3ec23ceace9d) · 27/10/2026
+
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: clear persisted form after submission` · [`1a40109`](https://github.com/VictorMartinsD/react-forms/commit/1a40109da0991f2dfad12f3c7a3698eb0dbb5c13) · 26/10/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: persist event form data` · [`c01336c`](https://github.com/VictorMartinsD/react-forms/commit/c01336c48a3b060ee48813e991d3ed366d76b294) · 26/10/2026
-
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `feat: add responsive author footer` · [`6fb5bc3`](https://github.com/VictorMartinsD/react-forms/commit/6fb5bc310a2403ac30e3a0c0b4f69e13e15f506f) · 25/10/2026
 
 **[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: scaffold authentication and authorization API` · [`6b9359d`](https://github.com/VictorMartinsD/auth-template/commit/6b9359d5560b15bb7d7640ce240b7d8edf76cfa0) · 23/10/2026
 
