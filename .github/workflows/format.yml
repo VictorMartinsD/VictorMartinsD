@@ -8,8 +8,8 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+  group: profile-readme-commits
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -20,15 +20,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
-        with:
-          fetch-depth: 0
 
       - name: Run Prettier
-        uses: creyD/prettier_action@v4.6
-        with:
-          prettier_options: '--write README.md'
-          prettier_version: '3.9.10'
-          commit_message: 'style(readme): auto-format README with Prettier'
-          file_pattern: 'README.md'
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          git_identity: actions
+        run: npx --yes prettier@3.9.10 --write README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "style(readme): auto-format README with Prettier"
+          git pull --rebase
+          git push
