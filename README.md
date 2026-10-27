@@ -786,6 +786,7 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 ### ⌚ Tempo de Código (WakaTime)
 
+<!-- prettier-ignore-start -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2047%20mins-blue?style=flat)
 
@@ -840,6 +841,7 @@ Code                     2 lines             ░░░░░░░░░░░�
 
  Last Updated on 27/10/2026 11:20:07 UTC
 <!--END_SECTION:waka-->
+<!-- prettier-ignore-end -->
 
 </div>
 
