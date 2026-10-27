@@ -858,6 +858,7 @@ Code                     2 lines             ░░░░░░░░░░░�
 ### 📖 Lendo Atualmente
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9028520431?utm_medium=api&utm_source=rss"><b>O Código da Inteligência</b></a> - <i>Augusto Cury</i></sub><br />
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
@@ -866,6 +867,7 @@ Code                     2 lines             ░░░░░░░░░░░�
 ### ✅ Lidos
 
 <!-- GOODREADS-READ:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9027475458?utm_medium=api&utm_source=rss"><b>Scrum: The Art of Doing Twice the Work in Half the Time</b></a> - <i>Jeff Sutherland</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.11</sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027474371?utm_medium=api&utm_source=rss"><b>Como Fazer Amigos e Influenciar Pessoas</b></a> - <i>Dale Carnegie</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.14</sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027473048?utm_medium=api&utm_source=rss"><b>Resumo Estendido De As Armas Da Persuasão (Influence: The Psychology Of Persuasion) – Baseado No Livro De Robert B. Cialdini</b></a> - <i>Mentors Library</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.17</sub><br />
@@ -876,8 +878,9 @@ Code                     2 lines             ░░░░░░░░░░░�
 ### 📌 Próximas Leituras
 
 <!-- GOODREADS-TO-READ:START -->
+
 <sub>• <a href="https://www.goodreads.com/review/show/9032649940?utm_medium=api&utm_source=rss"><b>Inspira-te (Portuguese Edition)</b></a> - <i>Marty Cagan</i></sub><br />
-<sub>• <a href="https://www.goodreads.com/review/show/9032643405?utm_medium=api&utm_source=rss"><b>The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you</b></a> - <i>Rob  Fitzpatrick</i></sub><br />
+<sub>• <a href="https://www.goodreads.com/review/show/9032643405?utm_medium=api&utm_source=rss"><b>The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you</b></a> - <i>Rob Fitzpatrick</i></sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9032642197?utm_medium=api&utm_source=rss"><b>Escaping the Build Trap: How Effective Product Management Creates Real Value</b></a> - <i>Melissa Perri</i></sub><br />
 <!-- GOODREADS-TO-READ:END -->
 
