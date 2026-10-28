@@ -763,11 +763,11 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
+**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs(readme): add author credits to both language versions` · [`2ba8877`](https://github.com/VictorMartinsD/react-forms/commit/2ba8877287731be546b74a5c1fb616ce111a4869) · 28/10/2026
+
+**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: add bilingual project documentation` · [`3b52958`](https://github.com/VictorMartinsD/react-forms/commit/3b52958148e59a4833808c422c3800a34552825a) · 28/10/2026
+
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `refactor(ui): update image preview link, character limit, and success…` · [`c04a567`](https://github.com/VictorMartinsD/react-forms/commit/c04a567a000ef36d6d216ee49bb6b3114d48bedd) · 28/10/2026
-
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: add bilingual product specification` · [`9bc26d5`](https://github.com/VictorMartinsD/react-forms/commit/9bc26d561ca712967d4a5b63f3a81144ba69c576) · 27/10/2026
-
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: add bilingual technical study notes` · [`e54800b`](https://github.com/VictorMartinsD/react-forms/commit/e54800b5eb910359461ef57bc71d3ec23ceace9d) · 27/10/2026
 
 **[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: scaffold authentication and authorization API` · [`6b9359d`](https://github.com/VictorMartinsD/auth-template/commit/6b9359d5560b15bb7d7640ce240b7d8edf76cfa0) · 23/10/2026
 
