@@ -505,6 +505,28 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3>📋 React Forms</h3>
+      <p><i>Formulário responsivo com validação e rascunho persistido</i></p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+      <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white">
+      <img src="https://img.shields.io/badge/%E2%AC%A1%20Yup-4B32C3?style=flat-square&logoColor=white">
+      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjciIGN5PSI2IiByPSIzIi8+PGNpcmNsZSBjeD0iMTciIGN5PSI2IiByPSIzIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMyIgcj0iNyIvPjwvc3ZnPg==">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+      <img src="https://img.shields.io/badge/LocalStorage-4CAF50?style=flat-square&logo=android&logoColor=white">
+      <ul>
+        <li>Formulário tipado com <code>React Hook Form</code> e validação declarativa com <code>Yup</code>.</li>
+        <li>Horários derivados da data, com bloqueio de domingos e datas inválidas.</li>
+        <li>Rascunho persistido em <code>localStorage</code> via <code>Zustand</code>.</li>
+      </ul>
+      <br>
+      <a href="https://github.com/VictorMartinsD/react-forms"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://victormartinsd.github.io/react-forms/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>&nbsp;&nbsp;&nbsp;
+      <a href="LINK_DO_VIDEO_PELO_LINKEDIN_EM_BREVE"><img src="https://img.shields.io/badge/Assistir%20v%C3%ADdeo-LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwb2x5Z29uIHBvaW50cz0iNSwzIDE5LDEyIDUsMjEiLz48L3N2Zz4=&logoColor=white" alt="Assistir apresentação em vídeo no LinkedIn"></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎬 Viral Cutter</h3>
       <p><i>AI-Powered Video Analysis & Automation</i></p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -519,12 +541,14 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
         <li>Integração cliente <code>Cloudinary + Gemini</code> para extração automática de clipes (sem backend).</li>
         <li>Polling robusto com feedback de status em tempo real.</li>
         <li>CRUD de prompts e perfis em <code>localStorage</code> com arquitetura modular ES6.</li>
-        <li><a href="https://pt.linkedin.com/posts/victormartinsd_desenvolvimentoweb-javascript-rocketseat-activity-7447750117945888768-SJ7r?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy">Apresentação em vídeo no LinkedIn</a>, demonstrando a comunicação do projeto e seus principais fluxos.</li>
       </ul>
       <br>
       <a href="https://github.com/VictorMartinsD/viral-cutter-ai"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://victormartinsd.github.io/viral-cutter-ai/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
+      <a href="https://victormartinsd.github.io/viral-cutter-ai/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://pt.linkedin.com/posts/victormartinsd_desenvolvimentoweb-javascript-rocketseat-activity-7447750117945888768-SJ7r?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy"><img src="https://img.shields.io/badge/Assistir%20v%C3%ADdeo-LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwb2x5Z29uIHBvaW50cz0iNSwzIDE5LDEyIDUsMjEiLz48L3N2Zz4=&logoColor=white" alt="Assistir apresentação em vídeo no LinkedIn"></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🔌 Product Catalog API</h3>
       <p><i>API REST para validação de produtos com Node.js e TypeScript</i></p>
@@ -540,8 +564,6 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
       <br>
       <a href="https://github.com/VictorMartinsD/product-catalog-api"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🛒 Quicklist App</h3>
       <p><i>Gerenciador de Listas de Compras Inteligente</i></p>
@@ -559,6 +581,8 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
       <a href="https://github.com/VictorMartinsD/quicklist-app"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://victormartinsd.github.io/quicklist-app/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎫 Support Tickets</h3>
       <p><i>API de tickets de suporte com Node.js nativo</i></p>
@@ -573,8 +597,6 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
       <br>
       <a href="https://github.com/VictorMartinsD/support-tickets"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🧾 Refund Dashboard</h3>
       <p><i>Controle local de despesas corporativas e totalizadores de reembolso</i></p>
@@ -592,24 +614,6 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
       <a href="https://github.com/VictorMartinsD/refund-dashboard"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://victormartinsd.github.io/refund-dashboard/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>💱 Convert Money</h3>
-      <p><i>Conversor de Moedas em Tempo Real</i></p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-      <img src="https://img.shields.io/badge/LocalStorage-4CAF50?style=flat-square&logo=android&logoColor=white">
-      <img src="https://img.shields.io/badge/%E2%87%84%20ExchangeRate--API-1A73E8?style=flat-square&logoColor=white">
-      <ul>
-        <li>Testes unitários com <code>Vitest</code> para normalização, parsing e precisão.</li>
-        <li>Arquitetura resiliente com <code>ExchangeRate API</code> e fallback offline.</li>
-        <li>Pipeline de qualidade integrado: <code>Vite, ESLint, Prettier, Husky</code> e <code>GitHub Actions</code>.</li>
-      </ul>
-      <br>
-      <a href="https://github.com/VictorMartinsD/convert-money"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://victormartinsd.github.io/convert-money/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
-    </td>
   </tr>
 </table>
 
@@ -618,6 +622,24 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
   <br>
   <table width="100%">
     <tr>
+      <td width="50%" valign="top">
+        <h3>💱 Convert Money</h3>
+        <p><i>Conversor de Moedas em Tempo Real</i></p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+        <img src="https://img.shields.io/badge/LocalStorage-4CAF50?style=flat-square&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/%E2%87%84%20ExchangeRate--API-1A73E8?style=flat-square&logoColor=white">
+        <ul>
+          <li>Testes unitários com <code>Vitest</code> para normalização, parsing e precisão.</li>
+          <li>Arquitetura resiliente com <code>ExchangeRate API</code> e fallback offline.</li>
+          <li>Pipeline de qualidade integrado: <code>Vite, ESLint, Prettier, Husky</code> e <code>GitHub Actions</code>.</li>
+        </ul>
+        <br>
+        <a href="https://github.com/VictorMartinsD/convert-money"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://victormartinsd.github.io/convert-money/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
+      </td>
       <td width="50%" valign="top">
         <h3>✂ Hair Day</h3>
         <p><i>Agenda diária com reservas, cancelamento e horários.</i></p>
@@ -636,6 +658,8 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
         <a href="https://github.com/VictorMartinsD/hairday"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://victormartinsd.github.io/hairday/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3>🎲 Numbers Raffle</h3>
         <p><i>Sorteio de Números com Validação e Regras Configuráveis</i></p>
@@ -652,8 +676,6 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
         <a href="https://github.com/VictorMartinsD/numbers-raffle"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://victormartinsd.github.io/numbers-raffle/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3>✉️ Formulário de Convite</h3>
         <p><i>Interatividade & Manipulação de DOM</i></p>
@@ -661,64 +683,49 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
         <img src="https://img.shields.io/badge/LocalStorage-4CAF50?style=flat-square&logo=android&logoColor=white">
-      <ul>
-        <li>Máscara de telefone inteligente diferenciando celular e fixo com persistência automática.</li>
-        <li>Validação visual em tempo real com feedback dinâmico e ícones <code>SVG</code>.</li>
-        <li>Auto-save de inputs com restauração ao carregar e otimização social (<code>Open Graph</code>).</li>
-      </ul>
-      <br>
-      <a href="https://github.com/VictorMartinsD/formulario-de-convite"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://victormartinsd.github.io/formulario-de-convite/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Encantos Literários</h3>
-      <p><i>Motion Design & Interatividade</i></p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-      <ul>
-        <li>Tipografia fluida com <code>clamp()</code> e Design System CSS Variables para responsividade automática.</li>
-        <li>Animações CSS 3D com transformações sincronizadas em keyframes.</li>
-        <li>SVG backgrounds com gradientes radiais e depth visual via pseudoelementos.</li>
-      </ul>
-      <br>
-      <a href="https://github.com/VictorMartinsD/encantos-literarios-motion"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://victormartinsd.github.io/encantos-literarios-motion/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 Catálogo Geek</h3>
-      <p><i>Frontend & Organização de Conteúdo</i></p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-      <ul>
-        <li>Catálogo dinâmico montado em tempo real com criação de cards no <code>DOM</code>.</li>
-        <li>Separação automática por categoria e vitrines horizontais com navegação fluida.</li>
-        <li>Interface responsiva com cards padronizados e interatividade em <code>hover</code>.</li>
-      </ul>
-      <br>
-      <a href="https://github.com/VictorMartinsD/catalogo-geek"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://victormartinsd.github.io/catalogo-geek/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 Rede Social</h3>
-      <p><i>Prototipagem & Mobile First</i></p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-      <ul>
-        <li>Uso de <code>&lt;dialog&gt;</code> nativo para modal de posts sem dependências.</li>
-        <li>Interatividade dinâmica: botões de seguir com estado visual e curtidas com contador em tempo real.</li>
-        <li>Conteúdo centralizado em <code>database.js</code> para manutenção escalável.</li>
-      </ul>
-      <br>
-      <a href="https://github.com/VictorMartinsD/rede-social"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://victormartinsd.github.io/rede-social/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
-    </td>
-  </tr>
-</table>
+        <ul>
+          <li>Máscara de telefone inteligente diferenciando celular e fixo com persistência automática.</li>
+          <li>Validação visual em tempo real com feedback dinâmico e ícones <code>SVG</code>.</li>
+          <li>Auto-save de inputs com restauração ao carregar e otimização social (<code>Open Graph</code>).</li>
+        </ul>
+        <br>
+        <a href="https://github.com/VictorMartinsD/formulario-de-convite"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://victormartinsd.github.io/formulario-de-convite/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📚 Encantos Literários</h3>
+        <p><i>Motion Design & Interatividade</i></p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+        <ul>
+          <li>Tipografia fluida com <code>clamp()</code> e Design System CSS Variables para responsividade automática.</li>
+          <li>Animações CSS 3D com transformações sincronizadas em keyframes.</li>
+          <li>SVG backgrounds com gradientes radiais e depth visual via pseudoelementos.</li>
+        </ul>
+        <br>
+        <a href="https://github.com/VictorMartinsD/encantos-literarios-motion"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://victormartinsd.github.io/encantos-literarios-motion/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🎮 Catálogo Geek</h3>
+        <p><i>Frontend & Organização de Conteúdo</i></p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+        <ul>
+          <li>Catálogo dinâmico montado em tempo real com criação de cards no <code>DOM</code>.</li>
+          <li>Separação automática por categoria e vitrines horizontais com navegação fluida.</li>
+          <li>Interface responsiva com cards padronizados e interatividade em <code>hover</code>.</li>
+        </ul>
+        <br>
+        <a href="https://github.com/VictorMartinsD/catalogo-geek"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://victormartinsd.github.io/catalogo-geek/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
+      </td>
+    </tr>
+  </table>
 </details>
 
 </div>
