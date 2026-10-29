@@ -763,6 +763,10 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
+**[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: configure jsonwebtoken dependencies and auth settings` · [`999fe67`](https://github.com/VictorMartinsD/auth-template/commit/999fe67dbc91ddb88612871897d454cbab2e1af2) · 28/10/2026
+
+**[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: add environment configuration and sessions controller test` · [`e61c7de`](https://github.com/VictorMartinsD/auth-template/commit/e61c7dece9d449a022d157bc6db172c1b32711ba) · 28/10/2026
+
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs(readme): add author credits to both language versions` · [`2ba8877`](https://github.com/VictorMartinsD/react-forms/commit/2ba8877287731be546b74a5c1fb616ce111a4869) · 28/10/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: add bilingual project documentation` · [`3b52958`](https://github.com/VictorMartinsD/react-forms/commit/3b52958148e59a4833808c422c3800a34552825a) · 28/10/2026
@@ -770,10 +774,6 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `refactor(ui): update image preview link, character limit, and success…` · [`c04a567`](https://github.com/VictorMartinsD/react-forms/commit/c04a567a000ef36d6d216ee49bb6b3114d48bedd) · 28/10/2026
 
 **[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: scaffold authentication and authorization API` · [`6b9359d`](https://github.com/VictorMartinsD/auth-template/commit/6b9359d5560b15bb7d7640ce240b7d8edf76cfa0) · 23/10/2026
-
-**[question-api](https://github.com/VictorMartinsD/question-api)** · `chore(insomnia): add questions api requests collection` · [`67aa8eb`](https://github.com/VictorMartinsD/question-api/commit/67aa8ebbe4a0097fadf997fbb31c68251905dc70) · 23/10/2026
-
-**[question-api](https://github.com/VictorMartinsD/question-api)** · `chore(database): configure database seeding and initial data` · [`68a4761`](https://github.com/VictorMartinsD/question-api/commit/68a4761400cdf6a662f4ed71054d13a9426abfc8) · 23/10/2026
 
 <!--END_SECTION:recent-activity-->
 
