@@ -763,11 +763,11 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
+**[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: add user roles to jwt token and authenticate payload in middlew…` · [`c63c4ae`](https://github.com/VictorMartinsD/auth-template/commit/c63c4aed8b6cae34947921b0acae200b3f9ce230) · 29/10/2026
+
 **[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: implement token verification in authentication middleware and i…` · [`7ae6ff1`](https://github.com/VictorMartinsD/auth-template/commit/7ae6ff1526612e44b5186750f445048cec50d293) · 29/10/2026
 
 **[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: add authentication middleware and protect product routes` · [`cfa8333`](https://github.com/VictorMartinsD/auth-template/commit/cfa833362a77ecdbb867d218081d0df8d9ff30a5) · 29/10/2026
-
-**[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: implement session creation and jwt token generation` · [`b8b6cbb`](https://github.com/VictorMartinsD/auth-template/commit/b8b6cbb9196f3699de84cfac563f1654f1bf90cd) · 29/10/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs(readme): add author credits to both language versions` · [`2ba8877`](https://github.com/VictorMartinsD/react-forms/commit/2ba8877287731be546b74a5c1fb616ce111a4869) · 28/10/2026
 
