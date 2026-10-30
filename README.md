@@ -763,17 +763,17 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
+**[core-api](https://github.com/VictorMartinsD/core-api)** · `chore: initialize core-api project shell` · [`1c63131`](https://github.com/VictorMartinsD/core-api/commit/1c63131ae9f7b04235830137e9a0863eadabb0f8) · 30/10/2026
+
+**[auth-template](https://github.com/VictorMartinsD/auth-template)** · `chore: add insomnia workspace configuration file` · [`3c40397`](https://github.com/VictorMartinsD/auth-template/commit/3c40397670b2cc761764808b9d4a057fd3ae515e) · 30/10/2026
+
+**[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: implement user authorization middleware and restrict product ro…` · [`de7e090`](https://github.com/VictorMartinsD/auth-template/commit/de7e090aed7dd914464ad05db8797c066810ad9a) · 30/10/2026
+
 **[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: add user roles to jwt token and authenticate payload in middlew…` · [`c63c4ae`](https://github.com/VictorMartinsD/auth-template/commit/c63c4aed8b6cae34947921b0acae200b3f9ce230) · 29/10/2026
-
-**[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: implement token verification in authentication middleware and i…` · [`7ae6ff1`](https://github.com/VictorMartinsD/auth-template/commit/7ae6ff1526612e44b5186750f445048cec50d293) · 29/10/2026
-
-**[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: add authentication middleware and protect product routes` · [`cfa8333`](https://github.com/VictorMartinsD/auth-template/commit/cfa833362a77ecdbb867d218081d0df8d9ff30a5) · 29/10/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs(readme): add author credits to both language versions` · [`2ba8877`](https://github.com/VictorMartinsD/react-forms/commit/2ba8877287731be546b74a5c1fb616ce111a4869) · 28/10/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: add bilingual project documentation` · [`3b52958`](https://github.com/VictorMartinsD/react-forms/commit/3b52958148e59a4833808c422c3800a34552825a) · 28/10/2026
-
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `refactor(ui): update image preview link, character limit, and success…` · [`c04a567`](https://github.com/VictorMartinsD/react-forms/commit/c04a567a000ef36d6d216ee49bb6b3114d48bedd) · 28/10/2026
 
 <!--END_SECTION:recent-activity-->
 
