@@ -763,17 +763,17 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
-**[core-api](https://github.com/VictorMartinsD/core-api)** · `chore: initialize core-api project shell` · [`1c63131`](https://github.com/VictorMartinsD/core-api/commit/1c63131ae9f7b04235830137e9a0863eadabb0f8) · 30/10/2026
+**[core-api](https://github.com/VictorMartinsD/core-api)** · `test: add watch script and group tests with describe` · [`188da93`](https://github.com/VictorMartinsD/core-api/commit/188da93692cef688aab7cbd6abb4940de94f0414) · 30/10/2026
+
+**[core-api](https://github.com/VictorMartinsD/core-api)** · `test: add test script and first unit test for sum function` · [`d7dfe84`](https://github.com/VictorMartinsD/core-api/commit/d7dfe84be9af2f16ab58c9753037dfc91f539ae8) · 30/10/2026
+
+**[core-api](https://github.com/VictorMartinsD/core-api)** · `test: add initial test setup and smoke test` · [`0276a4c`](https://github.com/VictorMartinsD/core-api/commit/0276a4c9f431902a1bcad0cd8ff014275cbe9332) · 30/10/2026
+
+**[template-base-react](https://github.com/VictorMartinsD/template-base-react)** · `fix: correct vite build script and tsconfig.node module configuration` · [`277494a`](https://github.com/VictorMartinsD/template-base-react/commit/277494a86d68c7c0cd76ebaf20775cd6bc553364) · 30/10/2026
+
+**[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `chore: unify tsconfig options and fix typescript build configuration` · [`8e2848f`](https://github.com/VictorMartinsD/template-base-node/commit/8e2848f8619252e8c5afb69be5812f27681c75af) · 30/10/2026
 
 **[auth-template](https://github.com/VictorMartinsD/auth-template)** · `chore: add insomnia workspace configuration file` · [`3c40397`](https://github.com/VictorMartinsD/auth-template/commit/3c40397670b2cc761764808b9d4a057fd3ae515e) · 30/10/2026
-
-**[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: implement user authorization middleware and restrict product ro…` · [`de7e090`](https://github.com/VictorMartinsD/auth-template/commit/de7e090aed7dd914464ad05db8797c066810ad9a) · 30/10/2026
-
-**[auth-template](https://github.com/VictorMartinsD/auth-template)** · `feat: add user roles to jwt token and authenticate payload in middlew…` · [`c63c4ae`](https://github.com/VictorMartinsD/auth-template/commit/c63c4aed8b6cae34947921b0acae200b3f9ce230) · 29/10/2026
-
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs(readme): add author credits to both language versions` · [`2ba8877`](https://github.com/VictorMartinsD/react-forms/commit/2ba8877287731be546b74a5c1fb616ce111a4869) · 28/10/2026
-
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: add bilingual project documentation` · [`3b52958`](https://github.com/VictorMartinsD/react-forms/commit/3b52958148e59a4833808c422c3800a34552825a) · 28/10/2026
 
 <!--END_SECTION:recent-activity-->
 
