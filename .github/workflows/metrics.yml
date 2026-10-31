@@ -48,7 +48,7 @@ jobs:
 
           # Repositórios marcados com estrela recentemente
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 3
           
           # Modo de diagnóstico
           debug: yes
