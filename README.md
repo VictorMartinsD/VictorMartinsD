@@ -763,17 +763,17 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
-**[core-api](https://github.com/VictorMartinsD/core-api)** · `test: add watch script and group tests with describe` · [`188da93`](https://github.com/VictorMartinsD/core-api/commit/188da93692cef688aab7cbd6abb4940de94f0414) · 30/10/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `docs: add initial project README` · [`db9bf7e`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/db9bf7e8c4c96376afa61f27eda6ede1ed02cf10) · 31/10/2026
 
-**[core-api](https://github.com/VictorMartinsD/core-api)** · `test: add test script and first unit test for sum function` · [`d7dfe84`](https://github.com/VictorMartinsD/core-api/commit/d7dfe84be9af2f16ab58c9753037dfc91f539ae8) · 30/10/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: initialize shipment-tracking-api project shell` · [`65b3f59`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/65b3f59225374dea67948de4d2e738cfa7f5bb31) · 31/10/2026
 
-**[core-api](https://github.com/VictorMartinsD/core-api)** · `test: add initial test setup and smoke test` · [`0276a4c`](https://github.com/VictorMartinsD/core-api/commit/0276a4c9f431902a1bcad0cd8ff014275cbe9332) · 30/10/2026
+**[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `Merge branch 'main' of https://github.com/VictorMartinsD/_template-ba…` · [`a2fbd9a`](https://github.com/VictorMartinsD/template-base-node/commit/a2fbd9a4a6ac692007724a5bfb0833cd7268f9f8) · 31/10/2026
 
-**[template-base-react](https://github.com/VictorMartinsD/template-base-react)** · `fix: correct vite build script and tsconfig.node module configuration` · [`277494a`](https://github.com/VictorMartinsD/template-base-react/commit/277494a86d68c7c0cd76ebaf20775cd6bc553364) · 30/10/2026
+**[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `chore: unify tsconfig options and fix typescript build configuration` · [`301d353`](https://github.com/VictorMartinsD/template-base-node/commit/301d353ab23907a8d1572cdd5087511df9190089) · 31/10/2026
 
-**[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `chore: unify tsconfig options and fix typescript build configuration` · [`8e2848f`](https://github.com/VictorMartinsD/template-base-node/commit/8e2848f8619252e8c5afb69be5812f27681c75af) · 30/10/2026
+**[core-api](https://github.com/VictorMartinsD/core-api)** · `test: add assertions to products e2e test` · [`8391ea5`](https://github.com/VictorMartinsD/core-api/commit/8391ea579fa76fcbc3537f811015712734e3719f) · 31/10/2026
 
-**[auth-template](https://github.com/VictorMartinsD/auth-template)** · `chore: add insomnia workspace configuration file` · [`3c40397`](https://github.com/VictorMartinsD/auth-template/commit/3c40397670b2cc761764808b9d4a057fd3ae515e) · 30/10/2026
+**[core-api](https://github.com/VictorMartinsD/core-api)** · `test: add supertest dependency and initial e2e test for products endp…` · [`431f74b`](https://github.com/VictorMartinsD/core-api/commit/431f74bc1a426e52a3c0eef2ac5e4ffb0659a826) · 31/10/2026
 
 <!--END_SECTION:recent-activity-->
 
