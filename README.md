@@ -763,17 +763,17 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `docs: add initial project README` · [`db9bf7e`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/db9bf7e8c4c96376afa61f27eda6ede1ed02cf10) · 31/10/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: implement user routes and controller` · [`81986e2`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/81986e2031962e78e9912bf67e54a738488b0d57) · 31/10/2026
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: initialize shipment-tracking-api project shell` · [`65b3f59`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/65b3f59225374dea67948de4d2e738cfa7f5bb31) · 31/10/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: handle Zod validation errors in error middleware` · [`6302d7a`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/6302d7a5eea8a47813ac2a528d0994913de97aa0) · 31/10/2026
+
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: add error handling middleware and AppError utility` · [`ea93f4e`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/ea93f4e19dd6bbff10629f4014aa6b7ac1e9992a) · 31/10/2026
 
 **[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `Merge branch 'main' of https://github.com/VictorMartinsD/_template-ba…` · [`a2fbd9a`](https://github.com/VictorMartinsD/template-base-node/commit/a2fbd9a4a6ac692007724a5bfb0833cd7268f9f8) · 31/10/2026
 
 **[template-base-node](https://github.com/VictorMartinsD/template-base-node)** · `chore: unify tsconfig options and fix typescript build configuration` · [`301d353`](https://github.com/VictorMartinsD/template-base-node/commit/301d353ab23907a8d1572cdd5087511df9190089) · 31/10/2026
 
 **[core-api](https://github.com/VictorMartinsD/core-api)** · `test: add assertions to products e2e test` · [`8391ea5`](https://github.com/VictorMartinsD/core-api/commit/8391ea579fa76fcbc3537f811015712734e3719f) · 31/10/2026
-
-**[core-api](https://github.com/VictorMartinsD/core-api)** · `test: add supertest dependency and initial e2e test for products endp…` · [`431f74b`](https://github.com/VictorMartinsD/core-api/commit/431f74bc1a426e52a3c0eef2ac5e4ffb0659a826) · 31/10/2026
 
 <!--END_SECTION:recent-activity-->
 
