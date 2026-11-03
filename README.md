@@ -794,57 +794,21 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!-- prettier-ignore-start -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2058%20mins-blue?style=flat)
+```txt
+From: 29 December 2025 - To: 03 November 2026
 
-**Eu sou diurno 🐤** 
+Total Time: 314 hrs 55 mins
 
-```text
-🌞 Manhã                  331 commits         █████████░░░░░░░░░░░░░░░░   34.02 % 
-🌆 Tarde                  353 commits         █████████░░░░░░░░░░░░░░░░   36.28 % 
-🌃 Noite                  275 commits         ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-🌙 Madrugada              14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-```
-📅 **Sou mais produtivo em Terça-Feira** 
-
-```text
-Segunda-Feira            117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Terça-Feira              182 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Quarta-Feira             145 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Quinta-Feira             133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Sexta-Feira              172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Sábado                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Domingo                  112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Other         1,644 hrs 31 mins     █████████████████████░░░░   83.93 %
+JavaScript    97 hrs 5 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+CSS           74 hrs 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+HTML          45 hrs 59 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+TypeScript    41 hrs 35 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Image (svg)   5 hrs 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Git Config    1 hr 37 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 36 mins (18.12%)
-
-✍️ 6,417 lines written by AI, 628 lines written by hand (91.09% AI-written)
-
-🔤 794,928 Input Tokens, 15,211 Output Tokens
-
-💵 $2.18 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 24 AI Prompts
-
-Vscode                   5,370 lines         █████████████████████░░░░   83.66 % 
-GPT                      848 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Github-Copilot           201 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 91.09% of written lines came from AI
-📄 Detailed Prompter — average 689 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 12.97% of changed lines were hand-edited
-```
-
-
- Last Updated on 01/11/2026 12:24:35 UTC
 <!--END_SECTION:waka-->
 <!-- prettier-ignore-end -->
 
