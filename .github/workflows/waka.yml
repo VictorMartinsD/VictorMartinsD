@@ -16,6 +16,7 @@ jobs:
           LOCALE: pt
           COMMIT_MESSAGE: "chore(stats): update WakaTime metrics"
           BAR_STYLE: "solid"
+          SHOW_TIME: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
