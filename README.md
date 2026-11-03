@@ -389,7 +389,7 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
     <td width="50%" valign="top" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:16px;">
       <h4>📋 Documentação de Produto & Specs</h4>
       <p>Elaboração de documentação detalhada para projetos (Visão, Requisitos, Regras de Negócio, Fluxo do Usuário, MVP e Métricas).</p>
-      <a href="https://github.com/VictorMartinsD/refund-dashboard/blob/master/docs/PRODUCT_SPEC.md">👉 <b>Ver Product Spec do Refund Dashboard</b></a>
+      <a href="https://github.com/VictorMartinsD/react-forms/blob/main/docs/product-spec.md">👉 <b>Ver exemplo de Product Spec</b></a>
     </td>
     <td width="50%" valign="top" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:16px;">
       <h4>🎯 Discovery, Requisitos & backlog</h4>
@@ -524,7 +524,7 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
       <br>
       <a href="https://github.com/VictorMartinsD/react-forms"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://victormartinsd.github.io/react-forms/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>&nbsp;&nbsp;&nbsp;
-      <a href="LINK_DO_VIDEO_PELO_LINKEDIN_EM_BREVE"><img src="https://img.shields.io/badge/Assistir%20v%C3%ADdeo-LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwb2x5Z29uIHBvaW50cz0iNSwzIDE5LDEyIDUsMjEiLz48L3N2Zz4=&logoColor=white" alt="Assistir apresentação em vídeo no LinkedIn"></a>
+      <a href="https://lnkd.in/p/d6GzVizf"><img src="https://img.shields.io/badge/Assistir%20v%C3%ADdeo-LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwb2x5Z29uIHBvaW50cz0iNSwzIDE5LDEyIDUsMjEiLz48L3N2Zz4=&logoColor=white" alt="Assistir apresentação em vídeo no LinkedIn"></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎬 Viral Cutter</h3>
@@ -545,7 +545,7 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
       <br>
       <a href="https://github.com/VictorMartinsD/viral-cutter-ai"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://victormartinsd.github.io/viral-cutter-ai/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://pt.linkedin.com/posts/victormartinsd_desenvolvimentoweb-javascript-rocketseat-activity-7447750117945888768-SJ7r?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy"><img src="https://img.shields.io/badge/Assistir%20v%C3%ADdeo-LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwb2x5Z29uIHBvaW50cz0iNSwzIDE5LDEyIDUsMjEiLz48L3N2Zz4=&logoColor=white" alt="Assistir apresentação em vídeo no LinkedIn"></a>
+      <a href="https://lnkd.in/p/dHRuvZnx"><img src="https://img.shields.io/badge/Assistir%20v%C3%ADdeo-LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwb2x5Z29uIHBvaW50cz0iNSwzIDE5LDEyIDUsMjEiLz48L3N2Zz4=&logoColor=white" alt="Assistir apresentação em vídeo no LinkedIn"></a>
     </td>
   </tr>
   <tr>
