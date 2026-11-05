@@ -762,11 +762,11 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: add database schema models and enums for users, deliveries and …` · [`1915310`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/19153104c12b8dd10cd72213737b0a295e557922) · 04/11/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: return user data without password alongside token in authentica…` · [`bfbda8b`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/bfbda8b46773b849afc07dc6d28b4563d1b937ff) · 05/11/2026
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: configure database environment, Prisma and scripts` · [`951039a`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/951039a070e778047f9b09bb1820058a29f61c31) · 03/11/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: implement JWT token generation and authentication configuration` · [`cb8be77`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/cb8be776241e12a6f0a9224a454fac5e6cd8ef78) · 05/11/2026
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: add docker-compose configuration for PostgreSQL` · [`c26bc7c`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/c26bc7cb1582afe50dd5e13a6fc5121460150c9c) · 03/11/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: implement user authentication logic with email and password ver…` · [`61880fb`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/61880fbe05f3dc009c3dd070d5ababd9d6f79aad) · 05/11/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: update portuguese badges and add english badges in study notes` · [`823763f`](https://github.com/VictorMartinsD/react-forms/commit/823763f716178664936662c1312e21c0624d940f) · 01/11/2026
 
