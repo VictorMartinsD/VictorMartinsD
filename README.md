@@ -801,49 +801,49 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  337 commits         █████████░░░░░░░░░░░░░░░░   34.28 % 
-🌆 Tarde                  353 commits         █████████░░░░░░░░░░░░░░░░   35.91 % 
-🌃 Noite                  279 commits         ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+🌞 Manhã                  337 commits         █████████░░░░░░░░░░░░░░░░   34.25 % 
+🌆 Tarde                  353 commits         █████████░░░░░░░░░░░░░░░░   35.87 % 
+🌃 Noite                  280 commits         ███████░░░░░░░░░░░░░░░░░░   28.46 % 
 🌙 Madrugada              14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 📅 **Sou mais produtivo em Terça-Feira** 
 
 ```text
-Segunda-Feira            119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Terça-Feira              189 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Quarta-Feira             145 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Quinta-Feira             133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Sexta-Feira              172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Sábado                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Domingo                  113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Segunda-Feira            119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Terça-Feira              189 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Quarta-Feira             146 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Quinta-Feira             133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Sexta-Feira              172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Sábado                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Domingo                  113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 2 mins (10.16%)
+⏱ AI Coding Time: 1 hr 1 min (9.72%)
 
-✍️ 676 lines written by AI, 539 lines written by hand (55.64% AI-written)
+✍️ 191 lines written by AI, 609 lines written by hand (23.88% AI-written)
 
-🔤 94,794 Input Tokens, 12,900 Output Tokens
+🔤 60,207 Input Tokens, 5,821 Output Tokens
 
-💵 $0.05 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 5 AI Prompts
+🧠 4 AI Sessions, 4 AI Prompts
 
-GPT                      678 lines           ███████████████████░░░░░░   75.67 % 
-Vscode                   218 lines           ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Vscode                   218 lines           █████████████░░░░░░░░░░░░   53.04 % 
+GPT                      193 lines           ████████████░░░░░░░░░░░░░   46.96 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 55.64% of written lines came from AI
-📄 Detailed Prompter — average 759 characters per prompt
+🧑‍💻 Mostly Hands-On — 23.88% of written lines came from AI
+📄 Detailed Prompter — average 942 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 57.32% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 83.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/11/2026 13:32:35 UTC
+ Last Updated on 05/11/2026 13:47:13 UTC
 <!--END_SECTION:waka-->
 <!-- prettier-ignore-end -->
 
