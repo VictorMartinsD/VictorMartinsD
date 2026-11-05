@@ -762,6 +762,8 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 
 <!--START_SECTION:recent-activity-->
 
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: add database schema models and enums for users, deliveries and …` · [`1915310`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/19153104c12b8dd10cd72213737b0a295e557922) · 04/11/2026
+
 **[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: configure database environment, Prisma and scripts` · [`951039a`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/951039a070e778047f9b09bb1820058a29f61c31) · 03/11/2026
 
 **[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: add docker-compose configuration for PostgreSQL` · [`c26bc7c`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/c26bc7cb1582afe50dd5e13a6fc5121460150c9c) · 03/11/2026
@@ -771,8 +773,6 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: update license link to full github URL in readme badges` · [`893762b`](https://github.com/VictorMartinsD/react-forms/commit/893762b3fa093dfd3c8965dc43928e893bca58fb) · 01/11/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: update readme badges and add badges to english section` · [`00f2537`](https://github.com/VictorMartinsD/react-forms/commit/00f2537e228033590c60cd8afe21b092c9b97bfe) · 01/11/2026
-
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: implement user routes and controller` · [`81986e2`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/81986e2031962e78e9912bf67e54a738488b0d57) · 31/10/2026
 
 <!--END_SECTION:recent-activity-->
 
