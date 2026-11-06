@@ -608,11 +608,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: implement delivery logs routes and controller skeleton` · [`72b4b50`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/72b4b5032623e96a7a8f6f8d3d58509fc9b9ee0e) · 05/11/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: add test script, ts-node dependency, adjust typescript target …` · [`87375f0`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/87375f0254643fce89c7d4a95d16b5a16a02452e) · 06/11/2026
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: implement delivery status update controller and patch route` · [`3e5fbb9`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/3e5fbb98bf4921946063a4891ddcec835bc8a1ef) · 05/11/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: configure Jest and update TypeScript options for automated tes…` · [`769490e`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/769490e04ed74d3422ba459524371aa2d45c45da) · 06/11/2026
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `feat: implement delivery listing with associated user details` · [`e7c5319`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/e7c5319df3ad881956759cadf57a630a07ffd649) · 05/11/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: install Jest, ts-jest and Supertest development dependencies` · [`73119ca`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/73119cab6fbe0db9284bde6aebb847459bbb3b42) · 06/11/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: update portuguese badges and add english badges in study notes` · [`823763f`](https://github.com/VictorMartinsD/react-forms/commit/823763f716178664936662c1312e21c0624d940f) · 01/11/2026
 
