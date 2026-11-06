@@ -82,8 +82,9 @@ const victor = {
   nome: "Victor Martins Dias",
   foco_atuação: "Desenvolvimento Web Frontend | Produto Digital",
 
-  objetivo_profissional:
-    "Criar e evoluir soluções web alinhadas às necessidades de usuários e produtos digitais",
+  objetivo_profissional: `Criar e evoluir soluções web alinhadas às necessidades de 
+  usuários e produtos digitais, com foco em evoluir para IA aplicada 
+  à produtividade e automação`,
 
   global_skills: {
     idioma:
@@ -92,7 +93,8 @@ const victor = {
       "React e componentização de interfaces",
       "JavaScript ES6+ e TypeScript",
       "HTML5, CSS3 e design responsivo",
-      "Documentação técnica",
+      "Documentação técnica e requisitos de produto",
+      "Engenharia de Prompt e uso de IA generativa no desenvolvimento",
     ],
   },
 };
@@ -108,247 +110,99 @@ const victor = {
 
 ### 👨‍💻 Desenvolvimento Core, Frontend & Backend
 
-<table align="center">
-  <tr>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
-      <br><sub>React</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br><sub>TypeScript</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br><sub>JavaScript</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br><sub>HTML5</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-      <br><sub>CSS3</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
-      <br><sub>Node.js</sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTU1IDI0bC04LjU0Mi0yLjQzN0wxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4%3D&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
 
 ### 🌐 APIs, Dados & Qualidade
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST APIs" />
-      <br><sub>REST APIs</sub>
-    </td>
-    <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="65" height="65" alt="JSON" />
-      <br><sub>JSON</sub>
-    </td>
-    <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png" width="65" height="65" alt="Express.js" />
-      <br><sub>Express.js</sub>
-    </td>
-    <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65" />
-      <br><sub>SQL</sub>
-    </td>
-    <td align="center" valign="middle" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="SQLite" />
-      <br><sub>SQLite</sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAxOWMwIC4zNC4wMy42Ny4wOCAxSDYuNWMtMS41IDAtMi44MS0uNS0zLjg5LTEuNTdDMS41NCAxNy4zOCAxIDE2LjA5IDEgMTQuNThxMC0xLjk1IDEuMTctMy40OEMzLjM0IDkuNTcgNCA5LjQzIDUuMjUgOS4xNWMuNDItMS41MyAxLjI1LTIuNzcgMi41LTMuNzJTMTAuNDIgNCAxMiA0YzEuOTUgMCAzLjYuNjggNC45NiAyLjA0UzE5IDkuMDUgMTkgMTFjMS4xNS4xMyAyLjEuNjMgMi44NiAxLjUuMDYuMDUuMS4xMy4xNC4xOS0uOS0uNDQtMS45Mi0uNjktMy0uNjktMy44NyAwLTcgMy4xMy03IDdtMTEuODMgMS42NC0xIDEuNzNjLS4wNy4xMy0uMi4xMy0uMzMuMTNsLTEuMjMtLjVjLS4yNy4xOC0uNTQuMzQtLjg0LjQ3bC0uMTkgMS4zMmMtLjAyLjEyLS4xMy4yMS0uMjQuMjFoLTJjLS4xNCAwLS4yNC0uMDktLjI2LS4yMWwtLjE5LTEuMzJjLS4zMS0uMTItLjU5LS4yOS0uODUtLjQ3bC0xLjI0LjVjLS4xMiAwLS4yNSAwLS4zMS0uMTNsLTEtMS43M2EuMjYuMjYgMCAwIDEgLjA2LS4zMmwxLjA2LS44MmE0LjIgNC4yIDAgMCAxIDAtMWwtMS4wNi0uODJhLjI1LjI1IDAgMCAxLS4wNi0uMzJsMS0xLjczYy4wNy0uMTMuMi0uMTMuMzEtLjEzbDEuMjQuNWMuMjYtLjE4LjU1LS4zNC44NS0uNDdsLjE5LTEuMzJBLjI2LjI2IDAgMCAxIDE4IDE0aDJjLjExIDAgLjIyLjA5LjIzLjIxbC4xOSAxLjMyYy4zMS4xMi41OC4yOS44NS40N2wxLjIzLS41Yy4xMyAwIC4yNiAwIC4zMi4xM2wxIDEuNzNjLjA2LjExLjAzLjI0LS4wNi4zMmwtMS4wNi44MmMuMDMuMTcuMDQuMzMuMDQuNXMtLjAyLjMzLS4wNC41bDEuMDcuODJjLjA5LjA4LjEyLjIxLjA2LjMyTTIwLjUgMTljMC0uODMtLjY4LTEuNS0xLjUtMS41cy0xLjUuNjctMS41IDEuNS42NiAxLjUgMS41IDEuNSAxLjUtLjY3IDEuNS0xLjUiLz48L3N2Zz4%3D&logoColor=white">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTYuNTQgNS41NEM2LjMxIDUuNTQgNi4xNSA1LjU3IDUuOTkgNS42MVY1LjY0SDYuMDJDNi4xMiA1Ljg1IDYuMzEgNiA2LjQ1IDYuMTlDNi41NiA2LjQxIDYuNjUgNi42MyA2Ljc2IDYuODRMNi43OSA2LjgxQzYuOTggNi42OCA3LjA4IDYuNDYgNy4wOCA2LjEzQzcgNi4wNCA2Ljk4IDUuOTQgNi45MSA1Ljg1QzYuODMgNS43MSA2LjY2IDUuNjUgNi41NSA1LjU0TDYuNTQgNS41NFpNMjAuNDIgMTcuMzdDMTkuMzMgMTcuMzQgMTguNDkgMTcuNDUgMTcuNzggMTcuNzVDMTcuNTggMTcuODMgMTcuMjUgMTcuODMgMTcuMjIgMTguMDlDMTcuMzQgMTguMiAxNy4zNSAxOC4zNyAxNy40NSAxOC41MkMxNy42MSAxOC44IDE3Ljg5IDE5LjE2IDE4LjE1IDE5LjM1UTE4LjU4IDE5LjY5IDE5LjAyIDE5Ljk4QzE5LjU1IDIwLjMxIDIwLjE1IDIwLjUgMjAuNjcgMjAuODNDMjAuOTYgMjEuMDIgMjEuMjcgMjEuMjYgMjEuNTYgMjEuNDdDMjEuNzEgMjEuNTcgMjEuODEgMjEuNzUgMjIgMjEuODJWMjEuNzhDMjEuOTEgMjEuNjUgMjEuODggMjEuNDggMjEuNzkgMjEuMzRDMjEuNjUgMjEuMiAyMS41MSAyMS4wOCAyMS4zOCAyMC45NUMyMC45OCAyMC40MiAyMC41IDE5Ljk2IDE5Ljk3IDE5LjU3QzE5LjUzIDE5LjI4IDE4LjU4IDE4Ljg2IDE4LjQgMTguMzZMMTguMzcgMTguMzNDMTguNjcgMTguMzEgMTkuMDIgMTguMiAxOS4zMSAxOC4xMkMxOS43NyAxOCAyMC4xOSAxOC4wMiAyMC42NyAxNy45UTIxIDE3LjgyIDIxLjMyIDE3LjcxVjE3LjU5QzIxLjA4IDE3LjM0IDIwLjg5IDE3LjAxIDIwLjY0IDE2Ljc5QzE5Ljk0IDE2LjE3IDE5LjE5IDE1LjYxIDE4LjQgMTUuMTFDMTcuOTcgMTQuODQgMTcuNDMgMTQuNjYgMTYuOTggMTQuNDNDMTYuODEgMTQuMzUgMTYuNTQgMTQuMzEgMTYuNDUgMTQuMTdDMTYuMiAxMy44OCAxNi4wNiAxMy40OCAxNS44OSAxMy4xM0MxNS40OSAxMi4zNSAxNS4xMiAxMS41NiAxNC43OCAxMC43NkMxNC41MyAxMC4yMyAxNC4zOCA5LjcgMTQuMDggOS4yMUMxMi42OCA2Ljg5IDExLjE2IDUuNDkgOC44MiA0LjEyQzguMzIgMy44MyA3LjcyIDMuNzEgNy4wOCAzLjU2QzYuNzQgMy41NSA2LjQgMy41MiA2LjA2IDMuNTFDNS44NCAzLjQxIDUuNjIgMy4xNSA1LjQzIDMuMDNDNC42NiAyLjU0IDIuNjYgMS40OCAyLjA5IDIuODhDMS43MiAzLjc3IDIuNjMgNC42NCAyLjk0IDUuMDhDMy4xOCA1LjQgMy40NyA1Ljc1IDMuNjQgNi4xQzMuNzMgNi4zNCAzLjc2IDYuNTggMy44NSA2LjgzQzQuMDcgNy40MiA0LjI4IDguMDkgNC41NiA4LjY1QzQuNzEgOC45NCA0Ljg3IDkuMjQgNS4wNiA5LjQ5QzUuMTcgOS42NCA1LjM2IDkuNzEgNS40IDkuOTVDNS4yMSAxMC4yMyA1LjIgMTAuNjMgNS4wOSAxMC45N0M0LjYgMTIuNTEgNC43OSAxNC40MiA1LjQ4IDE1LjU1QzUuNyAxNS44OSA2LjIyIDE2LjY0IDYuOTEgMTYuMzVDNy41MyAxNi4xMSA3LjM5IDE1LjMzIDcuNTcgMTQuNjVDNy42MSAxNC40OSA3LjU4IDE0LjM4IDcuNjYgMTQuMjdWMTQuM0M3Ljg1IDE0LjY4IDguMDUgMTUuMDUgOC4yMiAxNS40M0M4LjY0IDE2LjEgOS4zNyAxNi43OSA5Ljk5IDE3LjI1QzEwLjMxIDE3LjUgMTAuNTcgMTcuOTIgMTAuOTggMTguMDdWMTguMDNIMTAuOTVDMTAuODYgMTcuOTEgMTAuNzQgMTcuODUgMTAuNjMgMTcuNzZDMTAuMzcgMTcuNTEgMTAuMTQgMTcuMjMgOS45MiAxNi45NEM5LjM1IDE2LjE2IDguODQgMTUuMzMgOC40IDE0LjQ3QzguMTggMTQuMDQgNy45OSAxMy41OCA3LjgxIDEzLjE2QzcuNzMgMTIuOTkgNy43MyAxMi43NSA3LjU5IDEyLjY3QzcuMzkgMTIuOTcgNy4wOSAxMy4yMiA2Ljk0IDEzLjU5QzYuNjggMTQuMTggNi42NiAxNC45IDYuNTYgMTUuNjVDNi41IDE1LjY2IDYuNTMgMTUuNjUgNi41IDE1LjY3QzYuMDcgMTUuNTcgNS45MiAxNS4xMiA1Ljc2IDE0Ljc0QzUuMzUgMTMuNzcgNS4yOCAxMi4yMiA1LjYzIDExLjExQzUuNzMgMTAuODIgNi4xNCA5LjkyIDUuOTcgOS42NUM1Ljg5IDkuMzkgNS42MiA5LjI0IDUuNDcgOS4wM0M1LjI4IDguNzYgNS4xMiA4LjQ3IDQuOTggOC4xNkM0LjY2IDcuNCA0LjQ5IDYuNTYgNC4xNCA1LjhDMy45OCA1LjQ1IDMuNjkgNS4wOCAzLjQ2IDQuNzVDMy4yIDQuMzkgMi45MiA0LjEzIDIuNzEgMy43QzIuNjUgMy41NSAyLjU1IDMuMyAyLjY2IDMuMTRDMi42OSAzLjAzIDIuNzQgMi45OSAyLjg1IDIuOTZDMy4wMyAyLjgxIDMuNTMgMyAzLjcxIDMuMDhDNC4yMSAzLjI5IDQuNjMgMy40OCA1LjA1IDMuNzZDNS4yNSAzLjkgNS40NSA0LjE1IDUuNyA0LjIySDUuOThDNi40MiA0LjMyIDYuOTEgNC4yNSA3LjMxIDQuMzdDOC4wNCA0LjYgOC42OSA0Ljk0IDkuMjcgNS4zMUMxMS4wNyA2LjQ2IDEyLjUzIDguMDYgMTMuNTEgOS45NkMxMy42OCAxMC4yNyAxMy43NSAxMC41NiAxMy45IDEwLjg4QzE0LjE4IDExLjU2IDE0LjUzIDEyLjIzIDE0LjgyIDEyLjg4QzE1LjExIDEzLjUyIDE1LjM4IDE0LjE4IDE1Ljc5IDE0LjcxQzE1Ljk5IDE0Ljk5IDE2LjgxIDE1LjE0IDE3LjE4IDE1LjI5QzE3LjQ1IDE1LjQxIDE3Ljg3IDE1LjUyIDE4LjEyIDE1LjY3QzE4LjU4IDE1Ljk2IDE5LjA0IDE2LjI4IDE5LjQ4IDE2LjZDMTkuNyAxNi43NSAyMC4zOCAxNy4wOSAyMC40MiAxNy4zNyIvPjwvc3ZnPg%3D%3D&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+</p>
 
 ### 🔍 Tooling & Code Quality
 
-<table align="center">
-  <tr>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="65" height="65" alt="Vite" />
-      <br><sub>Vite</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="65" height="65" alt="ESLint" />
-      <br><sub>ESLint</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="Prettier" />
-      <br><sub>Prettier</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="65" height="65" alt="npm" />
-      <br><sub>npm</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://cdn.worldvectorlogo.com/logos/husky.svg" width="65" height="65" alt="Husky" />
-      <br><sub>Husky</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="65" height="65" alt="Webpack" />
-      <br><sub>Webpack</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://cdn.simpleicons.org/stylelint/ffffff" width="65" height="65" alt="Stylelint" />
-      <br><sub>Stylelint</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" width="65" height="65" alt="Babel" />
-      <br><sub>Babel</sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/Husky-392F5B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTIuNSAyLjUgOC42IDZRMTIgNS4yIDE1LjQgNkwyMS41IDIuNSAyMSAxMSAxOCAxNi4yIDE0LjIgMjAuNCAxMiAyMS44IDkuOCAyMC40IDYgMTYuMiAzIDExWk02LjQgMTAuNCAxMC44IDExLjggMTAgMTMuMiA3IDEyWk0xNy42IDEwLjQgMTMuMiAxMS44IDE0IDEzLjIgMTcgMTJaTTEwIDE3LjJIMTRMMTIgMTkuOFoiLz48L3N2Zz4%3D&logoColor=white">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
+  <img src="https://img.shields.io/badge/Stylelint-273238?style=for-the-badge&logo=stylelint&logoColor=white">
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black">
+</p>
 
 ### 🚀 Versionamento e Deploy
 
-<table align="center">
-  <tr>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
-      <br><sub>Git</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br><sub>Github</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://cdn.simpleicons.org/githubpages/ffffff" width="65" height="65" alt="GitHub Pages" />
-      <br><sub>GitHub<br />Pages</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="65" height="65" alt="GitHub Actions" />
-      <br><sub>GitHub<br />Actions</sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+</p>
 
 ### 🧰 Ferramentas & Fluxo de Trabalho
 
-<table align="center">
-  <tr>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" height="65" alt="VSCode" />
-      <br><sub>VSCode</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
-      <br><sub>Figma</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://cdn.simpleicons.org/markdown/ffffff" width="65" height="65" alt="Markdown" />
-      <br><sub>Markdown</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://desktop.github.com/images/desktop-icon.svg" width="65" height="65" alt="GitHub Desktop" />
-      <br><sub>GitHub<br />Desktop</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="65" height="65" alt="Jira" />
-      <br><sub>Jira</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" width="65" height="65" alt="Trello" />
-      <br><sub>Trello</sub>
-    </td>
-    <td align="center" width="96" height="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="65" height="65" alt="Notion" />
-      <br><sub>Notion</sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xNyAxNi40N1Y3LjM5bC02IDQuNTRNMi4yMiA5LjE5YS44Ni44NiAwIDAgMS0uMDItMS4xNWwxLjItMS4xMWMuMi0uMTguNjktLjI2IDEuMDUgMGwzLjQyIDIuNjEgNy45My03LjI1Yy4zMi0uMzIuODctLjQ1IDEuNS0uMTJsNCAxLjkxYy4zNi4yMS43LjU0LjcgMS4xNXYxMy41YzAgLjQtLjI5LjgzLS42IDFsLTQuNCAyLjFjLS4zMi4xMy0uOTIuMDEtMS4xMy0uMmwtOC4wMi03LjMtMy40IDIuNmMtLjM4LjI2LS44NS4xOS0xLjA1IDBsLTEuMi0xLjFjLS4zMi0uMzMtLjI4LS44Ny4wNS0xLjJsMy0yLjciLz48L3N2Zz4%3D&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Desktop-563D7C?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</p>
 
 ### 📦 Ferramentas Complementares
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white">
-  <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=flat-square&logo=obs-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xOS45NCA1LjU5djEyLjhxMCAuNjctLjM5IDEuMi0uMzkuNTItMS4wNS43bC01LjczIDEuNjVxLS4xMi4wMy0uMjcuMDZoLS4yMnEtLjMzIDAtLjYtLjA5dC0uNTUtLjI0bC0zLjc1LTIuMTJxLS4yMS0uMTItLjMzLS4zMXQtLjEyLS40M3EwLS4zNi4yNi0uNjEuMjUtLjI1LjYxLS4yNWg0Ljg2VjYuMTRMOSA3LjQ0cS0uNDMuMTYtLjcuNTYtLjI3LjM4LS4yNy44NXY2LjczcTAgLjQyLS4yMS43Ni0uMi4zNC0uNTcuNTRsLTEuNzIuOTRxLS4yNC4xMy0uNDguMTMtLjQxIDAtLjctLjI5dC0uMjktLjcxVjcuNDdxMC0uNTIuMjctLjk3LjI4LS41LjczLS43Nmw2LjE2LTMuNXEuMjEtLjEyLjQ1LS4xOHQuNDgtLjA2cS4xNyAwIC4zMS4wMy4xNC4wMi4zMS4wN2w1LjczIDEuNTlxLjMzLjA5LjU5LjI3dC40NS40M3EuMi4yNi4zLjU2LjEuMzEuMS42NG0tMS4zMiAxMi44VjUuNTlxMC0uMjMtLjEyLS40LS4xNS0uMTktLjM3LS4yM2wtMi44Mi0uNzhRMTUgNC4wOSAxNC42NSA0cS0uMzMtLjExLS42NS0uMTl2MTYuNEwxOC4xMyAxOXEuMjItLjA0LjM3LS4yMS4xMi0uMTcuMTItLjQiLz48L3N2Zz4%3D&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMS4xNyAzLjI1cS4zMyAwIC41OS4yNS4yNC4yNC4yNC41OHYxNS44NHEwIC4zNC0uMjQuNTgtLjI2LjI1LS41OS4yNUg3LjgzcS0uMzMgMC0uNTktLjI1LS4yNC0uMjQtLjI0LS41OFYxN0gyLjgzcS0uMzMgMC0uNTktLjI0UTIgMTYuNSAyIDE2LjE3VjcuODNxMC0uMzMuMjQtLjU5UTIuNSA3IDIuODMgN0g3VjQuMDhxMC0uMzQuMjQtLjU4LjI2LS4yNS41OS0uMjVNNyAxMy4wNmwxLjE4IDIuMjJoMS43OUw4IDEyLjA2bDEuOTMtMy4xN0g4LjIyTDcuMTMgMTAuOWwtLjA0LjA2LS4wMy4wN3EtLjI2LS41My0uNTYtMS4wNy0uMjUtLjUzLS41My0xLjA3SDQuMTZsMS44OSAzLjE5TDQgMTUuMjhoMS43OG04LjEgNC4yMlYxN0g4LjI1djIuNW01LjYzLTMuNzV2LTMuMTJIMTJ2My4xMm0xLjg4LTQuMzdWOC4yNUgxMnYzLjEzTTEzLjg4IDdWNC41SDguMjVWN20xMi41IDEyLjVWMTdoLTUuNjJ2Mi41bTUuNjItMy43NXYtMy4xMmgtNS42MnYzLjEybTUuNjItNC4zN1Y4LjI1aC01LjYydjMuMTNNMjAuNzUgN1Y0LjVoLTUuNjJWN1oiLz48L3N2Zz4%3D&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+  <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white">
 </p>
 
 ### 💡 Competências Técnicas & Diferenciais
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20L%C3%B3gica_de_Programa%C3%A7%C3%A3o-001233?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/%F0%9F%93%B1%20Design_Responsivo-002855?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-001F3F?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/%E2%99%BF%EF%B8%8F%20Acessibilidade_Digital-0056B3?style=for-the-badge&logo=accessibility&logoColor=white"/>
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Linha_de_Comando_(CLI)-007ACC?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/%F0%9F%A7%A9%20Resolu%C3%A7%C3%A3o_de_Problemas-006D77?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Habilidades_Anal%C3%ADticas-264653?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Engenharia_de_Prompt-0056B3?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Desenvolvimento_Assistido_(IA)-007ACC?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Inglês_B1-003366?style=for-the-badge&logo=google-translate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/L%C3%B3gica_de_Programa%C3%A7%C3%A3o-001233?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Design_Responsivo-002855?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik00IDZ2MTBoNXYtNGEyIDIgMCAwIDEgMi0yaDVhMiAyIDAgMCAxIDIgMnY0aDJWNnpNMCAyMHYtMmg0YTIgMiAwIDAgMS0yLTJWNmEyIDIgMCAwIDEgMi0yaDE2YTIgMiAwIDAgMSAyIDJ2MTBhMiAyIDAgMCAxLTIgMmg0djJoLTZhMiAyIDAgMCAxLTIgMmgtNWEyIDIgMCAwIDEtMi0yem0xMS41IDBhLjUuNSAwIDAgMC0uNS41LjUuNSAwIDAgMCAuNS41LjUuNSAwIDAgMCAuNS0uNS41LjUgMCAwIDAtLjUtLjVtNCAwYS41LjUgMCAwIDAtLjUuNS41LjUgMCAwIDAgLjUuNS41LjUgMCAwIDAgLjUtLjUuNS41IDAgMCAwLS41LS41TTEzIDIwdjFoMXYtMXptLTItOHY3aDV2LTd6Ii8%2BPC9zdmc%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-001F3F?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Acessibilidade_Digital-0056B3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Im0xOC40IDExLjItNC4xLjIgMi4zLTIuNmMuMi0uMy4zLS44LjItMS4zLS4xLS4zLS4yLS42LS41LS44bC01LjQtMy4yYy0uNC0uMy0xLS4yLTEuNC4xTDYuOCA2LjFjLS41LjUtLjYgMS4yLS4xIDEuNy40LjUgMS4yLjUgMS43LjFsMi0xLjggMS45IDEuMS00LjIgNC4zYy0uMS4xLS4xLjItLjIuMi0uNS4yLTEgLjQtMS40LjdMOCAxMy45Yy41LS4yIDEtLjQgMS41LS40IDEuOSAwIDMuNSAxLjYgMy41IDMuNSAwIC42LS4xIDEuMS0uNCAxLjVsMS41IDEuNXEuOS0xLjM1LjktM2MwLTEuMi0uNC0yLjQtMS4xLTMuM2wzLjMtLjMtLjIgNC44Yy0uMS43LjQgMS4yIDEuMSAxLjNoLjFjLjYgMCAxLjEtLjUgMS4yLTEuMWwuMi01LjljMC0uMy0uMS0uNy0uMy0uOS0uMy0uMy0uNi0uNC0uOS0uNE0xOCA1LjVhMiAyIDAgMCAwIDItMiAyIDIgMCAwIDAtMi0yIDIgMiAwIDAgMC0yIDIgMiAyIDAgMCAwIDIgMm0tNS41IDE2LjFxLTEuMzUuOS0zIC45QzYuNSAyMi41IDQgMjAgNCAxN3EwLTEuNjUuOS0zbDEuNSAxLjVjLS4yLjUtLjQgMS0uNCAxLjUgMCAxLjkgMS42IDMuNSAzLjUgMy41LjYgMCAxLjEtLjEgMS41LS40eiIvPjwvc3ZnPg%3D%3D&logoColor=white">
+  <img src="https://img.shields.io/badge/Linha_de_Comando_(CLI)-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMCAxOVY3SDR2MTJ6bTAtMTZhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJ6bS03IDE0di0yaDV2MnptLTMuNDItNEw1LjU3IDlIOC40bDMuMyAzLjNjLjM5LjM5LjM5IDEuMDMgMCAxLjQyTDguNDIgMTdINS41OXoiLz48L3N2Zz4%3D&logoColor=white">
+  <img src="https://img.shields.io/badge/Resolu%C3%A7%C3%A3o_de_Problemas-006D77?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Habilidades_Anal%C3%ADticas-264653?style=for-the-badge&logo=googleanalytics&logoColor=white">
+  <img src="https://img.shields.io/badge/Estrat%C3%A9gia_de_Produto-1D3557?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBjMC0xLjE2LS4yMS0yLjMxLS42MS0zLjM5bC0xLjYgMS42Yy4xNC41OS4yMSAxLjE5LjIxIDEuNzlhOCA4IDAgMCAxLTggOCA4IDggMCAwIDEtOC04IDggOCAwIDAgMSA4LThjLjYgMCAxLjIuMDcgMS43OS4yMUwxNS40IDIuNkMxNC4zMSAyLjIxIDEzLjE2IDIgMTIgMm03IDAtNCA0djEuNWwtMi41NSAyLjU1QzEyLjMgMTAgMTIuMTUgMTAgMTIgMTBhMiAyIDAgMCAwLTIgMiAyIDIgMCAwIDAgMiAyIDIgMiAwIDAgMCAyLTJjMC0uMTUgMC0uMy0uMDUtLjQ1TDE2LjUgOUgxOGw0LTRoLTN6bS03IDRhNiA2IDAgMCAwLTYgNiA2IDYgMCAwIDAgNiA2IDYgNiAwIDAgMCA2LTZoLTJhNCA0IDAgMCAxLTQgNCA0IDQgMCAwIDEtNC00IDQgNCAwIDAgMSA0LTR6Ii8%2BPC9zdmc%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Scrum_%26_Kanban-0B525B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xNiA1djEzaDVWNU00IDE4aDVWNUg0bTYgMTNoNVY1aC01eiIvPjwvc3ZnPg%3D%3D&logoColor=white">
+  <img src="https://img.shields.io/badge/Engenharia_de_Prompt-0056B3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMCAySDRhMiAyIDAgMCAwLTIgMnYxOGw0LTRoMTRhMiAyIDAgMCAwIDItMlY0YTIgMiAwIDAgMC0yLTJNNiA5aDEydjJINm04IDNINnYtMmg4bTQtNEg2VjZoMTIiLz48L3N2Zz4%3D&logoColor=white">
+  <img src="https://img.shields.io/badge/Desenvolvimento_Assistido_(IA)-007ACC?style=for-the-badge&logo=githubcopilot&logoColor=white">
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-023E8A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMSAxNUg2bDctMTR2OGg1bC03IDE0eiIvPjwvc3ZnPg%3D%3D&logoColor=white">
+  <img src="https://img.shields.io/badge/Ingl%C3%AAs_B1-003366?style=for-the-badge&logo=googletranslate&logoColor=white">
 </p>
 
-</div>
+### 🎯 Próximos Objetivos de Estudo
 
----
-
-<!-- Aprendizado Atual e Roadmap de Desenvolvimento -->
-<div align="center">
-
-## 🧩 Aprendizado Atual
-
-_Aprofundando em estilização moderna, testes automatizados, segurança de APIs, ORM, bancos de dados relacionais e conteinerização de aplicações web._
-
-<table align="center">
-  <tr>
-    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="65" height="65" alt="Jest" />
-      <br>Jest
-    </td>
-    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://jwt.io/img/pic_logo.svg" width="65" height="65" alt="JWT" />
-      <br>JWT
-    </td>
-    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://github.com/user-attachments/assets/153fa4cb-cfd4-4d7e-9764-9ada9cfb36cf" width="65" height="65" alt="Prisma" style="margin-bottom: 10px;" />
-      <br>Prisma
-    </td>
-    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
-</table>
-
-<sub>Em progresso: criação de interfaces com Tailwind, testes unitários com Jest, autenticação via JWT, modelagem de dados com Prisma ORM em PostgreSQL e conteinerização de ambientes de desenvolvimento com Docker.</sub>
-
-</div>
-
----
-
-<!-- Roadmaps e Objetivos Futuros -->
-<div align="center">
-
-## 🎯 Próximos Objetivos de Estudo
-
-_Expandindo o domínio em bancos de dados relacionais e otimização de consultas em escala._
-
-<table align="center">
-  <tr>
-    <td align="center" width="120" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:12px 10px;">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-  </tr>
-</table>
-
-<sub>Próximos passos: aprofundamento em modelagem relacional, otimização de queries complexas e gerenciamento do MySQL em ambientes de produção.</sub>
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
+</p>
 
 </div>
 
@@ -358,16 +212,17 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
 <div align="center">
 <a name="expertise"></a>
 
-## 📊 Expertise & Diferenciais
+## 📊 Áreas de Atuação & Diferenciais
 
-| Área de Atuação          | Aplicação Prática & Destaques                                                            |
-| :----------------------- | :--------------------------------------------------------------------------------------- |
-| **Desenvolvimento Web**  | **HTML5/CSS3:** Semântica, estrutura, responsividade e SEO.                              |
-| **Lógica & JavaScript**  | **ES6+:** Lógica, algoritmos, DOM e organização de código em módulos.                    |
-| **Design Responsivo**    | **UI/UX:** Interfaces adaptáveis com Flexbox, Grid e conversão de protótipos do Figma.   |
-| **APIs & Backend**       | **Node.js:** APIs HTTP/REST, JSON, rotas, middlewares e persistência em arquivos.        |
-| **Qualidade de Código**  | **ESLint, Prettier e Husky:** Linting, formatação e automação de tarefas do projeto.     |
-| **Engenharia de Prompt** | Uso crítico de IA para pesquisa, debug, documentação e produtividade no desenvolvimento. |
+| Área de Atuação         | Aplicação Prática & Destaques                                                                                                                                                                                                                                                               |
+| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Desenvolvimento Web** | **HTML5/CSS3:** Semântica, estrutura, responsividade, acessibilidade e SEO.                                                                                                                                                                                                                 |
+| **Lógica & JavaScript** | **ES6+:** Lógica, algoritmos, DOM e organização de código em módulos.                                                                                                                                                                                                                       |
+| **Design Responsivo**   | **UI/UX:** Interfaces adaptáveis com Flexbox e Grid, com fidelidade visual aos layouts do Figma.                                                                                                                                                                                            |
+| **APIs & Backend**      | **Node.js:** APIs HTTP/REST, JSON, rotas, middlewares e persistência em arquivos.                                                                                                                                                                                                           |
+| **Qualidade de Código** | **ESLint, Prettier e Husky:** Linting, formatação e automação de tarefas do projeto.                                                                                                                                                                                                        |
+| **IA & Produtividade**  | **Engenharia de Prompt:** Uso crítico de IA generativa para pesquisa, debug, documentação e produtividade no desenvolvimento.                                                                                                                                                               |
+| **Automação**           | **GitHub Actions:** Workflows no repositório deste perfil: atualização agendada do README, checagem de links, lint e formatação, e abertura automática de issues quando algum workflow falha. [Ver workflows](https://github.com/VictorMartinsD/VictorMartinsD/tree/main/.github/workflows) |
 
 <br>
 </div>
@@ -393,7 +248,7 @@ _Expandindo o domínio em bancos de dados relacionais e otimização de consulta
     </td>
     <td width="50%" valign="top" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:16px;">
       <h4>🎯 Discovery, Requisitos & backlog</h4>
-      <p>Transformação de dores e necessidades dos usuários em requisitos técnicos bem definidos e tarefas acionáveis, com apoio de Jira, Trello e Kanban.</p>
+      <p>Transformação de dores e necessidades dos usuários em requisitos técnicos bem definidos e tarefas acionáveis, com apoio de Jira, Trello e práticas ágeis (Kanban e Scrum).</p>
     </td>
   </tr>
   <tr>
