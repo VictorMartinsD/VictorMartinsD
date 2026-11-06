@@ -809,7 +809,7 @@ modelo_trabalho: Remoto, Híbrido ou Presencial
 <a href="https://www.linkedin.com/in/victormartinsd/">
   <img src="https://img.shields.io/badge/Jornada_Profissional-001233?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yem0tLjUgMTUuNXYtNS4zYTMuMjYgMy4yNiAwIDAgMC0zLjI2LTMuMjZjLS44NSAwLTEuODQuNTItMi4zMiAxLjN2LTEuMTFoLTIuNzl2OC4zN2gyLjc5di00LjkzYzAtLjc3LjYyLTEuNCAxLjM5LTEuNGExLjQgMS40IDAgMCAxIDEuNCAxLjR2NC45M3pNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Jornada Profissional" height="35"/>
 </a>
-<a href="https://github.com/VictorMartinsD">
+<a href="https://github.com/VictorMartinsD?tab=repositories">
   <img src="https://img.shields.io/badge/Repositórios_de_Código-002855?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios de Código" height="35"/>
 </a>
 <a href="https://victormartinsd.github.io/portfolio-dev/">
