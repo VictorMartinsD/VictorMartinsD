@@ -209,6 +209,7 @@ const victor = {
 ---
 
 <!-- Produto, IA & Automação -->
+
 <a name="expertise"></a>
 
 <div align="center">
