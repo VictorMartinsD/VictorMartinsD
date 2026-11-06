@@ -11,7 +11,7 @@ on:
       - "Links"
       - "Recent Activity"
       - "Metrics"
-      - "Goodreads Bookshelf"
+      - "Update Goodreads Bookshelf"
     types: [completed]
 
 permissions:
