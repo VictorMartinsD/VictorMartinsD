@@ -208,57 +208,47 @@ const victor = {
 
 ---
 
-<!-- Gráfico de Skills e Proficiência -->
-<div align="center">
+<!-- Produto, IA & Automação -->
 <a name="expertise"></a>
 
-## 📊 Áreas de Atuação & Diferenciais
-
-| Área de Atuação         | Aplicação Prática & Destaques                                                                                                                                                                                                                                                               |
-| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Desenvolvimento Web** | **HTML5/CSS3:** Semântica, estrutura, responsividade, acessibilidade e SEO.                                                                                                                                                                                                                 |
-| **Lógica & JavaScript** | **ES6+:** Lógica, algoritmos, DOM e organização de código em módulos.                                                                                                                                                                                                                       |
-| **Design Responsivo**   | **UI/UX:** Interfaces adaptáveis com Flexbox e Grid, com fidelidade visual aos layouts do Figma.                                                                                                                                                                                            |
-| **APIs & Backend**      | **Node.js:** APIs HTTP/REST, JSON, rotas, middlewares e persistência em arquivos.                                                                                                                                                                                                           |
-| **Qualidade de Código** | **ESLint, Prettier e Husky:** Linting, formatação e automação de tarefas do projeto.                                                                                                                                                                                                        |
-| **IA & Produtividade**  | **Engenharia de Prompt:** Uso crítico de IA generativa para pesquisa, debug, documentação e produtividade no desenvolvimento.                                                                                                                                                               |
-| **Automação**           | **GitHub Actions:** Workflows no repositório deste perfil: atualização agendada do README, checagem de links, lint e formatação, e abertura automática de issues quando algum workflow falha. [Ver workflows](https://github.com/VictorMartinsD/VictorMartinsD/tree/main/.github/workflows) |
-
-<br>
-</div>
-
----
-
-<!-- Experiência Complementar em Produto -->
 <div align="center">
-<a name="produto"></a>
 
-## 🧭 Experiência Complementar em Produto
+## 🧭 Produto, IA & Automação
 
-<sub>Práticas e iniciativas voltadas a Product Management, Documentação Técnica e Organização de Demandas</sub>
-
-<br />
+<sub>Iniciativas que complementam minha atuação em desenvolvimento web</sub>
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:16px;">
-      <h4>📋 Documentação de Produto & Specs</h4>
-      <p>Elaboração de documentação detalhada para projetos (Visão, Requisitos, Regras de Negócio, Fluxo do Usuário, MVP e Métricas).</p>
-      <a href="https://github.com/VictorMartinsD/react-forms/blob/main/docs/product-spec.md">👉 <b>Ver exemplo de Product Spec</b></a>
+    <td width="33%" valign="top">
+      <h3 align="center">💡 Documentação de Produto</h3>
+      <p>
+        Estruturação de visão, requisitos, regras de negócio e fluxos
+        para orientar a implementação dos projetos.
+      </p>
+      <p align="center">
+        <a href="https://github.com/VictorMartinsD/react-forms/blob/main/docs/product-spec.md">
+          <img src="https://img.shields.io/badge/PRODUCT_SPEC-ABRIR-0056B3?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Abrir Product Spec" />
+        </a>
+      </p>
     </td>
-    <td width="50%" valign="top" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:16px;">
-      <h4>🎯 Discovery, Requisitos & backlog</h4>
-      <p>Transformação de dores e necessidades dos usuários em requisitos técnicos bem definidos e tarefas acionáveis, com apoio de Jira, Trello e práticas ágeis (Kanban e Scrum).</p>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 IA & Produtividade</h3>
+      <p>
+        Uso de IA generativa e engenharia de prompt como apoio
+        à pesquisa, depuração e documentação durante o desenvolvimento.
+      </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:16px;">
-      <h4>👥 Gestão de Comunidade & Priorização</h4>
-      <p>Organização, triagem e priorização de demandas em comunidade digital ativa com centenas de usuários.</p>
-    </td>
-    <td width="50%" valign="top" style="background-color:#1a2230; border:1px solid #2d394d; border-radius:10px; padding:16px;">
-      <h4>🌱 Liderança & Capacitação</h4>
-      <p>Coordenação de iniciativas voltadas ao ensino de lógica e organização estruturada de equipes.</p>
+    <td width="33%" valign="top">
+      <h3 align="center">⚙️ Automação</h3>
+      <p>
+        Workflows para atualizar o README, verificar links, executar
+        lint e formatação e abrir issues quando uma execução falha.
+      </p>
+      <p align="center">
+        <a href="https://github.com/VictorMartinsD/VictorMartinsD/tree/main/.github/workflows">
+          <img src="https://img.shields.io/badge/GITHUB_ACTIONS-EXPLORAR-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="Explorar workflows do GitHub Actions" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
