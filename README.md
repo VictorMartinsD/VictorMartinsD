@@ -608,11 +608,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `build: configure tsup ESM format and update start script output path` · [`3ae7875`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/3ae787556849f9c3b7d09a5edff4e21ee533de12) · 07/11/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore(deps): bump @types/express to major version 5.0.6` · [`15cd16a`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/15cd16a37e44d58b582b0d171ae7bbc22ecb07d3) · 07/11/2026
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `build: replace tsc with tsup bundler and update build script` · [`a2bc8a6`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/a2bc8a6d16a0091a8e591ee597403cf2b539e8c8) · 06/11/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore(deps): update devDependencies and dependencies minor versions` · [`82c8061`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/82c80617fca72340bbc1e179005b2f9125ac4929) · 07/11/2026
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: generalize env example, add port validation via zod and integr…` · [`87f786a`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/87f786ade2920a3c6205246116dd75d06ade4899) · 06/11/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `fix(auth): type JWT expiration option` · [`35d927a`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/35d927ab7c956495b2cf36be9d1be5eb32a6a3ea) · 07/11/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: update portuguese badges and add english badges in study notes` · [`823763f`](https://github.com/VictorMartinsD/react-forms/commit/823763f716178664936662c1312e21c0624d940f) · 01/11/2026
 
