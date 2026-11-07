@@ -608,11 +608,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: add test script, ts-node dependency, adjust typescript target …` · [`87375f0`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/87375f0254643fce89c7d4a95d16b5a16a02452e) · 06/11/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `build: replace tsc with tsup bundler and update build script` · [`a2bc8a6`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/a2bc8a6d16a0091a8e591ee597403cf2b539e8c8) · 06/11/2026
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: configure Jest and update TypeScript options for automated tes…` · [`769490e`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/769490e04ed74d3422ba459524371aa2d45c45da) · 06/11/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: generalize env example, add port validation via zod and integr…` · [`87f786a`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/87f786ade2920a3c6205246116dd75d06ade4899) · 06/11/2026
 
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: install Jest, ts-jest and Supertest development dependencies` · [`73119ca`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/73119cab6fbe0db9284bde6aebb847459bbb3b42) · 06/11/2026
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: add Insomnia API collection configuration for shipment tracking` · [`a2364ab`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/a2364ab7ef5a75765c37d070c4e07db43479a850) · 06/11/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: update portuguese badges and add english badges in study notes` · [`823763f`](https://github.com/VictorMartinsD/react-forms/commit/823763f716178664936662c1312e21c0624d940f) · 01/11/2026
 
