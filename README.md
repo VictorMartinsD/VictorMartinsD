@@ -608,11 +608,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `build: configure tsup ESM format and update start script output path` · [`3ae7875`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/3ae787556849f9c3b7d09a5edff4e21ee533de12) · 07/11/2026
+
 **[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `build: replace tsc with tsup bundler and update build script` · [`a2bc8a6`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/a2bc8a6d16a0091a8e591ee597403cf2b539e8c8) · 06/11/2026
 
 **[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: generalize env example, add port validation via zod and integr…` · [`87f786a`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/87f786ade2920a3c6205246116dd75d06ade4899) · 06/11/2026
-
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: add Insomnia API collection configuration for shipment tracking` · [`a2364ab`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/a2364ab7ef5a75765c37d070c4e07db43479a850) · 06/11/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: update portuguese badges and add english badges in study notes` · [`823763f`](https://github.com/VictorMartinsD/react-forms/commit/823763f716178664936662c1312e21c0624d940f) · 01/11/2026
 
