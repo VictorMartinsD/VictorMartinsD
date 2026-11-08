@@ -608,6 +608,10 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: setup basic express server with typescript` · [`784db96`](https://github.com/VictorMartinsD/refund-api/commit/784db96b00f07f3813a15d956d57b8ef7e345aeb) · 08/11/2026
+
+**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `chore: initialize refund-api project shell and dependencies` · [`279f092`](https://github.com/VictorMartinsD/refund-api/commit/279f09238aa1a083d83991e7e6625c4334a65baa) · 08/11/2026
+
 **[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: add updated Insomnia collection with production environment an…` · [`5c7e8a8`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/5c7e8a877bcf001725366b5febd9f24c82a54cf9) · 07/11/2026
 
 **[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore(deps): bump @types/node to major version 26.6.6` · [`5291755`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/5291755383d6da1febe85f5a280b7f08831ff548) · 07/11/2026
@@ -615,10 +619,6 @@ const victor = {
 **[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore(deps): bump @types/express to major version 5.0.6` · [`15cd16a`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/15cd16a37e44d58b582b0d171ae7bbc22ecb07d3) · 07/11/2026
 
 **[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: update portuguese badges and add english badges in study notes` · [`823763f`](https://github.com/VictorMartinsD/react-forms/commit/823763f716178664936662c1312e21c0624d940f) · 01/11/2026
-
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: update license link to full github URL in readme badges` · [`893762b`](https://github.com/VictorMartinsD/react-forms/commit/893762b3fa093dfd3c8965dc43928e893bca58fb) · 01/11/2026
-
-**[react-forms](https://github.com/VictorMartinsD/react-forms)** · `docs: update readme badges and add badges to english section` · [`00f2537`](https://github.com/VictorMartinsD/react-forms/commit/00f2537e228033590c60cd8afe21b092c9b97bfe) · 01/11/2026
 
 <!--END_SECTION:recent-activity-->
 
