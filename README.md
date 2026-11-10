@@ -690,6 +690,11 @@ GPT                      150 lines           ███████████�
 <!--END_SECTION:waka-->
 <!-- prettier-ignore-end -->
 
+### 🌟 Estrelados Recentes
+
+<!-- START_SECTION:starred -->
+<!-- END_SECTION:starred -->
+
 </div>
 
 <table align="center">
