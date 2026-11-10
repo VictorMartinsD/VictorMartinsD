@@ -14,8 +14,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Token pessoal (clássico) com os escopos: public_repo, read:org,
-          # read:packages, read:project, read:user e repo:status
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Conta e aparência
@@ -23,13 +21,12 @@ jobs:
           template: terminal
           base: header
           base_hireable: yes
-          config_display: columns
+          base_indepth: no
           config_timezone: America/Sao_Paulo
           config_output: svg
+          config_animations: no
+          config_padding: 0, 8 + 0%
           committer_message: "chore(stats): update GitHub metrics"
 
-          # Ajuste de espaçamento
-          config_padding: 0, 8 + 0%
-          
           # Modo de diagnóstico
           debug: yes
