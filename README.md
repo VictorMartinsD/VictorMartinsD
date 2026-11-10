@@ -586,16 +586,11 @@ const victor = {
 
 <div align="center">
 
-## 📊 Estatísticas e Atividade
+## 📈 Estatísticas e Atividade
 
-### 💻 Visão Geral & Linguagens de Programação
+### 💻 Visão Geral
 
 <img alt="Métricas do GitHub de VictorMartinsD: atividade e linguagens mais usadas" src="./github-metrics.svg" width="800" />
-
-<p align="center">
-  <br>
-  <sub><b>Nota:</b> A seção de "Most used languages" é uma métrica baseada em meus repositórios públicos, servindo como panorama estatístico e não como limitador de proficiência técnica.</sub>
-</p>
 
 ### 📊 Atividade em 3D
 
