@@ -611,11 +611,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: setup refunds routes and controller shell` · [`a97ae90`](https://github.com/VictorMartinsD/refund-api/commit/a97ae905c3220d3d75195d2a125db24042de5db6) · 09/11/2026
+
 **[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: implement jwt generation and authentication response in session…` · [`b1386c1`](https://github.com/VictorMartinsD/refund-api/commit/b1386c156af0daafa582fb1725f6463c35494eb1) · 09/11/2026
 
 **[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: implement user authentication and password comparison in sessio…` · [`cdfde0d`](https://github.com/VictorMartinsD/refund-api/commit/cdfde0de193750f05f4e67215dd4d85c7fd7f2b1) · 09/11/2026
-
-**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: add zod validation to sessions controller` · [`52a0554`](https://github.com/VictorMartinsD/refund-api/commit/52a05540acf6ff28d397d7751280711796465dbc) · 09/11/2026
 
 **[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: add updated Insomnia collection with production environment an…` · [`5c7e8a8`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/5c7e8a877bcf001725366b5febd9f24c82a54cf9) · 07/11/2026
 
