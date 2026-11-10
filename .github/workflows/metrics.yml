@@ -20,7 +20,7 @@ jobs:
 
           # Conta e aparência
           user: VictorMartinsD
-          template: classic
+          template: terminal
           base: header
           base_hireable: yes
           config_display: columns
