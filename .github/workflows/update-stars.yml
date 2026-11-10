@@ -1,0 +1,88 @@
+name: Update Starred Repos
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roda uma vez por dia
+  workflow_dispatch: # Permite disparar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Fetch and format starred repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python -c '
+          import os
+          import urllib.request
+          import json
+          import re
+
+          token = os.environ.get("GITHUB_TOKEN")
+          # Pega o nome do repositório/usuário automaticamente
+          repo_owner = os.environ.get("GITHUB_REPOSITORY_OWNER")
+
+          url = f"https://api.github.com/users/{repo_owner}/starred?per_page=3"
+          req = urllib.request.Request(url, headers={
+              "Authorization": f"token {token}",
+              "Accept": "application/vnd.github.v3+json",
+              "User-Agent": "Python"
+          })
+
+          try:
+              with urllib.request.urlopen(req) as response:
+                  repos = json.loads(response.read().decode())
+              
+              lines = []
+              for r in repos:
+                  name = r["full_name"]
+                  html_url = r["html_url"]
+                  desc = r.get("description") or ""
+                  lang = r.get("language") or "Code"
+                  stars_count = r.get("stargazers_count", 0)
+                  
+                  if stars_count >= 1000:
+                      stars_formatted = f"{stars_count / 1000:.1f}k".replace(".0k", "k")
+                  else:
+                      stars_formatted = str(stars_count)
+                  
+                  desc_str = f" — {desc}" if desc else ""
+                  line = f"- [**{name}**]({html_url}){desc_str}  \n  `{lang}` • ⭐ {stars_formatted}"
+                  lines.append(line)
+              
+              content_to_insert = "\n".join(lines)
+              
+              with open("README.md", "r", encoding="utf-8") as f:
+                  readme = f.read()
+              
+              pattern = r"(<!-- START_SECTION:starred -->\n)(.*?)(<!-- END_SECTION:starred -->)"
+              replacement = r"\g<1>" + content_to_insert + r"\n\g<3>"
+              
+              updated_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+              
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(updated_readme)
+                  
+          except Exception as e:
+              print(f"Erro ao atualizar: {e}")
+              exit(1)
+          '
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update starred repos list" && git push)
