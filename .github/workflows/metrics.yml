@@ -23,7 +23,7 @@ jobs:
           template: classic
           base: header
           base_hireable: yes
-          config_display: regular
+          config_display: column
           config_timezone: America/Sao_Paulo
           config_output: svg
           committer_message: "chore(stats): update GitHub metrics"
