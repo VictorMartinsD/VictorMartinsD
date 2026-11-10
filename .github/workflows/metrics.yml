@@ -23,7 +23,7 @@ jobs:
           template: classic
           base: header
           base_hireable: yes
-          config_display: column
+          config_display: columns
           config_timezone: America/Sao_Paulo
           config_output: svg
           committer_message: "chore(stats): update GitHub metrics"
@@ -52,7 +52,3 @@ jobs:
           
           # Modo de diagnóstico
           debug: yes
-
-          # Commit das alterações
-          commit_user_name: github-actions[bot]
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
