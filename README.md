@@ -690,18 +690,33 @@ GPT                      150 lines           ███████████�
 <!--END_SECTION:waka-->
 <!-- prettier-ignore-end -->
 
-### 🌟 Estrelados Recentes
+<table align="center">
+  <tr>
+    <td align="left">
 
-<!-- START_SECTION:starred -->
-- [**codecrafters-io/build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) — Master programming by recreating your favorite technologies from scratch.  
-  `Markdown` • ⭐ 561.5k
-- [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) — Write HTML. Render video. Built for agents.  
-  `TypeScript` • ⭐ 82k
-- [**vercel/ai**](https://github.com/vercel/ai) — The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents   
-  `TypeScript` • ⭐ 27.9k
-<!-- END_SECTION:starred -->
+<div align="center">
+
+## 🌟 Estrelados Recentes
 
 </div>
+
+<!-- START_SECTION:starred -->
+<sub>• <a href="https://github.com/codecrafters-io/build-your-own-x"><b>codecrafters-io/build-your-own-x</b></a> — Master programming by recreating your favorite technologies from scratch.<br />&nbsp;&nbsp;<code>Markdown</code> • ⭐ 561.5k</sub><br />
+<sub>• <a href="https://github.com/heygen-com/hyperframes"><b>heygen-com/hyperframes</b></a> — Write HTML. Render video. Built for agents.<br />&nbsp;&nbsp;<code>TypeScript</code> • ⭐ 82k</sub><br />
+<sub>• <a href="https://github.com/vercel/ai"><b>vercel/ai</b></a> — The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents<br />&nbsp;&nbsp;<code>TypeScript</code> • ⭐ 27.9k</sub><br />
+<!-- END_SECTION:starred -->
+
+<hr />
+
+<div align="center">
+  <a href="https://github.com/VictorMartinsD?tab=stars" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Ver_todos_os_repositórios_estrelados-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios Estrelados" />
+  </a>
+</div>
+
+</td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
