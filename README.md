@@ -606,17 +606,17 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): implement initial react-router setup and sign-in auth r…` · [`9710a68`](https://github.com/VictorMartinsD/web/commit/9710a686be7ec99dbf6209e5d19ec1c47aed8278) · 11/11/2026
+
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): configure custom theme variables in tailwind CSS` · [`15b6202`](https://github.com/VictorMartinsD/web/commit/15b6202d61fc0f0b734c72283c569aabc305d3c8) · 11/11/2026
+
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): install and configure tailwind css` · [`e994bda`](https://github.com/VictorMartinsD/web/commit/e994bdaa6425e366718c25f5ae61b1e39edf8fda) · 11/11/2026
+
+**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `docs: update insomnia collection configuration with upload and pagina…` · [`a420a29`](https://github.com/VictorMartinsD/refund-api/commit/a420a291f12aa6dd969700a5db7f36e33d05a152) · 11/11/2026
+
 **[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: configure static file serving for uploads folder in app entry p…` · [`75a9492`](https://github.com/VictorMartinsD/refund-api/commit/75a94921a887f4d894496d53cb659ea819a1177e) · 10/11/2026
 
 **[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: implement disk storage provider and file upload persistence wit…` · [`b5c4bdb`](https://github.com/VictorMartinsD/refund-api/commit/b5c4bdbdc3002ae12ca558f6c30177fe4540709d) · 10/11/2026
-
-**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: implement file validation using zod and update upload configura…` · [`9a0177f`](https://github.com/VictorMartinsD/refund-api/commit/9a0177fd5926941256506a9e8c846469198c574d) · 10/11/2026
-
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: add updated Insomnia collection with production environment an…` · [`5c7e8a8`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/5c7e8a877bcf001725366b5febd9f24c82a54cf9) · 07/11/2026
-
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore(deps): bump @types/node to major version 26.6.6` · [`5291755`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/5291755383d6da1febe85f5a280b7f08831ff548) · 07/11/2026
-
-**[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore(deps): bump @types/express to major version 5.0.6` · [`15cd16a`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/15cd16a37e44d58b582b0d171ae7bbc22ecb07d3) · 07/11/2026
 
 <!--END_SECTION:recent-activity-->
 
