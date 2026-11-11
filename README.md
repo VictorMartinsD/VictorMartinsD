@@ -606,11 +606,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: configure static file serving for uploads folder in app entry p…` · [`75a9492`](https://github.com/VictorMartinsD/refund-api/commit/75a94921a887f4d894496d53cb659ea819a1177e) · 10/11/2026
+
+**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: implement disk storage provider and file upload persistence wit…` · [`b5c4bdb`](https://github.com/VictorMartinsD/refund-api/commit/b5c4bdbdc3002ae12ca558f6c30177fe4540709d) · 10/11/2026
+
 **[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: implement file validation using zod and update upload configura…` · [`9a0177f`](https://github.com/VictorMartinsD/refund-api/commit/9a0177fd5926941256506a9e8c846469198c574d) · 10/11/2026
-
-**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: update uploads controller to return uploaded file data and add …` · [`33eac26`](https://github.com/VictorMartinsD/refund-api/commit/33eac264e9e728657401e06a5343fe3bd266f101) · 10/11/2026
-
-**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: implement file upload routes, controller shell, and multer inte…` · [`de8a55f`](https://github.com/VictorMartinsD/refund-api/commit/de8a55f3409b258d7dd415d76a7fdbd6118a28b7) · 10/11/2026
 
 **[shipment-tracking-api](https://github.com/VictorMartinsD/shipment-tracking-api)** · `chore: add updated Insomnia collection with production environment an…` · [`5c7e8a8`](https://github.com/VictorMartinsD/shipment-tracking-api/commit/5c7e8a877bcf001725366b5febd9f24c82a54cf9) · 07/11/2026
 
