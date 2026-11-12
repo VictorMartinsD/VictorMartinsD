@@ -606,11 +606,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): create reusable input component and implement sign-in f…` · [`24cce8d`](https://github.com/VictorMartinsD/web/commit/24cce8d572e8193251a03ffbc34f204b7c7c7d5d) · 11/11/2026
+
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): implement auth layout component and wrap sign-in route …` · [`0478493`](https://github.com/VictorMartinsD/web/commit/04784931cb7c879a8cc10cdb4e1211f69f598786) · 11/11/2026
+
 **[web](https://github.com/VictorMartinsD/web)** · `feat(refund): implement initial react-router setup and sign-in auth r…` · [`9710a68`](https://github.com/VictorMartinsD/web/commit/9710a686be7ec99dbf6209e5d19ec1c47aed8278) · 11/11/2026
-
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): configure custom theme variables in tailwind CSS` · [`15b6202`](https://github.com/VictorMartinsD/web/commit/15b6202d61fc0f0b734c72283c569aabc305d3c8) · 11/11/2026
-
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): install and configure tailwind css` · [`e994bda`](https://github.com/VictorMartinsD/web/commit/e994bdaa6425e366718c25f5ae61b1e39edf8fda) · 11/11/2026
 
 **[refund-api](https://github.com/VictorMartinsD/refund-api)** · `docs: update insomnia collection configuration with upload and pagina…` · [`a420a29`](https://github.com/VictorMartinsD/refund-api/commit/a420a291f12aa6dd969700a5db7f36e33d05a152) · 11/11/2026
 
