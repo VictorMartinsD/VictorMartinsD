@@ -606,11 +606,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): implement refund request form structure and initial inp…` · [`5ee7f4d`](https://github.com/VictorMartinsD/web/commit/5ee7f4d1171b6a8edb326033dae5c1d6c7ae4ed1) · 13/11/2026
+
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): create header component and integrate into app layout` · [`aad9a23`](https://github.com/VictorMartinsD/web/commit/aad9a23fdcd790e03a74e025d314fe3e53235625) · 13/11/2026
+
 **[web](https://github.com/VictorMartinsD/web)** · `feat(refund): create app layout component and wrap employee routes wi…` · [`1754141`](https://github.com/VictorMartinsD/web/commit/1754141e7689202e4f1bbe4087c962b806ee7b98) · 12/11/2026
-
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): create refund page and employee routes configuration` · [`ce24d7a`](https://github.com/VictorMartinsD/web/commit/ce24d7ae56d20ec63cece5c631d8ed9044a6297b) · 12/11/2026
-
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): create not found page with receipt-themed layout` · [`b27694f`](https://github.com/VictorMartinsD/web/commit/b27694f90e779a5d1b9dc449887283434e6fbaa4) · 12/11/2026
 
 **[refund-api](https://github.com/VictorMartinsD/refund-api)** · `docs: update insomnia collection configuration with upload and pagina…` · [`a420a29`](https://github.com/VictorMartinsD/refund-api/commit/a420a291f12aa6dd969700a5db7f36e33d05a152) · 11/11/2026
 
