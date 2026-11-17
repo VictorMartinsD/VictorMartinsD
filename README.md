@@ -685,12 +685,14 @@ No AI Coding Activity Tracked This Week
 </div>
 
 <!-- START_SECTION:starred -->
+
 - [**codecrafters-io/build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) — Master programming by recreating your favorite technologies from scratch.  
   `Markdown` • ⭐ 563.2k
 - [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) — Write HTML. Render video. Built for agents.  
   `TypeScript` • ⭐ 85.4k
-- [**vercel/ai**](https://github.com/vercel/ai) — The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents   
+- [**vercel/ai**](https://github.com/vercel/ai) — The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents  
   `TypeScript` • ⭐ 28k
+
 <!-- END_SECTION:starred -->
 
 <hr />
