@@ -606,11 +606,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): implement complete refund form state, dynamic file uplo…` · [`d7f6b10`](https://github.com/VictorMartinsD/web/commit/d7f6b100de878d90b4d3a95b5a6767d521d83f87) · 17/11/2026
+**[web](https://github.com/VictorMartinsD/web)** · `style(refund): customize global scrollbar and add scrollable containe…` · [`31efb90`](https://github.com/VictorMartinsD/web/commit/31efb902e1f36e591dfbe124da974c04135012bb) · 18/11/2026
 
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): create reusable file upload component for receipt attac…` · [`2bb2481`](https://github.com/VictorMartinsD/web/commit/2bb248139fd8908aea46ff108ccc66594c7b5dfa) · 16/11/2026
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): create RefundItem component and render example item in …` · [`a37a1d8`](https://github.com/VictorMartinsD/web/commit/a37a1d890e900b8400b1065dbfb6520e1be285e4) · 18/11/2026
 
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): add amount input field and align with category select i…` · [`55ca75a`](https://github.com/VictorMartinsD/web/commit/55ca75ae81d2bc5ed07257bc6393f60b3081624d) · 16/11/2026
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): add classMerge utility, support button variants, and ad…` · [`6444599`](https://github.com/VictorMartinsD/web/commit/64445990e04bc5cc55b445709fecd52f5bccdf7b) · 18/11/2026
 
 **[refund-api](https://github.com/VictorMartinsD/refund-api)** · `docs: update insomnia collection configuration with upload and pagina…` · [`a420a29`](https://github.com/VictorMartinsD/refund-api/commit/a420a291f12aa6dd969700a5db7f36e33d05a152) · 11/11/2026
 
