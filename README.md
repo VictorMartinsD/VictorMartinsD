@@ -3,7 +3,7 @@
 <!-- Header Animado -->
 <div align="center">
 
-<img width="1000px" src="https://capsule-render.vercel.app/api?type=waving&color=0:001233,25:002855,50:0056b3,75:002855,100:001233&height=200&section=header&text=Victor%20Martins%20Dias&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web&descAlignY=55&descSize=18"/>
+<img width="1000px" src="https://capsule-render.vercel.app/api?type=waving&color=0:001233,25:002855,50:0056b3,75:002855,100:001233&height=200&section=header&text=Victor%20Martins&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web&descAlignY=55&descSize=18"/>
 
 </div>
 
@@ -79,7 +79,7 @@
 
 ```javascript
 const victor = {
-  nome: "Victor Martins Dias",
+  nome: "Victor Martins",
   foco_atuação: "Desenvolvimento Web Frontend | Produto Digital",
 
   objetivo_profissional: `Criar e evoluir soluções web alinhadas às necessidades de 
@@ -275,25 +275,25 @@ const victor = {
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top" width="220">
-      <a href="https://app.rocketseat.com.br/certificates/52a1eaf1-44d1-4e24-8f85-9aa8c68cff43" target="_blank">
+      <a href="https://app.rocketseat.com.br/certificates/52a1eaf1-44d1-4e24-8f85-9aa8c68cff43" >
         <img src="https://github.com/user-attachments/assets/6ecc0475-f531-4a01-9b78-aaa367b2c901" width="200" alt="Javascript Rocketseat"/><br>
         <sub><b>JavaScript</b><br>Rocketseat</sub>
       </a>
     </td>
     <td align="center" valign="top" width="220">
-      <a href="https://consultadiploma.estacio.br/diploma/163.163.1921d345a70e" target="_blank">
+      <a href="https://consultadiploma.estacio.br/diploma/163.163.1921d345a70e" >
         <img src="https://github.com/user-attachments/assets/af6ab0ff-dc2d-40f0-87df-e58450fc897d" width="200" alt="Bacharel SI"/><br>
         <sub><b>Bacharel em Sistemas de Informação</b><br>Estácio</sub>
       </a>
     </td>
     <td align="center" valign="top" width="220">
-      <a href="https://app.rocketseat.com.br/certificates/4100a3ab-fa10-4b5d-b74d-0d7a7048d5f8" target="_blank">
+      <a href="https://app.rocketseat.com.br/certificates/4100a3ab-fa10-4b5d-b74d-0d7a7048d5f8" >
         <img src="https://github.com/user-attachments/assets/756a2ca9-e551-4e41-b02d-46defa11a27b" width="200" alt="HTML/CSS Rocketseat"/><br>
         <sub><b>HTML e CSS</b><br>Rocketseat</sub>
       </a>
     </td>
     <td align="center" valign="top" width="220">
-      <a href="https://app.rocketseat.com.br/certificates/241baee8-a9ea-4de8-930e-b0bac3ac25a3" target="_blank">
+      <a href="https://app.rocketseat.com.br/certificates/241baee8-a9ea-4de8-930e-b0bac3ac25a3" >
         <img src="https://github.com/user-attachments/assets/3df2d9c7-a34f-4164-831b-35b5b2e44f00" width="200" alt="Inglês Rocketseat"/><br>
         <sub><b>Inglês para Devs</b><br>Rocketseat</sub>
       </a>
@@ -308,25 +308,25 @@ const victor = {
   <table align="center" border="0">
     <tr>
       <td align="center" valign="top" width="220">
-        <a href="https://cert.efset.org/en/Qv7k7Y" target="_blank">
+        <a href="https://cert.efset.org/en/Qv7k7Y" >
           <img src="https://github.com/user-attachments/assets/d252725e-1570-4a20-b9d8-6e2912868896" width="200" alt="EF SET B1"/><br>
           <sub><b>EF SET English</b><br>B1 Intermediate</sub>
         </a>
       </td>
       <td align="center" valign="top" width="220">
-        <a href="https://app.rocketseat.com.br/certificates/faf321bf-b930-4fb8-b876-98361bd1a4fa" target="_blank">
+        <a href="https://app.rocketseat.com.br/certificates/faf321bf-b930-4fb8-b876-98361bd1a4fa" >
           <img src="https://github.com/user-attachments/assets/226aaa5d-3a17-4fb0-98eb-9c951742d58d" width="200" alt="Engenharia de Prompt"/><br>
           <sub><b>Engenharia de Prompt</b><br>Rocketseat</sub>
         </a>
       </td>
       <td align="center" valign="top" width="220">
-        <a href="https://app.rocketseat.com.br/certificates/f868f4fd-6055-4e7f-b103-f195f8216f60" target="_blank">
+        <a href="https://app.rocketseat.com.br/certificates/f868f4fd-6055-4e7f-b103-f195f8216f60" >
           <img src="https://github.com/user-attachments/assets/4dc7e838-d8cf-4fc1-a326-a033e9c0e71e" width="200" alt="Mentoria de Carreira: Processos Seletivos na Rocketseat"/><br>
           <sub><b>Mentoria de Carreira</b><br>Rocketseat</sub>
         </a>
       </td>
       <td align="center" valign="top" width="220">
-        <a href="https://www.linkedin.com/in/victormartinsd/overlay/Position/1312780318/treasury/?profileId=ACoAACUx_T0BZVBdW3GUllnwWrTOAiyfSyKC6Us" target="_blank">
+        <a href="https://www.linkedin.com/in/victormartinsd/overlay/Position/1312780318/treasury/?profileId=ACoAACUx_T0BZVBdW3GUllnwWrTOAiyfSyKC6Us" >
           <img src="https://github.com/user-attachments/assets/1b6acacb-dcb4-42e4-b46f-08c42b76dae7" width="200" alt="Estágio de Nível Superior no INSS"/><br>
           <sub><b>Estágio de Nível Superior</b><br>Instituto Nacional do Seguro Social (INSS)</sub>
         </a>
@@ -338,7 +338,7 @@ const victor = {
 
 <div align="center">
   <br>
-  <a href="https://www.linkedin.com/in/victormartinsd/details/certifications/" target="_blank">
+  <a href="https://www.linkedin.com/in/victormartinsd/details/certifications/" >
     <img src="https://img.shields.io/badge/Ver_todas_as_certifica%C3%A7%C3%B5es_no_LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yem0tLjUgMTUuNXYtNS4zYTMuMjYgMy4yNiAwIDAgMC0zLjI2LTMuMjZjLS44NSAwLTEuODQuNTItMi4zMiAxLjN2LTEuMTFoLTIuNzl2OC4zN2gyLjc5di00LjkzYzAtLjc3LjYyLTEuNCAxLjM5LTEuNGExLjQgMS40IDAgMCAxIDEuNCAxLjR2NC45M3pNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Ver todas as certificações no LinkedIn" />
   </a>
 </div>
@@ -696,7 +696,7 @@ No AI Coding Activity Tracked This Week
 <hr />
 
 <div align="center">
-  <a href="https://github.com/VictorMartinsD?tab=stars" target="_blank">
+  <a href="https://github.com/VictorMartinsD?tab=stars" >
     <img src="https://img.shields.io/badge/GitHub-Ver_todos_os_repositórios_estrelados-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios Estrelados" />
   </a>
 </div>
@@ -748,7 +748,7 @@ No AI Coding Activity Tracked This Week
 
 <div align="center">
   <sub>Quer ver todas as minhas resenhas, metas de leitura e histórico completo?</sub><br /><br />
-  <a href="https://www.goodreads.com/user/show/205640656-victor-dias" target="_blank">
+  <a href="https://www.goodreads.com/user/show/205640656-victor-martins" >
     <img src="https://img.shields.io/badge/Goodreads-Ver_perfil_completo-371B0B?style=for-the-badge&logo=goodreads&logoColor=white" alt="Perfil do Goodreads" />
   </a>
 </div>
