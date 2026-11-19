@@ -606,11 +606,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): create pagination component, adjust iconSmall button si…` · [`c95b882`](https://github.com/VictorMartinsD/web/commit/c95b882b07072db680afe2a7c2860b01656b61d0) · 18/11/2026
+
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): create formatCurrency utility and apply formatting to d…` · [`733042f`](https://github.com/VictorMartinsD/web/commit/733042fbb7f5f252a6c35798fd386815a9bfbbdd) · 18/11/2026
+
 **[web](https://github.com/VictorMartinsD/web)** · `style(refund): customize global scrollbar and add scrollable containe…` · [`31efb90`](https://github.com/VictorMartinsD/web/commit/31efb902e1f36e591dfbe124da974c04135012bb) · 18/11/2026
-
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): create RefundItem component and render example item in …` · [`a37a1d8`](https://github.com/VictorMartinsD/web/commit/a37a1d890e900b8400b1065dbfb6520e1be285e4) · 18/11/2026
-
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): add classMerge utility, support button variants, and ad…` · [`6444599`](https://github.com/VictorMartinsD/web/commit/64445990e04bc5cc55b445709fecd52f5bccdf7b) · 18/11/2026
 
 **[refund-api](https://github.com/VictorMartinsD/refund-api)** · `docs: update insomnia collection configuration with upload and pagina…` · [`a420a29`](https://github.com/VictorMartinsD/refund-api/commit/a420a291f12aa6dd969700a5db7f36e33d05a152) · 11/11/2026
 
