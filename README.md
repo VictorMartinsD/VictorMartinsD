@@ -606,11 +606,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
-**[web](https://github.com/VictorMartinsD/web)** · `style(refund): improve mobile responsiveness and container width in A…` · [`b5ab6db`](https://github.com/VictorMartinsD/web/commit/b5ab6dbb1cc9ade30266beb2abd11f7faa3cb1cd) · 19/11/2026
+**[web](https://github.com/VictorMartinsD/web)** · `Merge branch 'main' of https://github.com/VictorMartinsD/web` · [`00dc7b0`](https://github.com/VictorMartinsD/web/commit/00dc7b073a7f5d2b5a103679d4938df12f2a9b93) · 20/11/2026
 
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): render receipt view link conditionally in read-only mode` · [`3827f7a`](https://github.com/VictorMartinsD/web/commit/3827f7a31aed0661979070fea84056aad3332f38) · 19/11/2026
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): implement role-based conditional routing in main Routes…` · [`83908e2`](https://github.com/VictorMartinsD/web/commit/83908e2cdc3dd107d242474bf1f4a2dfd94f5a3b) · 20/11/2026
 
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): add refund details route and read-only view mode from d…` · [`1d9d92f`](https://github.com/VictorMartinsD/web/commit/1d9d92f1c4e34c47ab237c52a6b40045bb383403) · 19/11/2026
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): implement role-based conditional routing in main Routes…` · [`9848b8c`](https://github.com/VictorMartinsD/web/commit/9848b8cf02fb054b62addbb96519375d7093f5cf) · 20/11/2026
 
 **[refund-api](https://github.com/VictorMartinsD/refund-api)** · `docs: update insomnia collection configuration with upload and pagina…` · [`a420a29`](https://github.com/VictorMartinsD/refund-api/commit/a420a291f12aa6dd969700a5db7f36e33d05a152) · 11/11/2026
 
