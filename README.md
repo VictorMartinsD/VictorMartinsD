@@ -606,11 +606,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[web](https://github.com/VictorMartinsD/web)** · `style(refund): improve mobile responsiveness and container width in A…` · [`b5ab6db`](https://github.com/VictorMartinsD/web/commit/b5ab6dbb1cc9ade30266beb2abd11f7faa3cb1cd) · 19/11/2026
+
+**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): render receipt view link conditionally in read-only mode` · [`3827f7a`](https://github.com/VictorMartinsD/web/commit/3827f7a31aed0661979070fea84056aad3332f38) · 19/11/2026
+
 **[web](https://github.com/VictorMartinsD/web)** · `feat(refund): add refund details route and read-only view mode from d…` · [`1d9d92f`](https://github.com/VictorMartinsD/web/commit/1d9d92f1c4e34c47ab237c52a6b40045bb383403) · 19/11/2026
-
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): implement pagination controls, page state management, a…` · [`50639fc`](https://github.com/VictorMartinsD/web/commit/50639fc3a70b5899d28746398e7faa8504bd4f4f) · 19/11/2026
-
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): create pagination component, adjust iconSmall button si…` · [`c95b882`](https://github.com/VictorMartinsD/web/commit/c95b882b07072db680afe2a7c2860b01656b61d0) · 18/11/2026
 
 **[refund-api](https://github.com/VictorMartinsD/refund-api)** · `docs: update insomnia collection configuration with upload and pagina…` · [`a420a29`](https://github.com/VictorMartinsD/refund-api/commit/a420a291f12aa6dd969700a5db7f36e33d05a152) · 11/11/2026
 
