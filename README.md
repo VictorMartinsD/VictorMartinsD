@@ -701,14 +701,12 @@ GPT                      0 lines             ░░░░░░░░░░░�
 </div>
 
 <!-- START_SECTION:starred -->
-
 - [**codecrafters-io/build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) — Master programming by recreating your favorite technologies from scratch.  
-  `Markdown` • ⭐ 564.2k
+  `Markdown` • ⭐ 564.5k
 - [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) — AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.  
-  `TypeScript` • ⭐ 87.6k
-- [**vercel/ai**](https://github.com/vercel/ai) — The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents  
+  `TypeScript` • ⭐ 87.9k
+- [**vercel/ai**](https://github.com/vercel/ai) — The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents   
   `TypeScript` • ⭐ 28.1k
-
 <!-- END_SECTION:starred -->
 
 <hr />
