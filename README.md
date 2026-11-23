@@ -638,55 +638,56 @@ const victor = {
 
 <!-- prettier-ignore-start -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%202%20mins-blue?style=flat)
 
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  394 commits         █████████░░░░░░░░░░░░░░░░   35.43 % 
-🌆 Tarde                  398 commits         █████████░░░░░░░░░░░░░░░░   35.79 % 
-🌃 Noite                  306 commits         ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-🌙 Madrugada              14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+🌞 Manhã                  399 commits         █████████░░░░░░░░░░░░░░░░   35.56 % 
+🌆 Tarde                  401 commits         █████████░░░░░░░░░░░░░░░░   35.74 % 
+🌃 Noite                  308 commits         ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+🌙 Madrugada              14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 📅 **Sou mais produtivo em Terça-Feira** 
 
 ```text
-Segunda-Feira            134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Terça-Feira              214 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Quarta-Feira             163 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Quinta-Feira             163 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Sexta-Feira              199 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Sábado                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Domingo                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Segunda-Feira            136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Terça-Feira              214 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Quarta-Feira             163 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Quinta-Feira             163 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Sexta-Feira              199 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Sábado                   129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Domingo                  118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (7.44%)
+⏱ AI Coding Time: 1 hr 58 mins (22.25%)
 
-✍️ 0 lines written by AI, 560 lines written by hand (0.0% AI-written)
+✍️ 866 lines written by AI, 504 lines written by hand (63.21% AI-written)
 
-🔤 46,613 Input Tokens, 53,013 Output Tokens
+🔤 405,642 Input Tokens, 76,979 Output Tokens
 
-💵 $0.07 Estimated AI Cost This Week
+💵 $6.44 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
+🧠 11 AI Sessions, 16 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Code                     769 lines           ██████████████████████░░░   87.89 % 
+GPT                      106 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 153 characters per prompt
+⚖️ Balanced with AI — 63.21% of written lines came from AI
+📄 Detailed Prompter — average 1,046 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 43.14% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/11/2026 13:51:08 UTC
+ Last Updated on 23/11/2026 16:56:59 UTC
 <!--END_SECTION:waka-->
 <!-- prettier-ignore-end -->
 
