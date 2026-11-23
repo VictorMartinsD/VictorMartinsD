@@ -87,8 +87,7 @@ const victor = {
   à produtividade e automação`,
 
   global_skills: {
-    idioma:
-      "Inglês (B1 - Intermediário geral: leitura, escrita, fala e escuta)",
+    idioma: "Inglês (B1 - Intermediário geral: leitura, escrita, fala e escuta)",
     competencias: [
       "React e componentização de interfaces",
       "JavaScript ES6+ e TypeScript",
@@ -399,19 +398,21 @@ const victor = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔌 Product Catalog API</h3>
-      <p><i>API REST para validação de produtos com Node.js e TypeScript</i></p>
+      <h3>🍽️ Api Restaurant</h3>
+      <p><i>API REST para mesas, sessões e pedidos de restaurante</i></p>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+      <img src="https://img.shields.io/badge/Knex-E58C00?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOS4xNCAxMi45NGE3LjUgNy41IDAgMCAwIDAtMS44OGwyLjAzLTEuNTgtMi0zLjQ2LTIuMzkuOTZhNy4zIDcuMyAwIDAgMC0xLjYzLS45NEwxNC43OSAzaC00bC0uMzYgMy4wNGE3LjMgNy4zIDAgMCAwLTEuNjMuOTRsLTIuMzktLjk2LTIgMy40NiAyLjAzIDEuNThhNy41IDcuNSAwIDAgMCAwIDEuODhsLTIuMDMgMS41OCAyIDMuNDYgMi4zOS0uOTZjLjUuNCAxLjA0LjcxIDEuNjMuOTRMMTAuNzkgMjJoNGwuMzYtMy4wNGMuNTktLjIzIDEuMTMtLjU0IDEuNjMtLjk0bDIuMzkuOTYgMi0zLjQ2ek0xMi43OSAxNS41YTMuNSAzLjUgMCAxIDEgMC03IDMuNSAzLjUgMCAwIDEgMCA3Ii8+PC9zdmc+&logoColor=white" alt="Knex">
       <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yLjU4NCAzLjU4MmEyLjI1IDIuMjUgMCAwIDEgMi4xMTItMS40NzloMTQuNjE3Yy45NDggMCAxLjc5NC41OTUgMi4xMTUgMS40ODdsMi40NCA2Ljc3N2EyLjI1IDIuMjUgMCAwIDEtLjYyNCAyLjQ0M2wtOS42MSA4LjUyYTIuMjUgMi4yNSAwIDAgMS0yLjk2My4wMThMLjc3NiAxMi43NzNhMi4yNSAyLjI1IDAgMCAxLS42NC0yLjQ2N1ptMTIuMDM4IDQuODg3LTkuMTEgNS41MzcgNS43NCA1LjAwN2ExLjIwNiAxLjIwNiAwIDAgMCAxLjU5My0uMDA2bDUuNjQzLTUuMDAxSDE0LjRsNi4yMzktMy45NTdjLjQ4OC0uMzI4LjY5LS45NDcuNDkxLTEuNWwtMS4yNC0zLjQ0NmExLjUzNSAxLjUzNSAwIDAgMC0xLjQ1Ni0xLjAxNUg1LjU0NWExLjUzNSAxLjUzNSAwIDAgMC0xLjQzMSAxLjAxbC0xLjIyOCAzLjM3eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Zod">
       <ul>
-        <li>API REST modular com <code>Node.js</code>, <code>TypeScript</code> e <code>Express</code>.</li>
-        <li>Validação de produtos com <code>Zod</code> e regras de entrada tipadas.</li>
-        <li>Rotas, middleware e tratamento centralizado de erros HTTP.</li>
+        <li>Controle de mesas, sessões abertas e lançamentos de pedidos em <code>REST</code>.</li>
+        <li>Preços históricos garantem totais consistentes após alterações no catálogo.</li>
+        <li>Validação com <code>Zod</code>, dados <code>SQLite/Knex</code> e erros centralizados.</li>
       </ul>
       <br>
-      <a href="https://github.com/VictorMartinsD/product-catalog-api"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>
+      <a href="https://github.com/VictorMartinsD/api-restaurant"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Quicklist App</h3>
@@ -433,60 +434,62 @@ const victor = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎫 Support Tickets</h3>
-      <p><i>API de tickets de suporte com Node.js nativo</i></p>
+      <h3>🔌 Product Catalog API</h3>
+      <p><i>API REST para validação de produtos com Node.js e TypeScript</i></p>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yLjU4NCAzLjU4MmEyLjI1IDIuMjUgMCAwIDEgMi4xMTItMS40NzloMTQuNjE3Yy45NDggMCAxLjc5NC41OTUgMi4xMTUgMS40ODdsMi40NCA2Ljc3N2EyLjI1IDIuMjUgMCAwIDEtLjYyNCAyLjQ0M2wtOS42MSA4LjUyYTIuMjUgMi4yNSAwIDAgMS0yLjk2My4wMThMLjc3NiAxMi43NzNhMi4yNSAyLjI1IDAgMCAxLS42NC0yLjQ2N1ptMTIuMDM4IDQuODg3LTkuMTEgNS41MzcgNS43NCA1LjAwN2ExLjIwNiAxLjIwNiAwIDAgMCAxLjU5My0uMDA2bDUuNjQzLTUuMDAxSDE0LjRsNi4yMzktMy45NTdjLjQ4OC0uMzI4LjY5LS45NDcuNDkxLTEuNWwtMS4yNC0zLjQ0NmExLjUzNSAxLjUzNSAwIDAgMC0xLjQ1Ni0xLjAxNUg1LjU0NWExLjUzNSAxLjUzNSAwIDAgMC0xLjQzMSAxLjAxbC0xLjIyOCAzLjM3eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Zod">
       <ul>
-        <li>API HTTP modular com <code>Node.js</code> nativo e rotas dinâmicas.</li>
-        <li>CRUD de tickets com estados <code>open</code>/<code>closed</code>.</li>
-        <li>Persistência JSON com controllers, middlewares e utilitários separados.</li>
+        <li>API REST modular com <code>Node.js</code>, <code>TypeScript</code> e <code>Express</code>.</li>
+        <li>Validação de produtos com <code>Zod</code> e regras de entrada tipadas.</li>
+        <li>Rotas, middleware e tratamento centralizado de erros HTTP.</li>
       </ul>
       <br>
-      <a href="https://github.com/VictorMartinsD/support-tickets"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>
+      <a href="https://github.com/VictorMartinsD/product-catalog-api"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧾 Refund Dashboard</h3>
-      <p><i>Controle local de despesas corporativas e totalizadores de reembolso</i></p>
+      <h3>💱 Convert Money</h3>
+      <p><i>Conversor de Moedas em Tempo Real</i></p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTU1IDI0bC04LjU0Mi0yLjQzN0wxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4%3D&logoColor=white" alt="CSS3">
       <img src="https://img.shields.io/badge/LocalStorage-455A64?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAzQzcuNTggMyA0IDQuNzkgNCA3czMuNTggNCA4IDQgOC0xLjc5IDgtNC0zLjU4LTQtOC00TTQgOXYzYzAgMi4yMSAzLjU4IDQgOCA0czgtMS43OSA4LTRWOWMwIDIuMjEtMy41OCA0LTggNHMtOC0xLjc5LTgtNG0wIDV2M2MwIDIuMjEgMy41OCA0IDggNHM4LTEuNzkgOC00di0zYzAgMi4yMS0zLjU4IDQtOCA0cy04LTEuNzktOC00Ii8%2BPC9zdmc%2B&logoColor=white" alt="LocalStorage">
+      <img src="https://img.shields.io/badge/ExchangeRate_API-1A73E8?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Im0yMSA5LTQtNHYzaC03djJoN3YzTTcgMTFsLTQgNCA0IDR2LTNoN3YtMkg3eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="ExchangeRate API">
       <ul>
-        <li>Registro de despesas com validação e formatação de moeda em <code>BRL</code>.</li>
-        <li>Persistência local em <code>localStorage</code> e UI sem backend.</li>
-        <li>Alternância de tema com preferência do usuário e recuperação automática.</li>
+        <li>Testes unitários com <code>Vitest</code> para normalização, parsing e precisão.</li>
+        <li>Arquitetura resiliente com <code>ExchangeRate API</code> e fallback offline.</li>
+        <li>Pipeline de qualidade integrado: <code>Vite, ESLint, Prettier, Husky</code> e <code>GitHub Actions</code>.</li>
       </ul>
       <br>
-      <a href="https://github.com/VictorMartinsD/refund-dashboard"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://victormartinsd.github.io/refund-dashboard/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
+      <a href="https://github.com/VictorMartinsD/convert-money"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://victormartinsd.github.io/convert-money/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><b>📂 Clique para expandir outros projetos relevantes</b></summary>
+  <summary><b>🎨 Outros projetos Frontend</b></summary>
   <br>
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3>💱 Convert Money</h3>
-        <p><i>Conversor de Moedas em Tempo Real</i></p>
+        <h3>🧾 Refund Dashboard</h3>
+        <p><i>Controle local de despesas corporativas e totalizadores de reembolso</i></p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTU1IDI0bC04LjU0Mi0yLjQzN0wxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4%3D&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/LocalStorage-455A64?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAzQzcuNTggMyA0IDQuNzkgNCA3czMuNTggNCA4IDQgOC0xLjc5IDgtNC0zLjU4LTQtOC00TTQgOXYzYzAgMi4yMSAzLjU4IDQgOCA0czgtMS43OSA4LTRWOWMwIDIuMjEtMy41OCA0LTggNHMtOC0xLjc5LTgtNG0wIDV2M2MwIDIuMjEgMy41OCA0IDggNHM4LTEuNzkgOC00di0zYzAgMi4yMS0zLjU4IDQtOCA0cy04LTEuNzktOC00Ii8%2BPC9zdmc%2B&logoColor=white" alt="LocalStorage">
-        <img src="https://img.shields.io/badge/ExchangeRate_API-1A73E8?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Im0yMSA5LTQtNHYzaC03djJoN3YzTTcgMTFsLTQgNCA0IDR2LTNoN3YtMkg3eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="ExchangeRate API">
         <ul>
-          <li>Testes unitários com <code>Vitest</code> para normalização, parsing e precisão.</li>
-          <li>Arquitetura resiliente com <code>ExchangeRate API</code> e fallback offline.</li>
-          <li>Pipeline de qualidade integrado: <code>Vite, ESLint, Prettier, Husky</code> e <code>GitHub Actions</code>.</li>
+          <li>Registro de despesas com validação e formatação de moeda em <code>BRL</code>.</li>
+          <li>Persistência local em <code>localStorage</code> e UI sem backend.</li>
+          <li>Alternância de tema com preferência do usuário e recuperação automática.</li>
         </ul>
         <br>
-        <a href="https://github.com/VictorMartinsD/convert-money"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
-        <a href="https://victormartinsd.github.io/convert-money/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
+        <a href="https://github.com/VictorMartinsD/refund-dashboard"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://victormartinsd.github.io/refund-dashboard/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
       </td>
       <td width="50%" valign="top">
         <h3>✂ Hair Day</h3>
@@ -571,6 +574,28 @@ const victor = {
         <br>
         <a href="https://github.com/VictorMartinsD/catalogo-geek"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://victormartinsd.github.io/catalogo-geek/"><img src="https://img.shields.io/badge/Acessar%20Deploy-GitHub%20Pages-2088FF?style=flat-square&logo=rocket&logoColor=white&labelColor=22272E" alt="Acessar Deploy"></a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>⚙️ Outros projetos Backend</b></summary>
+  <br>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🎫 Support Tickets</h3>
+        <p><i>API de tickets de suporte com Node.js nativo</i></p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <ul>
+          <li>API HTTP modular com <code>Node.js</code> nativo e rotas dinâmicas.</li>
+          <li>CRUD de tickets com estados <code>open</code>/<code>closed</code>.</li>
+          <li>Persistência JSON com controllers, middlewares e utilitários separados.</li>
+        </ul>
+        <br>
+        <a href="https://github.com/VictorMartinsD/support-tickets"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-GitHub-181717?style=flat-square&logo=github" alt="Ver Repositório"></a>
       </td>
     </tr>
   </table>
@@ -739,6 +764,7 @@ GPT                      106 lines           ███░░░░░░░░�
 <!-- GOODREADS-CURRENTLY-READING:START -->
 
 <sub>• <a href="https://www.goodreads.com/review/show/9028520431?utm_medium=api&utm_source=rss"><b>O Código da Inteligência</b></a> - <i>Augusto Cury</i></sub><br />
+
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 <hr />
@@ -750,6 +776,7 @@ GPT                      106 lines           ███░░░░░░░░�
 <sub>• <a href="https://www.goodreads.com/review/show/9027475458?utm_medium=api&utm_source=rss"><b>Scrum: The Art of Doing Twice the Work in Half the Time</b></a> - <i>Jeff Sutherland</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.11</sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027474371?utm_medium=api&utm_source=rss"><b>Como Fazer Amigos e Influenciar Pessoas</b></a> - <i>Dale Carnegie</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.14</sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9027473048?utm_medium=api&utm_source=rss"><b>Resumo Estendido De As Armas Da Persuasão (Influence: The Psychology Of Persuasion) – Baseado No Livro De Robert B. Cialdini</b></a> - <i>Mentors Library</i><br />&nbsp;&nbsp;Minha nota: ⭐⭐⭐⭐ &nbsp;|&nbsp; Média: ⭐️ 4.17</sub><br />
+
 <!-- GOODREADS-READ:END -->
 
 <hr />
@@ -761,6 +788,7 @@ GPT                      106 lines           ███░░░░░░░░�
 <sub>• <a href="https://www.goodreads.com/review/show/9032649940?utm_medium=api&utm_source=rss"><b>Inspira-te (Portuguese Edition)</b></a> - <i>Marty Cagan</i></sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9032643405?utm_medium=api&utm_source=rss"><b>The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you</b></a> - <i>Rob Fitzpatrick</i></sub><br />
 <sub>• <a href="https://www.goodreads.com/review/show/9032642197?utm_medium=api&utm_source=rss"><b>Escaping the Build Trap: How Effective Product Management Creates Real Value</b></a> - <i>Melissa Perri</i></sub><br />
+
 <!-- GOODREADS-TO-READ:END -->
 
 <hr />
