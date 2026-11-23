@@ -606,17 +606,17 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `docs: add bilingual technical study notes` · [`acd7220`](https://github.com/VictorMartinsD/api-restaurant/commit/acd7220dc9b2f2dc50469e8da694dcf0bd5957de) · 22/11/2026
+
+**[adivinhe](https://github.com/VictorMartinsD/adivinhe)** · `feat: add centered author footer` · [`4abca35`](https://github.com/VictorMartinsD/adivinhe/commit/4abca359aece16a6c1863b3c3b1779382f2559a8) · 22/11/2026
+
+**[adivinhe](https://github.com/VictorMartinsD/adivinhe)** · `feat: add keyboard accessibility to restart modal` · [`cec4d71`](https://github.com/VictorMartinsD/adivinhe/commit/cec4d716fa87a76ac2a3905b4cf20d25a3532f45) · 21/11/2026
+
+**[adivinhe](https://github.com/VictorMartinsD/adivinhe)** · `feat: enhance themed restart confirmation modal` · [`67a8a87`](https://github.com/VictorMartinsD/adivinhe/commit/67a8a87b21e7d5ec73260a76f98a1d480b1a2386) · 21/11/2026
+
 **[web](https://github.com/VictorMartinsD/web)** · `Merge branch 'main' of https://github.com/VictorMartinsD/web` · [`00dc7b0`](https://github.com/VictorMartinsD/web/commit/00dc7b073a7f5d2b5a103679d4938df12f2a9b93) · 20/11/2026
 
 **[web](https://github.com/VictorMartinsD/web)** · `feat(refund): implement role-based conditional routing in main Routes…` · [`83908e2`](https://github.com/VictorMartinsD/web/commit/83908e2cdc3dd107d242474bf1f4a2dfd94f5a3b) · 20/11/2026
-
-**[web](https://github.com/VictorMartinsD/web)** · `feat(refund): implement role-based conditional routing in main Routes…` · [`9848b8c`](https://github.com/VictorMartinsD/web/commit/9848b8cf02fb054b62addbb96519375d7093f5cf) · 20/11/2026
-
-**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `docs: update insomnia collection configuration with upload and pagina…` · [`a420a29`](https://github.com/VictorMartinsD/refund-api/commit/a420a291f12aa6dd969700a5db7f36e33d05a152) · 11/11/2026
-
-**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: configure static file serving for uploads folder in app entry p…` · [`75a9492`](https://github.com/VictorMartinsD/refund-api/commit/75a94921a887f4d894496d53cb659ea819a1177e) · 10/11/2026
-
-**[refund-api](https://github.com/VictorMartinsD/refund-api)** · `feat: implement disk storage provider and file upload persistence wit…` · [`b5c4bdb`](https://github.com/VictorMartinsD/refund-api/commit/b5c4bdbdc3002ae12ca558f6c30177fe4540709d) · 10/11/2026
 
 <!--END_SECTION:recent-activity-->
 
