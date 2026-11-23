@@ -702,12 +702,14 @@ GPT                      106 lines           ███░░░░░░░░�
 </div>
 
 <!-- START_SECTION:starred -->
+
 - [**codecrafters-io/build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) — Master programming by recreating your favorite technologies from scratch.  
   `Markdown` • ⭐ 564.8k
 - [**heygen-com/hyperframes**](https://github.com/heygen-com/hyperframes) — Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.  
   `TypeScript` • ⭐ 88.4k
-- [**vercel/ai**](https://github.com/vercel/ai) — The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents   
+- [**vercel/ai**](https://github.com/vercel/ai) — The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents  
   `TypeScript` • ⭐ 28.1k
+
 <!-- END_SECTION:starred -->
 
 <hr />
