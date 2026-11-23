@@ -87,7 +87,8 @@ const victor = {
   à produtividade e automação`,
 
   global_skills: {
-    idioma: "Inglês (B1 - Intermediário geral: leitura, escrita, fala e escuta)",
+    idioma:
+      "Inglês (B1 - Intermediário geral: leitura, escrita, fala e escuta)",
     competencias: [
       "React e componentização de interfaces",
       "JavaScript ES6+ e TypeScript",
