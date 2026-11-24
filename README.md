@@ -632,6 +632,8 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `chore: ignore sqlite journal files` · [`d0bbadc`](https://github.com/VictorMartinsD/refund-fullstack/commit/d0bbadc1911d42ec15332860b4d043d98cd7e956) · 23/11/2026
+
 **[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `docs: add root README, gitignore and license` · [`3adc825`](https://github.com/VictorMartinsD/refund-fullstack/commit/3adc82548ee948649d72c336433baa70fecb1a54) · 23/11/2026
 
 **[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `chore: import api history` · [`3fbf537`](https://github.com/VictorMartinsD/refund-fullstack/commit/3fbf537eccee5a9ad0d05fd8ef755cce43450e8e) · 23/11/2026
@@ -641,8 +643,6 @@ const victor = {
 **[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `docs: add product specification` · [`59b0b6e`](https://github.com/VictorMartinsD/api-restaurant/commit/59b0b6ee9c124dca9ecdd15e7b5947ca0b2a7c64) · 23/11/2026
 
 **[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `docs: add bilingual technical study notes` · [`acd7220`](https://github.com/VictorMartinsD/api-restaurant/commit/acd7220dc9b2f2dc50469e8da694dcf0bd5957de) · 22/11/2026
-
-**[adivinhe](https://github.com/VictorMartinsD/adivinhe)** · `feat: add centered author footer` · [`4abca35`](https://github.com/VictorMartinsD/adivinhe/commit/4abca359aece16a6c1863b3c3b1779382f2559a8) · 22/11/2026
 
 <!--END_SECTION:recent-activity-->
 
