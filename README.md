@@ -632,11 +632,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(refund): authenticate user with sessions endpoint and handle api…` · [`687f298`](https://github.com/VictorMartinsD/refund-fullstack/commit/687f29881fefea9faf6ce7d06d85a04c2232697a) · 24/11/2026
+
 **[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(refund): validate sign-in form with zod and display error messag…` · [`bdda6d8`](https://github.com/VictorMartinsD/refund-fullstack/commit/bdda6d8230c15ef6044bbebb5a5f451f07d3aca8) · 24/11/2026
 
 **[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(refund): manage sign-in form state and pending status with useAc…` · [`581e5be`](https://github.com/VictorMartinsD/refund-fullstack/commit/581e5bea375e5c0e4a984f75621d474e25889b53) · 24/11/2026
-
-**[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(refund): refactor sign-in form to use action and formData` · [`5d47bed`](https://github.com/VictorMartinsD/refund-fullstack/commit/5d47bedc305e77a3dfdf66405d918cd8e371c607) · 24/11/2026
 
 **[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `docs: finalize API project README` · [`3b59bfa`](https://github.com/VictorMartinsD/api-restaurant/commit/3b59bfadea047384986336a62cd75d96cba655fd) · 23/11/2026
 
