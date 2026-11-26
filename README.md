@@ -632,11 +632,11 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(refund): attach auth bearer token to api client and submit refun…` · [`568da6c`](https://github.com/VictorMartinsD/refund-fullstack/commit/568da6c3919614d37322ab19d5fe579966fa750d) · 25/11/2026
+
 **[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(refund): add zod validation schema and amount parsing to refund …` · [`e065aa9`](https://github.com/VictorMartinsD/refund-fullstack/commit/e065aa9ecf4cf0426ce56bb0e9656c17275093f5) · 25/11/2026
 
 **[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(refund): implement user sign-out and display authenticated user …` · [`a3b60d0`](https://github.com/VictorMartinsD/refund-fullstack/commit/a3b60d0eb462fa2f348285d5af3b3932ba1bf488) · 25/11/2026
-
-**[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(refund): load persisted session from local storage and handle ro…` · [`2742c70`](https://github.com/VictorMartinsD/refund-fullstack/commit/2742c70a9ac04727e256c08208682d24b0940455) · 25/11/2026
 
 **[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `docs: finalize API project README` · [`3b59bfa`](https://github.com/VictorMartinsD/api-restaurant/commit/3b59bfadea047384986336a62cd75d96cba655fd) · 23/11/2026
 
