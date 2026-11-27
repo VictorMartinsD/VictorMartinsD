@@ -632,6 +632,8 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[adivinhe](https://github.com/VictorMartinsD/adivinhe)** · `style(button): update background, border, and text colors` · [`0db16b5`](https://github.com/VictorMartinsD/adivinhe/commit/0db16b55fbc693d091602f605a8d787496b84cba) · 26/11/2026
+
 **[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(web): configure API URL by environment` · [`f9af70f`](https://github.com/VictorMartinsD/refund-fullstack/commit/f9af70f90987a21ee84201518883f934691313b8) · 26/11/2026
 
 **[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(refund): fetch refund details by id and display receipt link` · [`2cb74c4`](https://github.com/VictorMartinsD/refund-fullstack/commit/2cb74c454a6e3192473b341f5444eee421308c00) · 26/11/2026
@@ -641,8 +643,6 @@ const victor = {
 **[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `docs: finalize API project README` · [`3b59bfa`](https://github.com/VictorMartinsD/api-restaurant/commit/3b59bfadea047384986336a62cd75d96cba655fd) · 23/11/2026
 
 **[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `docs: add product specification` · [`59b0b6e`](https://github.com/VictorMartinsD/api-restaurant/commit/59b0b6ee9c124dca9ecdd15e7b5947ca0b2a7c64) · 23/11/2026
-
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `docs: add bilingual technical study notes` · [`acd7220`](https://github.com/VictorMartinsD/api-restaurant/commit/acd7220dc9b2f2dc50469e8da694dcf0bd5957de) · 22/11/2026
 
 <!--END_SECTION:recent-activity-->
 
