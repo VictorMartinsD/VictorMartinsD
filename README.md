@@ -632,17 +632,17 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[helpdesk-fullstack](https://github.com/VictorMartinsD/helpdesk-fullstack)** · `docs: add initial project README` · [`8f76777`](https://github.com/VictorMartinsD/helpdesk-fullstack/commit/8f7677767b109c08f4f59527b17bd2861aba9061) · 27/11/2026
+
+**[helpdesk-fullstack](https://github.com/VictorMartinsD/helpdesk-fullstack)** · `chore: initialize helpdesk fullstack project structure` · [`cbca91c`](https://github.com/VictorMartinsD/helpdesk-fullstack/commit/cbca91c40f0791c5f5abd7e12f2f4d731f57b412) · 27/11/2026
+
+**[task-management-api](https://github.com/VictorMartinsD/task-management-api)** · `docs: add initial README with project overview and development status` · [`a55d57c`](https://github.com/VictorMartinsD/task-management-api/commit/a55d57cf70b78cb34d59ac53acd2554ff737e0c1) · 27/11/2026
+
+**[task-management-api](https://github.com/VictorMartinsD/task-management-api)** · `chore: initialize task-management-api project structure and configura…` · [`8900c5f`](https://github.com/VictorMartinsD/task-management-api/commit/8900c5fb22e9f2965d10584e0d0cf1f73030f50c) · 27/11/2026
+
+**[adivinhe](https://github.com/VictorMartinsD/adivinhe)** · `feat: shake feedback when user makes a wrong guess` · [`8d8b166`](https://github.com/VictorMartinsD/adivinhe/commit/8d8b1664ddb72a3a8e6050ee44fbb66b160991a4) · 27/11/2026
+
 **[adivinhe](https://github.com/VictorMartinsD/adivinhe)** · `style(button): update background, border, and text colors` · [`0db16b5`](https://github.com/VictorMartinsD/adivinhe/commit/0db16b55fbc693d091602f605a8d787496b84cba) · 26/11/2026
-
-**[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(web): configure API URL by environment` · [`f9af70f`](https://github.com/VictorMartinsD/refund-fullstack/commit/f9af70f90987a21ee84201518883f934691313b8) · 26/11/2026
-
-**[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(refund): fetch refund details by id and display receipt link` · [`2cb74c4`](https://github.com/VictorMartinsD/refund-fullstack/commit/2cb74c454a6e3192473b341f5444eee421308c00) · 26/11/2026
-
-**[refund-fullstack](https://github.com/VictorMartinsD/refund-fullstack)** · `feat(refund): refetch refunds when pagination page changes` · [`06a0fa4`](https://github.com/VictorMartinsD/refund-fullstack/commit/06a0fa495d92d1be60db8a98193b8f643efa81f5) · 26/11/2026
-
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `docs: finalize API project README` · [`3b59bfa`](https://github.com/VictorMartinsD/api-restaurant/commit/3b59bfadea047384986336a62cd75d96cba655fd) · 23/11/2026
-
-**[api-restaurant](https://github.com/VictorMartinsD/api-restaurant)** · `docs: add product specification` · [`59b0b6e`](https://github.com/VictorMartinsD/api-restaurant/commit/59b0b6ee9c124dca9ecdd15e7b5947ca0b2a7c64) · 23/11/2026
 
 <!--END_SECTION:recent-activity-->
 
