@@ -632,6 +632,10 @@ const victor = {
 
 <!--START_SECTION:recent-activity-->
 
+**[template-base-fullstack](https://github.com/VictorMartinsD/template-base-fullstack)** · `docs: add fullstack template README` · [`c744047`](https://github.com/VictorMartinsD/template-base-fullstack/commit/c74404783d6580902c4185327b2bfdd14e62c9f3) · 28/11/2026
+
+**[template-base-fullstack](https://github.com/VictorMartinsD/template-base-fullstack)** · `chore: scaffold fullstack project template` · [`fa71e56`](https://github.com/VictorMartinsD/template-base-fullstack/commit/fa71e56ae3500c66ebda70e71e4e253f724786c1) · 28/11/2026
+
 **[helpdesk-fullstack](https://github.com/VictorMartinsD/helpdesk-fullstack)** · `docs: add initial project README` · [`8f76777`](https://github.com/VictorMartinsD/helpdesk-fullstack/commit/8f7677767b109c08f4f59527b17bd2861aba9061) · 27/11/2026
 
 **[helpdesk-fullstack](https://github.com/VictorMartinsD/helpdesk-fullstack)** · `chore: initialize helpdesk fullstack project structure` · [`cbca91c`](https://github.com/VictorMartinsD/helpdesk-fullstack/commit/cbca91c40f0791c5f5abd7e12f2f4d731f57b412) · 27/11/2026
@@ -639,10 +643,6 @@ const victor = {
 **[task-management-api](https://github.com/VictorMartinsD/task-management-api)** · `docs: add initial README with project overview and development status` · [`a55d57c`](https://github.com/VictorMartinsD/task-management-api/commit/a55d57cf70b78cb34d59ac53acd2554ff737e0c1) · 27/11/2026
 
 **[task-management-api](https://github.com/VictorMartinsD/task-management-api)** · `chore: initialize task-management-api project structure and configura…` · [`8900c5f`](https://github.com/VictorMartinsD/task-management-api/commit/8900c5fb22e9f2965d10584e0d0cf1f73030f50c) · 27/11/2026
-
-**[adivinhe](https://github.com/VictorMartinsD/adivinhe)** · `feat: shake feedback when user makes a wrong guess` · [`8d8b166`](https://github.com/VictorMartinsD/adivinhe/commit/8d8b1664ddb72a3a8e6050ee44fbb66b160991a4) · 27/11/2026
-
-**[adivinhe](https://github.com/VictorMartinsD/adivinhe)** · `style(button): update background, border, and text colors` · [`0db16b5`](https://github.com/VictorMartinsD/adivinhe/commit/0db16b55fbc693d091602f605a8d787496b84cba) · 26/11/2026
 
 <!--END_SECTION:recent-activity-->
 
